@@ -21,9 +21,16 @@ start-dfs.cmd ( http://localhost:9870 ) </br>
 jps </br>
 start-yarn.cmd ( http://localhost:8088/cluster ) </br>
 
-
+Importovanje SestrinskiGradovi.csv u hadoop 
+```
+hdfs dfs -put SestrinskiGradovi.csv /user/branislav.brnjos
+```
 
 CMD komande za pokretanje map reduce algoritama:
+```
+chmod +x /Users/branislavbrnjos/Desktop/BigData/mapper.py
+chmode +x /Users/branislavbrnjos/Desktop.BigData/reducer/py
+```
 ```
 hadoop jar /Users/branislavbrnjos/hadoop-3.3.6/share/hadoop/tools/lib/hadoop-streaming-3.3.6.jar \                              
 -file /Users/branislavbrnjos/Desktop/BigData/mapper.py -mapper /Users/branislavbrnjos/Desktop/BigData/mapper.py \
@@ -31,6 +38,8 @@ hadoop jar /Users/branislavbrnjos/hadoop-3.3.6/share/hadoop/tools/lib/hadoop-str
 -input hdfs:///user/branislav.brnjos/SestrinskiGradovi.csv \
 -output hdfs:///user/branislav.brnjos/grana.csv
 ```
+
+
 ![Screenshot_3](https://github.com/Jxis/BigData/assets/24139683/f4abddad-ffd8-4349-a781-9747a9b20b17)
 
 ![Screenshot_4](https://github.com/Jxis/BigData/assets/24139683/74e90e7c-6607-4189-b77f-47d33e127a87)

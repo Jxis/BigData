@@ -1,0 +1,5675 @@
+id,countryId,name,country
+1963,1049,Khartoum,Sudan
+85,79,Cairo,Egypt
+406,43,Istanbul,Turkey
+2044,38,Florence,Italy
+612,878,Dubai,United Arab Emirates
+656,159,Saint Petersburg,Russia
+2028,38,Verona,Italy
+900,159,Kazan,Russia
+1960,924,Dar es Salaam,Tanzania
+1055,183,Hamburg,Germany
+1903,38,Catania,Italy
+1289,142,Grenoble,France
+1345,30,Philadelphia,United States of America
+1891,38,Bologna,Italy
+1435,224,Zagreb,Croatia
+1524,41,Athens,Greece
+1726,183,Munich,Germany
+1731,183,Dresden,Germany
+1773,211,Riga,Latvia
+1781,28,Budapest,Hungary
+1899,212,Kyiv,Ukraine
+1930,16,Ottawa,Canada
+1953,399,Yerevan,Armenia
+2079,183,Leipzig,Germany
+2844,155,Brasília,Brazil
+2865,183,Kassel,Germany
+3130,408,Sydney,Australia
+3519,38,Bari,Italy
+3604,977,Djibouti,Djibouti
+3616,794,Tehran,Iran
+3624,115,Addis Ababa,Ethiopia
+3640,43,Ankara,Turkey
+3642,986,Asmara,Eritrea
+3766,858,Damascus,Syria
+3805,810,Amman,Jordan
+3922,183,Detmold,Germany
+4656,224,Pula,Croatia
+4970,148,Hangzhou,People's Republic of China
+5753,265,Samarkand,Uzbekistan
+5776,810,Bethlehem,Jordan
+6225,145,Coventry,United Kingdom
+7342,36,O[wicim,Poland
+7786,252,Pekanbaru,Indonesia
+8356,29,Valladolid,Spain
+8818,29,Valencia,Spain
+11746,148,Wuhan,People's Republic of China
+13386,38,Lecce,Italy
+16556,30,Phoenix,United States of America
+16666,148,Nanjing,People's Republic of China
+17151,41,Thessaloniki,Greece
+18383,30,Providence,United States of America
+19689,222,Tirana,Albania
+23436,145,Edinburgh,United Kingdom
+24861,30,Albany,United States of America
+25409,214,Koaice,Slovakia
+25475,230,Batumi,Georgia
+31487,36,Kraków,Poland
+34217,145,Oxford,United Kingdom
+34404,30,New Orleans,United States of America
+34600,17,Kyoto,Japan
+34647,258,Johannesburg,South Africa
+34713,40,Salzburg,Austria
+35178,817,Kuwait City,Kuwait
+36947,155,Salvador,Brazil
+38022,30,St. Louis,United States of America
+38511,33,Turku,Finland
+41876,142,Reims,France
+42053,794,Isfahan,Iran
+42087,884,Namwon,South Korea
+42308,212,Kharkiv,Ukraine
+42780,148,Ningbo,People's Republic of China
+42807,142,Nîmes,France
+43301,30,Fresno,United States of America
+44059,414,La Plata,Argentina
+45798,17,Gifu,Japan
+51103,739,Cali,Colombia
+52662,38,San Fele,Italy
+61102,1016,Zintan,Libya
+79857,43,Konya,Turkey
+80985,1028,Fez,Morocco
+81137,213,Olomouc,Czech Republic
+81338,38,Pollica,Italy
+93338,43,Gaziantep,Turkey
+8684,884,Seoul,South Korea
+60,30,New York City,United States of America
+61,30,"Washington D.C.",United States of America
+62,30,San Francisco,United States of America
+8673,1033,Lagos,Nigeria
+7903,1028,Casablanca,Morocco
+90,142,Paris,France
+174,155,São Paulo,Brazil
+220,38,Rome,Italy
+239,31,City of Brussels,Belgium
+270,36,Warsaw,Poland
+340,16,Montreal,Canada
+8646,148,Hong Kong,People's Republic of China
+613,878,Emirate of Dubai,United Arab Emirates
+649,159,Moscow,Russia
+956,148,Beijing,People's Republic of China
+987,668,New Delhi,India
+994,230,Tbilisi,Georgia
+8621,38,Terni,Italy
+1085,213,Prague,Czech Republic
+1297,30,Chicago,United States of America
+1353,668,Delhi,India
+1355,668,Bangalore,India
+1479,142,Bordeaux,France
+1486,414,Buenos Aires,Argentina
+1489,96,Mexico City,Mexico
+1490,17,Tokyo,Japan
+1492,29,Barcelona,Spain
+1520,232,Astana,Kazakhstan
+1858,881,Hanoi,Vietnam
+1861,869,Bangkok,Thailand
+1865,833,Kuala Lumpur,Malaysia
+1867,865,Taipei,Taiwan
+2090,183,Nuremberg,Germany
+2841,739,Bogotá,Colombia
+3630,252,Jakarta,Indonesia
+3718,1041,Dakar,Senegal
+3889,1029,Maputo,Mozambique
+7880,142,Toulouse,France
+8678,155,Rio de Janeiro,Brazil
+8686,148,Shanghai,People's Republic of China
+7436,159,Gatchina,Russia
+14893,183,Ettlingen,Germany
+16520,884,Busan,South Korea
+16635,30,Guam,United States of America
+18094,30,Honolulu,United States of America
+19660,218,Bucharest,Romania
+7039,183,Lahr/Schwarzwald,Germany
+22517,142,Erstein,France
+23430,711,Ulaanbaatar,Mongolia
+23556,30,Atlanta,United States of America
+26600,17,Fukuoka,Japan
+34227,16,Belleville,Canada
+37104,800,Alajuela,Costa Rica
+39178,754,Port of Spain,Trinidad and Tobago
+40816,1016,Benghazi,Libya
+43595,962,Cotonou,Benin
+46325,948,Sfax,Tunisia
+47034,33,Espoo,Finland
+48320,17,KMbe,Japan
+66485,668,Jaipur,India
+105060,36,Sosnowiec,Poland
+131818,262,Oran,Algeria
+162615,29,Cartagena,Spain
+184184,1025,Nouadhibou,Mauritania
+187812,28,Dunaújváros,Hungary
+193445,43,Artvin,Turkey
+205586,142,Dole,France
+208889,142,Saint-Ouen-sur-Seine,France
+309164,801,Ra'anana,Israel
+374365,851,Jeddah,Saudi Arabia
+487704,30,Honolulu County,United States of America
+509568,34,Enköping Municipality,Sweden
+637555,766,Montego Bay,Jamaica
+929667,30,Lexington,United States of America
+1018723,145,Coatbridge,United Kingdom
+84,145,London,United Kingdom
+65,30,Los Angeles,United States of America
+64,183,Berlin,Germany
+72,39,Zürich,Switzerland
+585,20,Oslo,Norway
+597,45,Lisbon,Portugal
+959,159,Vladivostok,Russia
+1156,668,Mumbai,India
+1218,801,Jerusalem,Israel
+1461,928,Manila,Philippines
+1491,750,La Paz,Bolivia
+1508,928,Makati,Philippines
+1515,1008,Abidjan,Ivory Coast
+1533,717,Caracas,Venezuela
+1663,224,Split,Croatia
+1707,183,Kiel,Germany
+70,39,Bern,Switzerland
+1741,40,Vienna,Austria
+1844,347,Vaduz,Liechtenstein
+1854,881,Ho Chi Minh City,Vietnam
+2634,38,Naples,Italy
+2807,29,Madrid,Spain
+3561,262,Algiers,Algeria
+3820,822,Beirut,Lebanon
+3881,953,Lusaka,Zambia
+5465,258,Cape Town,South Africa
+6509,219,Burgas,Bulgaria
+9899,55,Amsterdam,Netherlands
+11751,17,Nagoya,Japan
+13437,38,Benevento,Italy
+16572,148,Guangzhou,People's Republic of China
+18125,145,Manchester,United Kingdom
+20103,38,Assisi,Italy
+23564,236,Podgorica,Montenegro
+24639,16,Vancouver,Canada
+33935,801,Tel Aviv,Israel
+33986,298,Valparaíso,Chile
+34820,786,Santo Domingo,Dominican Republic
+35765,17,Osaka,Japan
+36647,27,Cork,Republic of Ireland
+37100,664,Auckland,New Zealand
+41621,801,Haifa,Israel
+72134,38,Ischia,Italy
+81788,79,Giza,Egypt
+101625,1028,Marrakesh,Morocco
+124739,96,Tijuana,Mexico
+134762,801,Eilat,Israel
+171639,801,Ashdod,Israel
+188673,218,Târgovite,Romania
+270482,38,Alassio,Italy
+478258,38,Caltagirone,Italy
+752460,96,Los Mochis,Mexico
+894327,34,Borås Municipality,Sweden
+172,16,Toronto,Canada
+216,37,Vilnius,Lithuania
+437,215,Ljubljana,Slovenia
+490,38,Milan,Italy
+580,36,Aódz,Poland
+891,159,Nizhny Novgorod,Russia
+1335,77,Montevideo,Uruguay
+1563,241,Havana,Cuba
+1729,183,Erfurt,Germany
+1761,27,Dublin,Republic of Ireland
+1764,189,Reykjavík,Iceland
+1770,191,Tallinn,Estonia
+1780,214,Bratislava,Slovakia
+1792,36,GdaDsk,Poland
+1799,36,WrocBaw,Poland
+1829,159,Kaliningrad,Russia
+2100,183,Duisburg,Germany
+2280,184,Minsk,Belarus
+2656,38,Palermo,Italy
+2868,419,Lima,Peru
+2887,298,Santiago,Chile
+2933,733,Asunción,Paraguay
+3703,912,Bamako,Mali
+3856,229,Nicosia,Cyprus
+3897,916,Luanda,Angola
+5818,29,Córdoba,Spain
+6259,38,Pavia,Italy
+6346,30,Indianapolis,United States of America
+6576,159,Irkutsk,Russia
+6602,142,Strasbourg,France
+8652,30,Miami,United States of America
+9361,813,Bishkek,Kyrgyzstan
+11725,148,Chongqing,People's Republic of China
+14314,29,Santiago de Compostela,Spain
+14773,148,Macau,People's Republic of China
+21197,217,Chiinu,Moldova
+23800,233,Valletta,Malta
+25410,35,Aalborg,Denmark
+25444,45,Funchal,Portugal
+472,219,Sofia,Bulgaria
+87,79,Alexandria,Egypt
+727,55,Amsterdam,Netherlands
+914,159,Volgograd,Russia
+1022,183,Stuttgart,Germany
+1362,843,Islamabad,Pakistan
+1476,142,Le Mans,France
+1530,796,Baghdad,Iraq
+1794,183,Frankfurt am Main,Germany
+1850,424,Phnom Penh,Cambodia
+1874,212,Odesa,Ukraine
+2900,736,Quito,Ecuador
+3551,1028,Rabat,Morocco
+5092,30,Baltimore,United States of America
+5468,258,Durban,South Africa
+5826,148,Xi'an,People's Republic of China
+8660,843,Karachi,Pakistan
+9248,227,Baku,Azerbaijan
+11194,225,Sarajevo,Bosnia and Herzegovina
+16555,30,Houston,United States of America
+37320,30,Cleveland,United States of America
+3935,1030,Windhoek,Namibia
+3992,31,Liège,Belgium
+365,183,Cologne,Germany
+495,38,Turin,Italy
+4093,145,Glasgow,United Kingdom
+648,142,Lille,France
+4024,183,Frankfurt (Oder),Germany
+715,183,Heilbronn,Germany
+908,159,Rostov-on-Don,Russia
+975,30,San Antonio,United States of America
+4686,224,Slavonski Brod,Croatia
+1012,215,Celje,Slovenia
+1017,183,Aachen,Germany
+1021,215,Kranj,Slovenia
+1296,31,Ghent,Belgium
+1309,55,Maastricht,Netherlands
+3958,183,Neubrandenburg,Germany
+1895,159,Petrozavodsk,Russia
+2145,16,Quebec City,Canada
+3138,183,Trier,Germany
+3940,1042,Victoria,Seychelles
+3798,183,Flensburg,Germany
+3844,971,Brazzaville,Republic of the Congo
+3919,963,Gaborone,Botswana
+3921,954,Harare,Zimbabwe
+4178,183,Wetzlar,Germany
+5420,224,Vara~din,Croatia
+3939,183,Dinslaken,Germany
+6625,142,Agen,France
+5112,408,Adelaide,Australia
+8692,29,Bilbao,Spain
+9311,38,Collegno,Italy
+9799,55,Heerlen,Netherlands
+4051,183,Friedrichshafen,Germany
+11739,843,Lahore,Pakistan
+12052,183,Delitzsch,Germany
+13298,40,Graz,Austria
+13318,38,Imperia,Italy
+4133,183,Nordhorn,Germany
+13396,38,Rieti,Italy
+4045,878,Fujairah,United Arab Emirates
+14317,29,Oviedo,Spain
+14960,213,Brno,Czech Republic
+15760,159,Novorossiysk,Russia
+4044,183,Offenburg,Germany
+15976,183,Altenburg,Germany
+24879,183,Bremen,Germany
+43421,30,Richmond,United States of America
+57906,148,Yangzhou,People's Republic of China
+62868,36,Koszalin,Poland
+127623,33,Vantaa,Finland
+128466,142,Villejuif,France
+132830,1009,Douala,Cameroon
+166997,142,Nevers,France
+189823,148,Haikou,People's Republic of China
+381560,954,Kadoma,Zimbabwe
+430776,801,Nazareth,Israel
+484018,35,Gladsaxe Municipality,Denmark
+505529,183,Trossingen,Germany
+100,30,Boston,United States of America
+1519,878,Abu Dhabi,United Arab Emirates
+1449,38,Genoa,Italy
+1555,774,Guatemala City,Guatemala
+1754,34,Stockholm,Sweden
+1863,228,Andorra la Vella,Andorra
+3110,792,San Salvador,El Salvador
+3306,804,Panama City,Panama
+3861,846,Doha,Qatar
+9022,96,Guadalajara,Mexico
+11736,148,Tianjin,People's Republic of China
+14440,298,Iquique,Chile
+15682,29,Cádiz,Spain
+23482,142,Marseille,France
+26563,35,Roskilde,Denmark
+26590,96,Ciudad Juárez,Mexico
+6397,142,Avignon,France
+541,38,Orvieto,Italy
+6231,38,Cremona,Italy
+919,159,Krasnoyarsk,Russia
+6252,38,Monza,Italy
+1310,55,Arnhem,Netherlands
+6157,33,Seinäjoki,Finland
+2235,159,Veliky Novgorod,Russia
+6221,38,Brescia,Italy
+2704,38,Pescara,Italy
+6088,38,Alessandria,Italy
+2746,159,Ryazan,Russia
+2973,183,Darmstadt,Germany
+6046,38,Novara,Italy
+3104,183,Koblenz,Germany
+3617,224,Karlovac,Croatia
+3711,403,Belgrade,Serbia
+6226,145,St Albans,United Kingdom
+3852,183,Worms,Germany
+4126,183,Schweinfurt,Germany
+5168,159,Makhachkala,Russia
+5489,142,Troyes,France
+5687,219060,Jericho,State of Palestine
+8385,213,Ostrava,Czech Republic
+6122,38,Asti,Italy
+8848,142,Valence,France
+13142,38,Fano,Italy
+14325,29,Logroño,Spain
+15174,148,Shenzhen,People's Republic of China
+16069,183,Biberach an der Riss,Germany
+23148,145,Cornwall,United Kingdom
+25331,35,Odense,Denmark
+34116,16,Thunder Bay,Canada
+34692,766,Kingston,Jamaica
+41185,142,Caen,France
+42716,142,Saint-Étienne,France
+5968,38,Cuneo,Italy
+44244,414,Santa Fe,Argentina
+52535,414,Rosario,Argentina
+59300,38,Servigliano,Italy
+141881,16,Granby,Canada
+152385,801,Ma'alot-Tarshiha,Israel
+154888,213,Lidice,Czech Republic
+165090,142,Chambéry,France
+168648,28,Sopron,Hungary
+170247,148,Jinan,People's Republic of China
+170322,148,Qingdao,People's Republic of China
+170996,218,Galai,Romania
+171223,28,Nyíregyháza,Hungary
+171357,28,Kecskemét,Hungary
+173474,219,Veliko Tarnovo,Bulgaria
+174091,148,Changsha,People's Republic of China
+174665,218,Alba Iulia,Romania
+6285,38,Varese,Italy
+180139,213,Hradec Králové,Czech Republic
+181946,142,Argenteuil,France
+182625,16,Windsor,Canada
+186254,219,Haskovo,Bulgaria
+201723,148,Jiangjin District,People's Republic of China
+203645,142,Chalon-sur-Saône,France
+208669,155,Maringá,Brazil
+209034,96,Toluca,Mexico
+239078,142,Romans-sur-Isère,France
+262684,183,Füssen,Germany
+271000,1008,Bouaké,Ivory Coast
+6009,33,Kauhava,Finland
+297010,189,Ölfus,Iceland
+311539,183,Fürstenberg/Havel,Germany
+353618,29,Adeje,Spain
+360326,148,Tongling,People's Republic of China
+466221,902,Sylhet,Bangladesh
+478232,38,Biancavilla,Italy
+486696,20,Rygge,Norway
+486704,20,Jevnaker,Norway
+502644,35,Lemvig Municipality,Denmark
+505057,34,Vimmerby Municipality,Sweden
+512002,34,Hultsfred Municipality,Sweden
+515318,34,Nybro Municipality,Sweden
+605513,408,Parkes,Australia
+610558,148,Rudong County,People's Republic of China
+774508,148,"Jianyang Sichuan",People's Republic of China
+6172,33,Ähtäri,Finland
+948462,34,Lycksele Municipality,Sweden
+1016933,30,Coventry,United States of America
+1020595,30,Coventry,United States of America
+1023900,148,Dujiangyan City,People's Republic of China
+16010,32,Esch-sur-Alzette,Luxembourg
+16012,32,Differdange,Luxembourg
+1132,183,Ahlen,Germany
+15928,215,Velenje,Slovenia
+15883,215,Kamnik,Slovenia
+2760,183,Ennigerloh,Germany
+2790,38,Udine,Italy
+15899,215,Murska Sobota,Slovenia
+3004,183,Ingolstadt,Germany
+3042,183,Offenbach am Main,Germany
+15877,215,Izola,Slovenia
+3786,183,Esslingen am Neckar,Germany
+15906,215,Ptuj,Slovenia
+15868,215,Gornja Radgona,Slovenia
+7059,183,Bruchsal,Germany
+15471,29,Sant Adrià de Besòs,Spain
+16022,183,Barsinghausen,Germany
+10784,183,Wurzen,Germany
+15916,215,Se~ana,Slovenia
+13279,224,Rab,Croatia
+15876,215,Ilirska Bistrica,Slovenia
+16934,38,Duino-Aurisina,Italy
+26849,142,Vienne,France
+34370,55,Rotterdam,Netherlands
+36989,213,Pardubice,Czech Republic
+45412,45,Coimbra,Portugal
+15926,215,Trebnje,Slovenia
+46722,38,Castelnuovo del Garda,Italy
+47513,38,Sant'Ambrogio di Valpolicella,Italy
+51855,38,Turi,Italy
+15855,215,Bovec,Slovenia
+53376,38,Tarcento,Italy
+15890,215,Lendava,Slovenia
+60037,28,Zalaegerszeg,Hungary
+67159,39,Kerns,Switzerland
+73831,38,Fiuminata,Italy
+94978,38,Tolentino,Italy
+15984,183,Leer,Germany
+104712,36,Elblg,Poland
+117312,38,Sant'Ambrogio sul Garigliano,Italy
+156704,212,Kovel,Ukraine
+157061,221,Gevgelija,North Macedonia
+158004,36,Piotrków Trybunalski,Poland
+158089,183,Treptow-Köpenick,Germany
+165958,183,Andechs,Germany
+179034,31,Waterloo,Belgium
+15917,215,Slovenska Bistrica,Slovenia
+182025,43,Aksaray,Turkey
+15918,215,Slovenj Gradec,Slovenia
+188082,213,eský Krumlov,Czech Republic
+189236,38,Velletri,Italy
+189419,403,Zemun,Serbia
+208110,214,Banská `tiavnica,Slovakia
+208200,236,Berane,Montenegro
+213288,142,Montbrison,France
+223353,224,Opatija,Croatia
+234743,142,Puteaux,France
+235739,142,Saint-Chamond,France
+237674,31,Saint-Gilles - Sint-Gillis,Belgium
+251325,40,Vöcklabruck,Austria
+255888,183,Hauzenberg,Germany
+262669,183,Burghausen,Germany
+265647,145,Trowbridge,United Kingdom
+277965,40,Mödling,Austria
+279642,17,MyMkM,Japan
+318535,142,Longwy,France
+15930,215,Zagorje ob Savi,Slovenia
+397600,224,Omia,Croatia
+504580,45,Chaves,Portugal
+516262,183,Kemnath,Germany
+604516,28,Szentgotthárd,Hungary
+656494,142,Saint-Cyr-sur-Loire,France
+668324,29,San Adrián,Spain
+15639,29,Sant Feliu de Llobregat,Spain
+669715,142,Villeneuve-le-Roi,France
+675834,40,Trofaiach,Austria
+688974,40,Seiersberg,Austria
+755681,28,Várpalota,Hungary
+854965,28,Lenti,Hungary
+15858,215,Bre~ice,Slovenia
+1019360,213,DobYany,Czech Republic
+1094308,28,Budapest District I,Hungary
+1223508,221,Ohrid,North Macedonia
+2680952,55,Rotterdam,Netherlands
+56425793,229,Morfou,Cyprus
+3070,800,San José,Costa Rica
+3012,183,Ulm,Germany
+34261,790,Port-au-Prince,Haiti
+34427,142,Saint-Dié-des-Vosges,France
+36433,45,Porto,Portugal
+40898,142,Nancy,France
+4301,924,Arusha,Tanzania
+41819,30,Kansas City,United States of America
+43453,213,PlzeH,Czech Republic
+45779,28,Pécs,Hungary
+46849,183,Reichenbach im Vogtland,Germany
+49229,30,Durham,United States of America
+50195,38,Imola,Italy
+58780,31,Hasselt,Belgium
+60453,55,Coevorden,Netherlands
+61092,833,Georgetown,Malaysia
+68481,148,Fuzhou,People's Republic of China
+4113,183,Pulheim,Germany
+69284,142,Guidel,France
+72778,148,Taiyuan,People's Republic of China
+74881,148,Dalian,People's Republic of China
+79820,30,Yuma,United States of America
+79990,664,Christchurch,New Zealand
+81581,28,Szeged,Hungary
+82765,36,Olsztyn,Poland
+82842,38,Scandicci,Italy
+102217,184,Vitebsk,Belarus
+104731,36,Gorzów Wielkopolski,Poland
+114257,222,Elbasan,Albania
+126148,1028,Tangier,Morocco
+4011,183,Wesel,Germany
+127063,43,Kars,Turkey
+146820,36,Malbork,Poland
+147402,96,Zapopan,Mexico
+156711,212,Uzhhorod,Ukraine
+158119,219060,Ramallah,State of Palestine
+187593,974,Lubumbashi,Democratic Republic of the Congo
+189502,219,Vratsa,Bulgaria
+200709,36,SBubice,Poland
+200797,184,Polatsk,Belarus
+4108,183,Bad Salzuflen,Germany
+203278,142,Millau,France
+203529,142,Lons-le-Saunier,France
+209801,17,Himeji,Japan
+213501,142,Villefranche-de-Rouergue,France
+216479,38,Barga,Italy
+233129,30,Peoria,United States of America
+271152,38,Pietra Ligure,Italy
+273779,1041,Saint-Louis,Senegal
+318018,36,SBubice County,Poland
+319397,36,Ktrzyn,Poland
+337394,224,abar,Croatia
+485329,29,Ferrol,Spain
+486985,183,Salzwedel,Germany
+492868,40,Mürzzuschlag,Austria
+495802,17,Hekinan,Japan
+527391,145,Bridlington,United Kingdom
+574146,183,Luckenwalde,Germany
+653446,17,Tsuchiura,Japan
+755559,30,Hagerstown,United States of America
+845991,142,Montivilliers,France
+875641,40,Weiz,Austria
+2670398,801,Tzoran-Kadima,Israel
+3476,38,LAquila,Italy
+2751,38,Siena,Italy
+3437,38,Perugia,Italy
+3806,183,Tübingen,Germany
+5083,30,Seattle,United States of America
+13464,38,Foggia,Italy
+13670,38,Syracuse,Italy
+18400,38,Alatri,Italy
+47465,142,Aix-en-Provence,France
+79808,218,Constana,Romania
+184587,30,Grand Rapids,United States of America
+271395,30,Scranton,United States of America
+3932,1039,São Tomé,São Tomé and Príncipe
+3882,398,Manama,Bahrain
+761,36,BiaBystok,Poland
+3876,1020,Lilongwe,Malawi
+3904,1050,Mbabane,Eswatini
+3909,1013,Maseru,Lesotho
+3572,948,Tunis,Tunisia
+3761,117,Accra,Ghana
+3825,1000,Libreville,Gabon
+3859,1037,Kigali,Rwanda
+3894,1036,Kampala,Uganda
+5426,159,Izhevsk,Russia
+5540,159,Penza,Russia
+5831,29,Melilla,Spain
+3929,1027,Port Louis,Mauritius
+16258,77,Maldonado,Uruguay
+16461,16,Nanaimo,Canada
+134635,17,Saitama,Japan
+1131258,30,Bernville,United States of America
+4115712,37,Kaunas,Lithuania
+12829733,155,Belém,Brazil
+121157,794,Mashhad,Iran
+121378,41,Corfu,Greece
+157032,221,Prilep,North Macedonia
+167394,403,Kragujevac,Serbia
+168652,34754,Hargeisa,Somaliland
+174684,225,Tuzla,Bosnia and Herzegovina
+178663,1028,Meknes,Morocco
+185125,17,Hamamatsu,Japan
+1906,38,Caserta,Italy
+187938,218,Piteti,Romania
+198222,148,Zhuji,People's Republic of China
+205832,41,Corfu,Greece
+272243,31,Saint-Josse-ten-Noode,Belgium
+504215,419,Ayacucho,Peru
+844130,17,Nagahama,Japan
+1425428,145,Newcastle upon Tyne,United Kingdom
+2071681,213,Prague 8,Czech Republic
+3252409,41,Ancient Olympia Municipality,Greece
+4418748,1028,Sidi Bennour,Morocco
+116341,222,Korçë,Albania
+35997,43,0zmir,Turkey
+44237,414,Mendoza,Argentina
+54739,38,Serra San Bruno,Italy
+54898,29,San Cristóbal de La Laguna,Spain
+81033,96,Monterrey,Mexico
+100188,218,Cluj-Napoca,Romania
+159273,419,Arequipa,Peru
+181966,17,Naha,Japan
+200459,45,Póvoa de Varzim,Portugal
+206933,45,Leiria,Portugal
+209779,17,Sagamihara,Japan
+360268,148,Huaibei,People's Republic of China
+386991,96,Torreón,Mexico
+425410,45,Góis,Portugal
+433574,155,Alta Floresta,Brazil
+468557,30,Miami-Dade County,United States of America
+816115,45,Belmonte,Portugal
+2201876,733,Presidente Franco District,Paraguay
+66568,668,Kanpur,India
+88,30,Alexandria,United States of America
+123709,145,Dundee,United Kingdom
+175459,227,Yevlakh,Azerbaijan
+180918,229,Paphos,Cyprus
+192926,219,Kazanlak,Bulgaria
+199500,399,Gyumri,Armenia
+220445,833,Kuching,Malaysia
+487648,34,Helsingborg Municipality,Sweden
+7473516,17,Tokyo,Japan
+28870916,229,Limassol Municipality,Cyprus
+1342,30,Pittsburgh,United States of America
+4803,252,Surakarta,Indonesia
+993149,1030,Otjiwarongo,Namibia
+1002490,30,New Bern,United States of America
+3505448,30,Coventry,United States of America
+44915571,191,Audru Rural Municipality,Estonia
+34932,408,Brisbane,Australia
+41211,30,San Juan,United States of America
+61306,96,Guanajuato City,Mexico
+1495025,189,Garður,Iceland
+1649698,29,Alaquàs,Spain
+2991314,219,Veliko Tarnovo Municipality,Bulgaria
+2766547,55,'s-Hertogenbosch,Netherlands
+3370,224,Zadar,Croatia
+3114,408,Canberra,Australia
+47037646,664,Wellington City,New Zealand
+653895,29,Corvera de Asturias,Spain
+694833,155,Gramado,Brazil
+1055925,142,Mont-Saint-Aignan,France
+3141,408,Melbourne,Australia
+617,38,Padua,Italy
+3376,38,Trento,Italy
+3415,38,Ancona,Italy
+1711,183,Potsdam,Germany
+3214,183,Cottbus,Germany
+1724,183,Saarbrücken,Germany
+2765,183,Gelsenkirchen,Germany
+3490,159,Lipetsk,Russia
+3955,183,Weimar,Germany
+3994,183,Kempten,Germany
+6624,38,Ascoli Piceno,Italy
+6716,38,Grosseto,Italy
+9310,252,Dili,Indonesia
+10313,29,Donostia / San Sebastián,Spain
+13138,38,Chieti,Italy
+13360,38,Reggio Emilia,Italy
+16003,183,Fürstenfeldbruck,Germany
+16552,30,San Diego,United States of America
+16558,30,Fort Worth,United States of America
+20934,884,Incheon,South Korea
+22690,142,Metz,France
+3183,408,Perth,Australia
+30002,148,Chengdu,People's Republic of China
+44206,414,Resistencia,Argentina
+62823,739,Barranquilla,Colombia
+72259,145,Portsmouth,United Kingdom
+104720,36,Zielona Góra,Poland
+130212,28,Székesfehérvár,Hungary
+133123,41,Patras,Greece
+144983,214,Banská Bystrica,Slovakia
+145948,20,Svolvær,Norway
+158095,183,Charlottenburg-Wilmersdorf,Germany
+161967,36,SBawno,Poland
+165972,30,Fort Lauderdale,United States of America
+169134,17,Nara,Japan
+170497,145,Gloucester,United Kingdom
+175632,145,Nuneaton,United Kingdom
+185114,219,Targovishte,Bulgaria
+193370,142,Montreuil,France
+206895,43,Hakkâri,Turkey
+214956,213,Znojmo,Czech Republic
+540312,17,Nagaoka,Japan
+696074,419,Juliaca,Peru
+749196,27,Castlebar,Republic of Ireland
+920466,145,Nuneaton and Bedworth,United Kingdom
+973974,213,Prague 1,Czech Republic
+1026270,419,Paita,Peru
+2448188,96,Huatusco,Mexico
+2596325,215,Ribnica,Slovenia
+1647,224,Rijeka,Croatia
+1640,224,Osijek,Croatia
+807,39,Lausanne,Switzerland
+1010,215,Maribor,Slovenia
+2861,183,Rostock,Germany
+2948,183,Neuss,Germany
+3046,183,Pforzheim,Germany
+3238,783,Tegucigalpa,Honduras
+3274,811,Managua,Nicaragua
+1538,668,Pune,India
+6537,38,Vicenza,Italy
+8471,38,Reggio Calabria,Italy
+8745,29,Vigo,Spain
+8972,96,San Cristóbal Ecatepec,Mexico
+11974,29,Las Palmas de Gran Canaria,Spain
+14328,29,Santa Cruz de Tenerife,Spain
+16553,30,San Jose,United States of America
+23438,874,Ashgabat,Turkmenistan
+26087,20,Tromsø Municipality,Norway
+26397,214,Nitra,Slovakia
+47837,1028,Laayoune,Morocco
+5713,874,Mary,Turkmenistan
+456,142,Lyon,France
+459,219,Plovdiv,Bulgaria
+894,159,Samara,Russia
+3014,183,Wolfsburg,Germany
+3579,1016,Tripoli,Libya
+5266,215,Novo Mesto,Slovenia
+4158,183,Langenhagen,Germany
+4361,155,Curitiba,Brazil
+5475,38,Treviso,Italy
+5764,265,Bukhara,Uzbekistan
+5779,252,Banda Aceh,Indonesia
+6487,43,Antalya,Turkey
+6548,142,Orléans,France
+5316,224,Rovinj,Croatia
+7010,183,Leonberg,Germany
+11874,214,Zvolen,Slovakia
+12191,142,Nantes,France
+12892,31,Antwerp,Belgium
+13134,38,Pesaro,Italy
+13375,38,Pisa,Italy
+20921,884,Daejeon,South Korea
+26175,214,Trnava,Slovakia
+34615,38,Adria,Italy
+44239,414,Neuquén,Argentina
+46852,218,Iai,Romania
+47554,36,ToruD,Poland
+52097,38,San Giovanni Valdarno,Italy
+83404,218,Timioara,Romania
+92297,148,Siping,People's Republic of China
+105317,38,Niardo,Italy
+117676,45,Viseu,Portugal
+162677,159,Murom,Russia
+167109,28,Eger,Hungary
+171617,155,Campinas,Brazil
+171632,717,Maracaibo,Venezuela
+172455,142,Boulogne-Billancourt,France
+174461,668,Ranchi,India
+182059,117,Kumasi,Ghana
+5640,224,Koprivnica,Croatia
+184998,28,Kaposvár,Hungary
+187805,30,Spokane,United States of America
+5276,183,Altena,Germany
+188313,145,Blackburn,United Kingdom
+190118,142,La Roche-sur-Yon,France
+192606,403,Leskovac,Serbia
+233909,142,Alfortville,France
+717049,142,Pontault-Combault,France
+958153,96,Dolores Hidalgo Municipality,Mexico
+5582862,419,Cuzco,Peru
+29042,189,Akureyri,Iceland
+1763,159,Murmansk,Russia
+27168,35,Randers,Denmark
+28911,33,Lahti,Finland
+34550,34,Västerås Municipality,Sweden
+62266,20,Ålesund Municipality,Norway
+103725,189,Hafnarfjörður,Iceland
+128069,30,Syracuse,United States of America
+132936,17,Okayama Prefecture,Japan
+135410,159,Domodedovo,Russia
+152436,801,Kfar Saba,Israel
+170287,403,Subotica,Serbia
+173121,96,Santiago de Querétaro,Mexico
+179585,218,Ploieti,Romania
+193190,229,Famagusta,Cyprus
+200061,403,Prizren,Serbia
+203263,30,Athens,United States of America
+217720,43,Çe_me,Turkey
+432397,223,Narsaq,Greenland
+485581,45,Aveiro,Portugal
+512901,30,Fairbanks North Star Borough,United States of America
+676724,1027,Vacoas-Phoenix,Mauritius
+851023,28,Budapest District XIII,Hungary
+3787,1033,Abuja,Nigeria
+3037,837,Kathmandu,Nepal
+3001,730,Paramaribo,Suriname
+13372,38,Carrara,Italy
+13674,38,Ragusa,Italy
+2999,183,Würzburg,Germany
+14891,183,Suhl,Germany
+15695,29,Salamanca,Spain
+16559,30,Austin,United States of America
+18808,423,Pyongyang,North Korea
+27860,252,Jayapura,Indonesia
+34028,155,Diamantina,Brazil
+49218,30,Rochester,United States of America
+53077,96,Saltillo,Mexico
+110218,924,Mwanza,Tanzania
+125293,96,Puebla City,Mexico
+130514,79,Luxor,Egypt
+170616,17,Chiba,Japan
+171224,30,Eugene,United States of America
+177861,30,Faribault,United States of America
+178531,219,Vidin,Bulgaria
+186935,792,Ahuachapán,El Salvador
+200078,17,Okayama,Japan
+202907,17,Ltsu,Japan
+209905,43,Akhisar,Turkey
+213324,17,Matsumoto,Japan
+214173,419,Trujillo,Peru
+274584,783,San Pedro Sula,Honduras
+320950,213,Trutnov,Czech Republic
+333928,717,Maracay,Venezuela
+334577,774,Quetzaltenango,Guatemala
+394701,148,Chaoyang District,People's Republic of China
+5836,29,Toledo,Spain
+8851,29,Málaga,Spain
+13362,38,Ferrara,Italy
+16567,30,Columbus,United States of America
+38453,30,Columbia,United States of America
+170967,43,Denizli,Turkey
+384,221,Skopje,North Macedonia
+23551,717,Mérida,Venezuela
+7024,39,Lugano,Switzerland
+13495,38,Trani,Italy
+14323,29,Mérida,Spain
+15684,29,Segovia,Spain
+33959,142,Nice,France
+34804,30,Albuquerque,United States of America
+120730,17,Kyoto Prefecture,Japan
+131429,96,Oaxaca de Juárez,Mexico
+133073,664,Dunedin,New Zealand
+165204,96,Mérida,Mexico
+192888,219,Smolyan,Bulgaria
+193103,236,Herceg Novi,Montenegro
+193250,954,Bulawayo,Zimbabwe
+199723,43,Bal1kesir,Turkey
+5398,183,Zülpich,Germany
+202562,142,Blaye,France
+204150,184,Pinsk,Belarus
+204434,225,Biha,Bosnia and Herzegovina
+205942,43,Yalova,Turkey
+209329,403,Vraac,Serbia
+216853,38,Camaiore,Italy
+217768,142,Péronne,France
+219671,953,Ndola,Zambia
+225641,114,Mombasa,Kenya
+300856,35,Aalborg Municipality,Denmark
+312759,262,Biskra,Algeria
+24231,35,Nakskov,Denmark
+391626,37,`ilut,Lithuania
+488314,183,Alsfeld,Germany
+488975,20,Lærdal,Norway
+490453,183,Eckernförde,Germany
+491540,30,Sarasota,United States of America
+556471,41,Ilion,Greece
+600871,55,Overbetuwe,Netherlands
+774015,145,Leeds,United Kingdom
+835012,29,Vilafranca del Penedès,Spain
+931778,30,Calipatria,United States of America
+956943,142,Le Port,France
+983747,155,Santa Bárbara d'Oeste,Brazil
+240,31,Brussels-Capital Region,Belgium
+269,265,Tashkent,Uzbekistan
+393,36,Szczecin,Poland
+8717,29,Seville,Spain
+8826,29,Palma,Spain
+10389,252,Bandung,Indonesia
+10690,145,Cardiff,United Kingdom
+3549,224,`ibenik,Croatia
+13140,38,San Benedetto del Tronto,Italy
+13146,38,Civitanova Marche,Italy
+3543,38,Potenza,Italy
+13329,38,Piacenza,Italy
+15098,29,Cuenca,Spain
+16554,30,Denver,United States of America
+40191,408,Hobart,Australia
+40738,43,Bursa,Turkey
+47772,414,Bariloche,Argentina
+51923,38,Celle di San Vito,Italy
+51935,38,Monte Sant'Angelo,Italy
+51951,38,San Giovanni Rotondo,Italy
+52279,38,Bernalda,Italy
+52607,414,Mar del Plata,Argentina
+58890,38,Sant'Angelo d'Alife,Italy
+82070,822,Tyre,Lebanon
+82960,183,Rottweil,Germany
+83285,222,Durrës,Albania
+131127,225,Banja Luka,Bosnia and Herzegovina
+174002,142,Colombes,France
+178835,822,Baalbek,Lebanon
+179833,227,Sumgait,Azerbaijan
+187205,218,Bistria,Romania
+226,223,Nuuk,Greenland
+334,334,Singapore,Singapore
+1410,1410,Gibraltar,Gibraltar
+1718,183,Düsseldorf,Germany
+1748,35,Copenhagen,Denmark
+1757,33,Helsinki,Finland
+350,145,Cambridge,United Kingdom
+2966,183,Heidelberg,Germany
+4197,183,Cuxhaven,Germany
+5196,159,Grozny,Russia
+9365,863,Dushanbe,Tajikistan
+13377,38,Prato,Italy
+16087,183,Zeitz,Germany
+41262,145,Nottingham,United Kingdom
+41474,757,Kingstown,Saint Vincent and the Grenadines
+43196,30,Cincinnati,United States of America
+53889,38,Lago,Italy
+163108,142,Saint-Malo,France
+3928,183,Norderstedt,Germany
+201391,191,Kohtla-Järve,Estonia
+208793,142,Saint-Omer,France
+244692,55,Zwijndrecht,Netherlands
+329609,183,Lichtenberg,Germany
+498540,183,Perleberg,Germany
+676672,142,Maromme,France
+683512,33,Savonlinna,Finland
+764425,145,Oadby and Wigston,United Kingdom
+203000,145,Perth,United Kingdom
+285,142,Cognac,France
+201613,17,Maebashi,Japan
+201051,801,Rishon LeZion,Israel
+201442,403,Kruaevac,Serbia
+203380,664,Napier,New Zealand
+2132,16,Victoria,Canada
+2214,159,Pskov,Russia
+202158,33,Hämeenlinna,Finland
+2288,159,Tver,Russia
+2742,183,Münster,Germany
+200718,668,Bikaner,India
+201722,41,Veroia,Greece
+3159,159,Kursk,Russia
+3933,183,Celle,Germany
+3942,183,Aschaffenburg,Germany
+200133,41,Chalkida,Greece
+4086,183,Menden (Sauerland),Germany
+202188,43,Ardahan,Turkey
+200908,41,Rethymno,Greece
+7947,159,Pushkin,Russia
+13137,38,Teramo,Italy
+202776,1041,Ziguinchor,Senegal
+13369,38,Rimini,Italy
+13373,38,Lucca,Italy
+13376,38,Pistoia,Italy
+13972,191,Tartu,Estonia
+201186,36,Biskupiec,Poland
+16109,183,Bramsche,Germany
+26119,214,Preaov,Slovakia
+26807,30,Prince George's County,United States of America
+30096,35,Frederiksberg,Denmark
+36036,212,Lviv,Ukraine
+37333,36,Lublin,Poland
+41252,36,Bydgoszcz,Poland
+57076,20,Bærum,Norway
+57756,148,Lianyungang,People's Republic of China
+59091,34,Uppsala Municipality,Sweden
+59473,403,U~ice,Serbia
+79867,30,Birmingham,United States of America
+79880,28,Debrecen,Hungary
+588,36,Katowice,Poland
+546,38,Trieste,Italy
+641,38,Venice,Italy
+749,55,Groningen,Netherlands
+898,159,Omsk,Russia
+1194,183,Schleswig-Holstein,Germany
+2630,159,Ivanovo,Russia
+2795,183,Chemnitz,Germany
+5972,252,Medan,Indonesia
+10704,4628,Tórshavn,Faroe Islands
+11720,148,Shenyang,People's Republic of China
+12225,29,Murcia,Spain
+13649,38,Nuoro,Italy
+40840,33,Tampere,Finland
+42810,142,Le Havre,France
+43070,212,Donetsk,Ukraine
+43788,30,Madison,United States of America
+48278,739,Medellín,Colombia
+79848,145,Southampton,United Kingdom
+79875,30,Mobile,United States of America
+81882,155,Santos,Brazil
+102397,28,Miskolc,Hungary
+156080,213,Opava,Czech Republic
+11910,668,Gandhinagar,India
+1015,215,Koper,Slovenia
+1341,159,Tolyatti,Russia
+1709,183,Schwerin,Germany
+11959,29,Alicante,Spain
+3646,159,Krasnodar,Russia
+13320,38,Savona,Italy
+3865,183,Villingen-Schwenningen,Germany
+3874,183,Giessen,Germany
+12303,29,Jerez de la Frontera,Spain
+7003,142,Dijon,France
+7038,29,Girona,Spain
+7525,159,Sevastopol,Russia
+12994,31,Bruges,Belgium
+9580,29,Burgos,Spain
+12258,29,Sabadell,Spain
+14805,183,Kaufbeuren,Germany
+15090,29,Lleida,Spain
+13153,29,Ronda,Spain
+12292,29,Vila-real,Spain
+15553,29,Vilanova i la Geltrú,Spain
+16562,30,El Paso,United States of America
+23051,145,Swansea,United Kingdom
+25797,214,}ilina,Slovakia
+40958,38,Broni,Italy
+42007,28,Szombathely,Hungary
+42635,148,Wenzhou,People's Republic of China
+48292,142,Arles,France
+52074,38,Castiglion Fiorentino,Italy
+53190,38,Sacile,Italy
+54264,30,Newport,United States of America
+55137,38,Venticano,Italy
+55630,403,Novi Sad,Serbia
+55973,38,San Nicola Manfredi,Italy
+80021,211,Daugavpils,Latvia
+115382,241,Bayamo,Cuba
+11977,36,Tychy,Poland
+116592,38,Cassino,Italy
+119284,183,Marzahn-Hellersdorf,Germany
+120399,38,Carloforte,Italy
+128086,38,Formia,Italy
+131638,222,Shkodër,Albania
+132790,142,Biarritz,France
+152491,801,Herzliya,Israel
+157246,221,Bitola,North Macedonia
+168057,218,Craiova,Romania
+168668,219,Dobrich,Bulgaria
+171612,155,Rio Branco,Brazil
+193802,1028,Oujda,Morocco
+12618,29,Olot,Spain
+199697,142,Thuir,France
+202316,155,Foz do Iguaçu,Brazil
+208151,811,León,Nicaragua
+11994,29,Miranda de Ebro,Spain
+208538,142,Vierzon,France
+216978,224,Sinj,Croatia
+223427,38,Amatrice,Italy
+237655,184,Baranavichy,Belarus
+238205,142,Voiron,France
+241767,29,Plasencia,Spain
+270090,241,San Nicolás de Bari,Cuba
+277478,38,Colletorto,Italy
+331556,1045,Bosaso,Somalia
+502264,214,Humenné,Slovakia
+506250,34,Stockholm Municipality,Sweden
+586018,29,Osuna,Spain
+26234,35,Esbjerg,Denmark
+802,36,Nowy Scz,Poland
+25804,20,Trondheim,Norway
+26881,35,Helsingør,Denmark
+26793,20,Bergen,Norway
+2843,183,Lübeck,Germany
+26421,55,Dordrecht,Netherlands
+3050,183,Recklinghausen,Germany
+3097,183,Remscheid,Germany
+6506,219,Varna,Bulgaria
+26155,822,Jounieh,Lebanon
+16333,38,Casale Monferrato,Italy
+16506,213,eské Budjovice,Czech Republic
+21146,35,Odense Municipality,Denmark
+25319,35,Aarhus,Denmark
+25416,20,Stavanger Municipality,Norway
+26432,55,Zoetermeer,Netherlands
+29245,145,Hastings,United Kingdom
+33962,38,Sanremo,Italy
+39985,38,Brugherio,Italy
+42097,884,Gyeongju,South Korea
+42622,148,Suzhou,People's Republic of China
+48194,213,Frýdek-Místek,Czech Republic
+48256,212,Dnipro,Ukraine
+51432,36,Gniezno,Poland
+52502,34,Gothenburg Municipality,Sweden
+62140,20,Harstad Municipality,Norway
+92161,148,Changchun,People's Republic of China
+102317,36,Kielce,Poland
+103892,36,Zabrze,Poland
+26569,822,Zahlé,Lebanon
+104560,159,Balakovo,Russia
+106583,36,Bielsko-BiaBa,Poland
+125080,33,Vaasa,Finland
+132572,217,Tiraspol,Moldova
+134620,33,Jyväskylä,Finland
+26393,214,Poprad,Slovakia
+144786,36,Zakopane,Poland
+146317,28,Veszprém,Hungary
+146356,213,Chomutov,Czech Republic
+146456,212,Mukachevo,Ukraine
+156752,212,Sumy,Ukraine
+567755,41,Naousa,Greece
+683525,33,Varkaus,Finland
+776965,37,Klaipda,Lithuania
+840806,211,Smiltene,Latvia
+463,142,Rhône-Alpes,France
+887,159,Yekaterinburg,Russia
+1042,1042,Seychelles,Seychelles
+1842,32,Luxembourg,Luxembourg
+82174,218,Braov,Romania
+94788,38,Castenaso,Italy
+128077,30,Essex County,United States of America
+202973,16,Kingston,Canada
+141924,16,Boucherville,Canada
+152406,801,Kiryat Gat,Israel
+175742,159,Odintsovo,Russia
+200166,16,Kitchener,Canada
+202852,215,Bled,Slovenia
+185541,38,Bressanone-Brixen,Italy
+192758,218,Râmnicu Vâlcea,Romania
+193313,142,Saint-Maur-des-Fossés,France
+198419,159,Elektrostal,Russia
+200805,96,Aguascalientes City,Mexico
+204271,96,San Luis Potosí,Mexico
+204561,30,Modesto,United States of America
+207801,225,Bijeljina,Bosnia and Herzegovina
+203040,29,El Puerto de Santa María,Spain
+210087,41,Ermoupolis,Greece
+212546,230,Akhaltsikhe,Georgia
+218861,115,Gondar,Ethiopia
+203197,854,Kandy,Sri Lanka
+237847,668,Solapur,India
+327413,801,Kiryat Shmona,Israel
+390413,17,Tomakomai,Japan
+393593,229,Agia Napa,Cyprus
+426130,148,Mianyang,People's Republic of China
+427559,30,Coral Gables,United States of America
+574558,55,Heerenveen,Netherlands
+660687,40,Velden am Wörther See,Austria
+668370,229,Strovolos,Cyprus
+671272,29,Calp,Spain
+675965,142,Rognac,France
+816845,96,Irapuato,Mexico
+201095,43,Giresun,Turkey
+823955,17,Sagae,Japan
+842934,28,Püspökladány,Hungary
+849619,30,Lynwood,United States of America
+202453,403,Novi Pazar,Serbia
+857056,43,Pendik,Turkey
+1061677,55,Heerenveen,Netherlands
+1141799,96,Texcoco de Mora,Mexico
+1356850,1028,La Güera,Morocco
+1442470,29,Santoña,Spain
+1855330,408,City of Perth,Australia
+2428683,16,Perth,Canada
+2256,145,Birmingham,United Kingdom
+2141,16,Halifax,Canada
+2135,16,Winnipeg,Canada
+2471,805,Sanaa,Yemen
+1715,183,Hanover,Germany
+2061,16,Yellowknife,Canada
+6610,159,Yakutsk,Russia
+10305,29,Zaragoza,Spain
+12995,31,Kortrijk,Belgium
+13917,142,Île-de-France,France
+26837,252,Sorong,Indonesia
+279,38,Modena,Italy
+28848,30,Saint Paul,United States of America
+33342,212,Bila Tserkva,Ukraine
+35493,232,Almaty,Kazakhstan
+36600,55,The Hague,Netherlands
+41329,40,Linz,Austria
+42956,148,Harbin,People's Republic of China
+44254,414,Ushuaia,Argentina
+49111,30,Cambridge,United States of America
+52533,38,Bella,Italy
+58976,41,Piraeus,Greece
+75091,148,Benxi,People's Republic of China
+109010,34,Solna Municipality,Sweden
+170532,43,Amasya,Turkey
+186237,33,Joensuu,Finland
+192387,155,Londrina,Brazil
+208162,668,Patiala,India
+492575,34,Huddinge Municipality,Sweden
+493826,35,Lyngby-Taarbæk Municipality,Denmark
+19583,230,Gori,Georgia
+1142,142,Alsace,France
+19300,38,Molfetta,Italy
+4077,183,Görlitz,Germany
+7550,212,Lutsk,Ukraine
+8131,252,Palembang,Indonesia
+9279,921,Bandar Seri Begawan,Brunei
+9832,55,Eindhoven,Netherlands
+11462,252,Surabaya,Indonesia
+12543,142,Hauts-de-Seine,France
+16557,30,Dallas,United States of America
+37701,258,Bloemfontein,South Africa
+38283,17,Yokohama,Japan
+42462,145,York,United Kingdom
+52028,869,Chiang Mai,Thailand
+61089,833,Malacca,Malaysia
+92561,16,London,Canada
+112813,96,Durango,Mexico
+154835,184,Mahiliom,Belarus
+598,36,Rzeszów,Poland
+185332,218,Satu Mare,Romania
+192980,41,Lamia,Greece
+193289,419,Iquitos,Peru
+217394,45,Barreiro,Portugal
+297718,34,Örebro Municipality,Sweden
+487999,30,Gainesville,United States of America
+571712,148,Fangchenggang,People's Republic of China
+822865,27,South Dublin,Republic of Ireland
+2467,778,Nassau,The Bahamas
+12439,30,Detroit,United States of America
+13664,38,Trapani,Italy
+2096,16,Edmonton,Canada
+2123,16,Regina,Canada
+2138,16,Fredericton,Canada
+20398,884,Gangnam District,South Korea
+23197,30,Nashville,United States of America
+26418,17,Hakodate,Japan
+2055,16,Whitehorse,Canada
+29445,30,Juneau,United States of America
+36091,30,Minneapolis,United States of America
+41843,801,Beersheba,Israel
+42131,884,Wonju,South Korea
+42144,884,Jinju,South Korea
+49225,30,Reno,United States of America
+49227,30,Winston-Salem,United States of America
+49231,30,Norfolk,United States of America
+61301,96,San Francisco de Campeche,Mexico
+79638,30,Fairbanks,United States of America
+81398,96,Acapulco,Mexico
+141844,16,Gatineau,Canada
+157835,212,Zaporizhzhia,Ukraine
+162279,33,Kuopio,Finland
+185134,262,Tlemcen,Algeria
+192508,55,Bergen op Zoom,Netherlands
+214178,219060,Nablus,State of Palestine
+231645,17,Setagaya-ku,Japan
+245023,865,Taichung,Taiwan
+503361,34,Malmö Municipality,Sweden
+596486,17,Fujioka,Japan
+2127,16,Charlottetown,Canada
+725311,17,Ashibetsu,Japan
+753752,43,Gemlik,Turkey
+844133,17,Ushiku,Japan
+914055,96,San Nicolás de los Garza,Mexico
+924849,801,Gan-Yavne,Israel
+342,142,Quimper,France
+13498,38,Taranto,Italy
+13364,38,Ravenna,Italy
+1722,224,Dubrovnik,Croatia
+13367,38,Forlì,Italy
+1897,38,Cagliari,Italy
+3949,183,Unna,Germany
+4072,183,Göppingen,Germany
+6829,183,Speyer,Germany
+13410,38,Latina,Italy
+12193,142,Brest,France
+13127,31,Sint-Niklaas,Belgium
+13661,38,Iglesias,Italy
+21101,35,Kolding Municipality,Denmark
+27119,35,Kolding,Denmark
+33682,881,Nam Ënh,Vietnam
+34001,142,Roubaix,France
+38380,142,Angers,France
+39420,159,Sochi,Russia
+44238,414,Posadas,Argentina
+50121,38,Pescasseroli,Italy
+13486,38,Andria,Italy
+51812,38,Alberobello,Italy
+52895,36,Ostrów Wielkopolski,Poland
+57970,148,Changzhou,People's Republic of China
+92212,36,Opole,Poland
+104725,36,PBock,Poland
+110732,36,WaBbrzych,Poland
+126084,801,Acre,Israel
+130272,142,Chartres,France
+130994,142,Colmar,France
+132404,142,Bourges,France
+158239,213,KromYí~,Czech Republic
+163852,189,Kópavogur,Iceland
+170507,142,Nanterre,France
+180131,219,Gabrovo,Bulgaria
+181376,184,Hrodna,Belarus
+182299,41,Chania,Greece
+189361,4628,Klaksvík,Faroe Islands
+190828,801,Petah Tikva,Israel
+193920,142,Rueil-Malmaison,France
+208445,30,Vallejo,United States of America
+211950,145,Dunfermline,United Kingdom
+243007,30,Naperville,United States of America
+244725,142,La Courneuve,France
+248251,403,Baki Petrovac,Serbia
+306789,34,Östersund Municipality,Sweden
+309355,403,Kikinda,Serbia
+330409,213,Ústí nad Orlicí,Czech Republic
+499410,34,Linköping Municipality,Sweden
+502434,183,Sangerhausen,Germany
+503144,34,Eskilstuna Municipality,Sweden
+504676,34,Norrköping Municipality,Sweden
+528432,1009,Bamenda,Cameroon
+581478,213,BYeclav,Czech Republic
+605113,408,Gosford,Australia
+724283,31,Essen,Belgium
+586,183,Bonn,Germany
+1118,31,Flemish Brabant,Belgium
+2683,38,Parma,Italy
+6106,30,Portland,United States of America
+9326,819,Vientiane,Laos
+12556,142,Indre-et-Loire,France
+1848,238,San Marino,San Marino
+16739,30,Long Beach,United States of America
+1800,668,Kochi,India
+41970,159,Pyatigorsk,Russia
+111942,38,San Leo,Italy
+122723,17,Osaka Prefecture,Japan
+123258,17,Fukuoka Prefecture,Japan
+128147,145,Kingston upon Hull,United Kingdom
+134121,31,Namur,Belgium
+160173,219,Ruse,Bulgaria
+171882,229,Larnaca,Cyprus
+182852,148,Kunming,People's Republic of China
+202088,145,London Borough of Camden,United Kingdom
+573599,183,Weilburg,Germany
+611444,819,Champasak,Laos
+690062,35,Rønne,Denmark
+10686,145,Belfast,United Kingdom
+1733,183,Magdeburg,Germany
+1735,40,Innsbruck,Austria
+9783,55,Roermond,Netherlands
+2758,183,Mönchengladbach,Germany
+9427,912,Timbuktu,Mali
+9920,55,Haarlem,Netherlands
+2916,183,Osnabrück,Germany
+3085,183,Reutlingen,Germany
+9347,826,Malé,Maldives
+9885,668,Coimbatore,India
+10509,29,Elche,Spain
+5123,29,Monzón,Spain
+10014,55,Kampen,Netherlands
+5573,183,Meinerzhagen,Germany
+6149,183,Soest,Germany
+10006,55,Hengelo,Netherlands
+14936,183,Emsdetten,Germany
+16959,148,Ürümqi,People's Republic of China
+10717,734,Georgetown,Guyana
+11043,183,Wiehl,Germany
+20070,183,Crimmitschau,Germany
+35381,854,Colombo,Sri Lanka
+40832,38,Vigevano,Italy
+41753,40,Klagenfurt,Austria
+49581,29,Jacaca,Spain
+50625,20,Hordaland,Norway
+51685,30,Tempe,United States of America
+10566,16,Saskatoon,Canada
+58401,148,Shijiazhuang,People's Republic of China
+68744,148,Xiamen,People's Republic of China
+9844,55,Helmond,Netherlands
+130469,889,Mazar-i-Sharif,Afghanistan
+131290,227,Ganja,Azerbaijan
+134279,212,Luhansk,Ukraine
+157725,212,Chernivtsi,Ukraine
+162022,31,Mechelen,Belgium
+167582,801,Yokneam Illit,Israel
+174734,145,Hay-on-Wye,United Kingdom
+259477,1028,El Argoub,Morocco
+272471,241,Matanzas,Cuba
+290504,419,Pisco,Peru
+331078,794,Amol,Iran
+373101,148,Rizhao,People's Republic of China
+385070,29,Borriana,Spain
+460925,214,Michalovce,Slovakia
+478518,41,Kallithea,Greece
+498048,1029,Pemba,Mozambique
+501090,29,Castro Urdiales,Spain
+505807,423,Sariwon,North Korea
+576671,30,Highland Park,United States of America
+596688,811,Matagalpa,Nicaragua
+605369,142,Notre-Dame-de-Bondeville,France
+676778,1028,Chefchaouen,Morocco
+696388,17,Toyooka,Japan
+864130,30,Placentia,United States of America
+973641,29,Ontinyent,Spain
+1000346,419,Moquegua,Peru
+157994,36,Tomaszów Mazowiecki,Poland
+165015,183,Wangen im Allgäu,Germany
+168888,155,Maceió,Brazil
+172438,145,Peterborough,United Kingdom
+173277,219,Blagoevgrad,Bulgaria
+173705,142,Grasse,France
+181276,28,Szolnok,Hungary
+188731,41,Rhodes,Greece
+13470,38,Barletta,Italy
+194037,31,Seraing,Belgium
+200030,858,Latakia,Syria
+207639,145,Chichester,United Kingdom
+244327,55,Gorinchem,Netherlands
+286554,37,Elektrnai,Lithuania
+321381,145,Abingdon-on-Thames,United Kingdom
+431798,38,Lucca Sicula,Italy
+488653,30,Albemarle County,United States of America
+518663,183,Schongau,Germany
+535531,155,Farroupilha,Brazil
+601166,30,Niles,United States of America
+622030,29,Palos de la Frontera,Spain
+699616,40,Ebensee,Austria
+746718,145,Birkenhead,United Kingdom
+803990,219060,Beit Sahour,State of Palestine
+851855,219,Troyan,Bulgaria
+288,142,Tours,France
+2759,38,Urbino,Italy
+2773,183,Brunswick,Germany
+2423,159,Yaroslavl,Russia
+2734,36,Skierniewice,Poland
+3750,183,Gera,Germany
+3808,1009,Yaoundé,Cameroon
+11953,29,Guadalajara,Spain
+15095,29,Albacete,Spain
+15674,17,Kagoshima,Japan
+22889,145,Bath,United Kingdom
+30340,148,Zhengzhou,People's Republic of China
+40435,30,Buffalo,United States of America
+43199,30,Omaha,United States of America
+44210,414,Córdoba,Argentina
+49240,30,Stockton,United States of America
+49571,29,Sos del Rey Católico,Spain
+54880,717,Valencia,Venezuela
+56071,38,Grottammare,Italy
+117040,241,Santiago de Cuba,Cuba
+2066,183,Essen,Germany
+2678,184,Gomel,Belarus
+29303,145,Canterbury,United Kingdom
+2684,159,Vladimir,Russia
+6441,142,Montpellier,France
+29888,79,Aswan,Egypt
+11592,30,Sonoma,United States of America
+20927,884,Daegu,South Korea
+39984,142,Cannes,France
+42078,884,Gimcheon,South Korea
+42448,145,Sheffield,United Kingdom
+29962,79,Asyut,Egypt
+48344,155,Recife,Brazil
+82646,38,Certaldo,Italy
+103732,34,Dalarna County,Sweden
+33532,29,Gandia,Spain
+165420,219,Pleven,Bulgaria
+30616,800,Heredia,Costa Rica
+169310,219060,Ariel,State of Palestine
+30620,800,Limón,Costa Rica
+171353,28,Esztergom,Hungary
+173219,31,Tournai,Belgium
+31572,810,Al-Karak,Jordan
+184154,142,Laval,France
+185582,30,Knoxville,United States of America
+190165,819,Luang Prabang,Laos
+190235,35,Horsens,Denmark
+200028,664,Hamilton,New Zealand
+201932,17,KMfu,Japan
+30617,800,Cartago,Costa Rica
+30687,800,Puntarenas,Costa Rica
+235746,17,Kesennuma,Japan
+244934,142,Bergues,France
+31565,810,Jerash,Jordan
+262472,218,Ortie,Romania
+383369,142,Wimereux,France
+487096,29,Reus,Spain
+511270,34,Mölndal Municipality,Sweden
+520000,27,Fingal,Republic of Ireland
+754670,4628,Vágur,Faroe Islands
+852684,30,Marietta,United States of America
+988916,30,Richfield,United States of America
+1659757,16,Gimli,Canada
+2933940,30,East Point,United States of America
+1352,668,Chennai,India
+3426,159,Voronezh,Russia
+3739,1007,Bissau,Guinea-Bissau
+11568,408,Darwin,Australia
+11943,39,Zürich,Switzerland
+15282,96,Nuevo León,Mexico
+17990,408,Milikapiti,Australia
+18970,252,Ambon,Indonesia
+26410,17,Yokkaichi,Japan
+34664,17,Hiroshima,Japan
+34739,30,Dayton,United States of America
+36312,16,Calgary,Canada
+39450,30,Anchorage,United States of America
+41572,212,Mykolaiv,Ukraine
+44759,414,Córdoba,Argentina
+50628,20,Sør-Trøndelag,Norway
+54182,30,Fitchburg,United States of America
+72818,881,Haiphong,Vietnam
+83065,145,Leicester,United Kingdom
+109386,423,Nampho,North Korea
+132410,258,Mpumalanga,South Africa
+171334,212,Zaporizhzhia Oblast,Ukraine
+172415,230,Kutaisi,Georgia
+178168,403,Mitrovica,Serbia
+11711,424,Siem Reap,Cambodia
+182872,142,Fontainebleau,France
+853785,217,Soroca,Moldova
+918195,30,Ocala,United States of America
+927122,30,South San Francisco,United States of America
+983473,29,Novelda,Spain
+1001307,36,Gogolin,Poland
+3751,1011,Praia,Cape Verde
+976,159,Tomsk,Russia
+3726,1005,Banjul,The Gambia
+3748,1014,Monrovia,Liberia
+2936,183,Oldenburg,Germany
+3688,1025,Nouakchott,Mauritania
+3733,1006,Conakry,Guinea
+3780,1044,Freetown,Sierra Leone
+12996,31,Ostend,Belgium
+25395,30,Newark,United States of America
+37801,217,Bli,Moldova
+37836,30,Milwaukee,United States of America
+132679,25279,Willemstad,Curaçao
+138648,142,Maubeuge,France
+203675,37,Ma~eikiai,Lithuania
+744247,211,Saldus,Latvia
+59095,148,Zhuhai,People's Republic of China
+104619,38,Gardone Riviera,Italy
+105256,38,Montichiari,Italy
+133069,142,Bourg-en-Bresse,France
+160927,142,Blois,France
+161595,36,MysBowice,Poland
+173699,45,Setúbal,Portugal
+180717,948,Sousse,Tunisia
+189546,948,Bizerte,Tunisia
+191460,142,Arcachon,France
+193808,142,Guingamp,France
+201516,30,Miami Beach,United States of America
+204709,55,Schiedam,Netherlands
+212561,218,Clrai,Romania
+257830,30,Naples,United States of America
+285089,38,Sestu,Italy
+309348,219060,Khan Yunis,State of Palestine
+334874,218,Sighetu Marmaiei,Romania
+466006,948,Tripoli,Tunisia
+483522,40,Villach,Austria
+487315,30,Monterey,United States of America
+506693,214,Levice,Slovakia
+580770,28,Budapest District III,Hungary
+748078,145,Neath Port Talbot County Borough,United Kingdom
+1330558,1019,Nosy Be,Madagascar
+1442359,739,Palermo,Colombia
+1743479,801,Kiryat Tiv'on,Israel
+915,159,Perm,Russia
+3926,258,Pretoria,South Africa
+203619,33,Kemi,Finland
+7030,183,Wismar,Germany
+7057,183,Lehrte,Germany
+34183,16,Barrie,Canada
+16017,183,Zweibrücken,Germany
+17686,38,Tortona,Italy
+22905,145,Bradford,United Kingdom
+24826,145,Liverpool,United Kingdom
+43631,55,Leiden,Netherlands
+47492,219060,Gaza City,State of Palestine
+57931,148,Taizhou,People's Republic of China
+152902,924,Tanga,Tanzania
+167807,219,Burgas Municipality,Bulgaria
+174237,236,Budva,Montenegro
+177019,34,Luleå Municipality,Sweden
+203476,668,Port Blair,India
+182565,869,Phuket,Thailand
+192904,213,HavíYov,Czech Republic
+202954,31,Verviers,Belgium
+207570,142,Thann,France
+34218,16,Burlington,Canada
+232635,17,Itabashi-ku,Japan
+249996,865,Keelung,Taiwan
+272040,214,Liptovský Mikuláa,Slovakia
+485708,30,Duluth,United States of America
+509634,34,Karlskoga Municipality,Sweden
+653364,17,Atami,Japan
+839805,30,Myrtle Beach,United States of America
+3659,657,N'Djamena,Chad
+23154,145,Bristol,United Kingdom
+1040,183,Karlsruhe,Germany
+3674,1032,Niamey,Niger
+6816,159,Ulan-Ude,Russia
+23311,145,City of London,United Kingdom
+3639,38,Verbania,Italy
+13521,29,Sant Feliu de Guíxols,Spain
+17042,30,Oakland,United States of America
+18575,30,Tucson,United States of America
+23253,38,Spinazzola,Italy
+27660,851,Jizan,Saudi Arabia
+37043,30,Tallahassee,United States of America
+38545,43,Adana,Turkey
+40811,230,Sukhumi,Georgia
+131694,805,Aden,Yemen
+132671,142,Pau,France
+134514,79,Suez,Egypt
+178582,40,Wels,Austria
+183584,148,Lanzhou,People's Republic of China
+268,36,PoznaD,Poland
+644,79,Sharm el-Sheikh,Egypt
+13678,38,Agrigento,Italy
+25282,881,Danang,Vietnam
+3792,945,Lomé,Togo
+13629,38,Sassari,Italy
+6596,38,Gorizia,Italy
+8810,29,Granada,Spain
+10393,252,Bogor,Indonesia
+13395,38,Viterbo,Italy
+15092,29,Castelló de la Plana,Spain
+14912,183,Saarlouis,Germany
+16106,183,Eisenhüttenstadt,Germany
+13625,38,Vibo Valentia,Italy
+15468,29,Badalona,Spain
+14649,29,Avilés,Spain
+49255,30,Tampa,United States of America
+51864,38,Erchie,Italy
+14956,183,Wesseling,Germany
+55905,142,Pontivy,France
+72288,38,Nola,Italy
+103011,41,Corinth,Greece
+108679,36,Ruda Zlska,Poland
+152027,142,Saint-Nazaire,France
+13666,38,Messina,Italy
+155863,159,Kronstadt,Russia
+163795,142,Valenciennes,France
+13934,29,Rubí,Spain
+201982,142,Clichy,France
+203403,16,Saint John,Canada
+205576,142,Châtellerault,France
+217039,145,Rotherham,United Kingdom
+230104,227,Nakhchivan,Azerbaijan
+233588,869,Chiang Mai,Thailand
+250984,40,Bad Ischl,Austria
+253119,183,Traunstein,Germany
+273863,17,Tsukuba,Japan
+370814,145,West Devon,United Kingdom
+468765,17,Ube,Japan
+485724,38,Corleone,Italy
+487988,30,St. Augustine,United States of America
+489267,38,Piana degli Albanesi,Italy
+505191,183,Leuna,Germany
+696694,17,Onomichi,Japan
+741765,29,San Fernando,Spain
+14453,189,Egilsstaðir,Iceland
+754664,4628,Runavík,Faroe Islands
+815903,36,Bochnia,Poland
+832340,403,Vrnjaka Banja,Serbia
+969578,4628,Runavík Municipality,Faroe Islands
+987434,29,Alcanar,Spain
+1007418,16,Cobourg,Canada
+1605505,29,Celanova,Spain
+1798671,96,Metepec,Mexico
+385,36,Gdynia,Poland
+1721,183,Wiesbaden,Germany
+2415,20,Kristiansand Municipality,Norway
+2706,183,Bremerhaven,Germany
+2938,183,Leverkusen,Germany
+3927,159,Astrakhan,Russia
+4098,183,Greifswald,Germany
+5660,159,Baltiysk,Russia
+18419,30,Brooklyn,United States of America
+43382,145,Plymouth,United Kingdom
+72425,38,Pozzuoli,Italy
+115117,224,Ploe,Croatia
+129259,403,Nia,Serbia
+147089,43,Manisa,Turkey
+158893,183,Friedrichshain-Kreuzberg,Germany
+167668,211,Liepja,Latvia
+171943,148,Nanchang,People's Republic of China
+182521,230,Rustavi,Georgia
+185289,219,Pernik,Bulgaria
+179406,145,Grimsby,United Kingdom
+190187,45,Sintra,Portugal
+211563,1029,Beira,Mozambique
+6454,142,Calais,France
+6616,142,Poitiers,France
+6681,38,Crotone,Italy
+2880,183,Hamm,Germany
+3869,183,Marburg,Germany
+5470,159,Cheboksary,Russia
+6761,38,Livorno,Italy
+12812,29,Tortosa,Spain
+15088,29,Tarragona,Spain
+19277,38,Cerignola,Italy
+6855,183,Lörrach,Germany
+20083,183,Meerane,Germany
+27007,214,Bardejov,Slovakia
+42140,884,Jeonju,South Korea
+49145,30,New Haven,United States of America
+50189,142,Annecy,France
+73639,222,Pogradec,Albania
+75150,148,Yingkou,People's Republic of China
+102762,159,Azov,Russia
+116706,38,Ceccano,Italy
+124925,38,Senigallia,Italy
+128499,159,Yalta,Russia
+128891,30,Lafayette,United States of America
+140147,184,Brest,Belarus
+7019,183,Albstadt,Germany
+170263,145,Chester,United Kingdom
+179224,145,Dover,United Kingdom
+179570,948,Kairouan,Tunisia
+181557,865,Kaohsiung,Taiwan
+183199,41,Ioannina,Greece
+184163,145,Colchester,United Kingdom
+185684,148,Hefei,People's Republic of China
+188478,218,Brila,Romania
+191126,142,Saintes,France
+192240,145,Northampton,United Kingdom
+192517,30,Boulder,United States of America
+208715,948,Monastir,Tunisia
+208725,801,Bat Yam,Israel
+212420,142,Sens,France
+214945,28,Pápa,Hungary
+215755,148,Xiangtan,People's Republic of China
+217187,142,Château-Chinon (Ville),France
+376023,17,Kasukabe,Japan
+628,38,Bergamo,Italy
+1397,30,Ohio,United States of America
+1452,38,Basilicata,Italy
+1458,38,Calabria,Italy
+333074,657,Moundou,Chad
+7036,183,Brühl,Germany
+370498,142,Sceaux,France
+468782,419,Huancayo,Peru
+491102,232,Taldykorgan,Kazakhstan
+6780,183,Hohnstein,Germany
+498212,183,Meersburg,Germany
+505991,183,Miltach,Germany
+508153,34,Kalmar Municipality,Sweden
+518431,419,Chimbote,Peru
+546635,145,Royal Leamington Spa,United Kingdom
+572800,29,Alcañiz,Spain
+762133,142,Louveciennes,France
+856261,1041,Diourbel Region,Senegal
+910973,1041,Diourbel,Senegal
+929022,41,Giannitsa,Greece
+1001647,213,Budyn nad OhYí,Czech Republic
+1972013,219060,Salfit,State of Palestine
+207350,801,Rehovot,Israel
+207295,33,Uusikaupunki,Finland
+207753,33,Hyvinkää,Finland
+2592,159,Kostroma,Russia
+207891,33,Kokkola,Finland
+3791,183,Ratingen,Germany
+207467,41,Vlissingen,Greece
+3898,183,Castrop-Rauxel,Germany
+7042,183,Amberg,Germany
+7898,183,Hersfeld-Rotenburg,Germany
+207371,145,Lichfield,United Kingdom
+16026,183,Limburg an der Lahn,Germany
+207223,27,Drogheda,Republic of Ireland
+18102,142,Saint-Mandé,France
+207540,801,Lod,Israel
+21143,35,Haderslev Municipality,Denmark
+21181,35,Fredericia,Denmark
+207470,236,Bijelo Polje,Montenegro
+40236,155,Manaus,Brazil
+42773,148,Kunshan,People's Republic of China
+44213,414,Paraná,Argentina
+49197,30,Cranston,United States of America
+54452,221,Kumanovo,North Macedonia
+59093,34,Östhammar Municipality,Sweden
+75026,148,Fushun,People's Republic of China
+206954,41,Kastoria,Greece
+109005,20,Sandefjord Municality,Norway
+109483,20,Kristiansund Municipality,Norway
+112657,403,Peja,Serbia
+116840,38,Fiuggi,Italy
+134494,28,GyQr,Hungary
+206957,41,Serres,Greece
+164234,17,Kawasaki,Japan
+167155,30,Kalamazoo,United States of America
+173338,236,Cetinje,Montenegro
+182428,219,Silistra,Bulgaria
+188693,1020,Blantyre,Malawi
+189328,219,Lovech,Bulgaria
+61445,668,Navi Mumbai,India
+2551945,34,Norberg,Sweden
+986322,33,Kangasala,Finland
+1015788,148,Yixing,People's Republic of China
+71,39,Geneva,Switzerland
+2112,183,Bielefeld,Germany
+156726,212,Ivano-Frankivsk,Ukraine
+157053,212,Chernihiv,Ukraine
+162083,212,Konotop,Ukraine
+507709,34,Umeå Municipality,Sweden
+657807,142,Abergement-la-Ronce,France
+858008,17,Murayama,Japan
+1026296,811,Jinotega,Nicaragua
+1614754,29,Medina de Pomar,Spain
+192265,218,Focani,Romania
+193722,159,Sergiyev Posad,Russia
+42800,155,Belo Horizonte,Brazil
+1094207,258,City of Tshwane Metropolitan Municipality,South Africa
+2651972,96,Mérida,Mexico
+18021,38,Biella,Italy
+169376,17,Nagasaki Prefecture,Japan
+170457,43,Ayd1n,Turkey
+173985,843,Faisalabad,Pakistan
+182481,142,Tourcoing,France
+199440,96,Mexicali,Mexico
+203308,17,Shimonoseki,Japan
+373023,148,Weihai,People's Republic of China
+504648,183,Dietfurt an der Altmühl,Germany
+588451,148,Jiulongpo District,People's Republic of China
+634022,17,Kiryu,Japan
+17856,408,Ballarat,Australia
+1026949,574,Ainaro,East Timor
+1455046,408,City of Fremantle,Australia
+888971,804,Bocas del Toro,Panama
+25270,403,Prishtina,Serbia
+1919098,408,City of Melbourne,Australia
+843014,28,Szarvas,Hungary
+847691,223,Maniitsoq,Greenland
+855324,223,Nanortalik,Greenland
+986102,213,TYinec,Czech Republic
+994925,145,Corby,United Kingdom
+1001552,41,Keratsini,Greece
+3490834,213,Prague 15,Czech Republic
+851040,28,Budapest District XVI,Hungary
+55099871,229,Larnaca Municipality,Cyprus
+42307965,191,Tartu City,Estonia
+187945,218,Piatra Neam,Romania
+196498,159,Stupino,Russia
+199889,17,Kumamoto,Japan
+205648,811,Granada,Nicaragua
+208718,1049,Port Sudan,Sudan
+849026,45,Covilhã,Portugal
+1926987,30,Little Canada,United States of America
+42328401,20,Tromsø,Norway
+2215416,811,Matiguás,Nicaragua
+2308046,41,Sparti,Greece
+6397066,794,Shiraz,Iran
+10045,55,IJsselstein,Netherlands
+383723,31,Herentals,Belgium
+386649,794,Shahr-e Kord,Iran
+399322,954,Mutare,Zimbabwe
+508231,183,Marktredwitz,Germany
+10052,55,Vianen,Netherlands
+572478,218,Reghin,Romania
+693258,29,San Bartolomé de Tirajana,Spain
+731915,211,Ogre,Latvia
+842929,213,Nepomuk,Czech Republic
+891622,29,Boltaña,Spain
+1047719,142,Hem,France
+1911759,43,Emirda,Turkey
+2321579,211,Ogre Municipality,Latvia
+1408,30,New Jersey,United States of America
+1720,183,Mainz,Germany
+2107,183,Wuppertal,Germany
+2833,183,Freiburg im Breisgau,Germany
+6730,142,Perpignan,France
+30974,142,Rouen,France
+34607,38,Este,Italy
+37951,17,Sapporo,Japan
+44255,414,San Miguel de Tucumán,Argentina
+52842,36,Kalisz,Poland
+52981,38,Faenza,Italy
+57719,148,Xuzhou,People's Republic of China
+104740,36,Radom,Poland
+223761,965,Bobo-Dioulasso,Burkina Faso
+647,142,Rennes,France
+678,678,Tonga,Tonga
+683,683,Samoa,Samoa
+1354,902,Dhaka,Bangladesh
+1348,668,Kolkata,India
+1880,298,Concepción,Chile
+16020,183,Schönebeck (Elbe),Germany
+37013,33,Rauma,Finland
+21178,35,Næstved,Denmark
+26988,26988,Cook Islands,Cook Islands
+34434,38,Montegrotto Terme,Italy
+41278,884,Ulsan,South Korea
+42157,884,Pohang,South Korea
+52599,38,Marsico Nuovo,Italy
+149955,736,Esmeraldas,Ecuador
+986302,30,Montevideo,United States of America
+1000336,414,Tandil,Argentina
+152413,801,Givatayim,Israel
+3771,183,Gütersloh,Germany
+174251,142,Châteauroux,France
+191465,159,Rzhev,Russia
+201203,184,Maladziena,Belarus
+363166,148,Ganzhou,People's Republic of China
+501545,34,Falun Municipality,Sweden
+605605,145,Broxtowe,United Kingdom
+721937,36,Pruszków,Poland
+984834,30,Sheboygan,United States of America
+3799,962,Porto-Novo,Benin
+16665897,142,Lyon Metropolis,France
+18681428,142,Cergy-Pontoise,France
+33486,30,Hartford,United States of America
+42678,1044,Makeni,Sierra Leone
+3818,983,Malabo,Equatorial Guinea
+3838,974,Kinshasa,Democratic Republic of the Congo
+3834,183,Constance,Germany
+32515,145,London Borough of Richmond upon Thames,United Kingdom
+3854,967,Bujumbura,Burundi
+193721,213,Tábor,Czech Republic
+3832,929,Bangui,Central African Republic
+693520,142,Chécy,France
+56046916,229,Paphos Municipality,Cyprus
+803,55,Utrecht,Netherlands
+3866,924,Dodoma,Tanzania
+5206,159,Stavropol,Russia
+5239,159,Vladikavkaz,Russia
+5265,159,Nalchik,Russia
+6244,38,Lodi,Italy
+15340,668,Hyderabad district,India
+19566,159,Simferopol,Russia
+622,183,Ludwigsburg,Germany
+33345,212,Yevpatoria,Ukraine
+44236,414,La Rioja,Argentina
+48195,796,Basra,Iraq
+58570,148,Handan,People's Republic of China
+71266,148,Yichang,People's Republic of China
+79815,142,Mulhouse,France
+936510,863,Istarawshan,Tajikistan
+941844,36,Grodków,Poland
+2707,183,Beckum,Germany
+934785,36,Trzcianka,Poland
+933165,414,Reconquista,Argentina
+938835,96,Guadalupe,Mexico
+16868,30,Laredo,United States of America
+21159,183,Husum,Germany
+927933,419,Tarapoto,Peru
+941948,230,Oni,Georgia
+935847,33,Viitasaari,Finland
+48615,20,Sør-Odal,Norway
+49172,30,New Britain,United States of America
+934086,96,Empalme,Mexico
+51698,30,McAllen,United States of America
+83189,155,Goiânia,Brazil
+932901,230,Khashuri,Georgia
+106281,36,Tarnów,Poland
+924078,36,Grodzisk Mazowiecki,Poland
+134712,37,`iauliai,Lithuania
+149024,212,Zviahel,Ukraine
+939771,33,Kuhmo,Finland
+155379,159,Kostomuksha,Russia
+934436,965,Dédougou,Burkina Faso
+193826,142,Douai,France
+217071,419,Pucallpa,Peru
+221447,801,Ramla,Israel
+242320,183,Schlangen,Germany
+940973,965,Yako,Burkina Faso
+927541,213,HoYice,Czech Republic
+246288,36,Strzegom,Poland
+318686,37,Radviliakis,Lithuania
+938739,733,San Lorenzo,Paraguay
+371748,29,San Lorenzo de El Escorial,Spain
+923643,37,Lazdijai,Lithuania
+384244,36,Auków,Poland
+391361,214,`a>a,Slovakia
+403112,36,Rzgów,Poland
+456842,230,Ambrolauri,Georgia
+938820,33,Virrat,Finland
+493301,20,Gol,Norway
+498256,211,Bauska,Latvia
+499415,34,Storuman Municipality,Sweden
+939758,33,Kalajoki,Finland
+501551,34,Vansbro Municipality,Sweden
+504609,34,Staffanstorp Municipality,Sweden
+507670,34,Robertsfors Municipality,Sweden
+543232,183,Heringsdorf,Germany
+789256,28,Balatonalmádi,Hungary
+825166,17,Izumo,Japan
+843028,28,Oroszlány,Hungary
+932640,574,Same,East Timor
+894060,408,City of Boroondara,Australia
+945473,37,Kazls Rkda,Lithuania
+21176,35,Viborg,Denmark
+505018,34,Lund Municipality,Sweden
+21180,35,Silkeborg,Denmark
+510010,34,Gävle Municipality,Sweden
+21179,35,Sønderborg,Denmark
+588905,183,Finsterwalde,Germany
+921052,189,Dalvík,Iceland
+2579925,843,Mirpur,Pakistan
+2738432,114,Hola,Kenya
+188022,43,Mardin,Turkey
+192155,33,Kotka,Finland
+1382,215,Piran,Slovenia
+2837,159,Kaluga,Russia
+3584,213,Nový Jiín,Czech Republic
+5783,29,Andalusia,Spain
+10400,29,Almería,Spain
+17244,38,Acqui Terme,Italy
+123511,36,Grudzidz,Poland
+214215,96,La Paz,Mexico
+217040,117,Tamale,Ghana
+240363,142,Bourg-de-Péage,France
+397626,224,Crikvenica,Croatia
+484552,29,Algeciras,Spain
+484678,30,Berkeley,United States of America
+485186,30,Key West,United States of America
+518579,183,Mindelheim,Germany
+583485,40,Schwaz,Austria
+627970,30,Kailua-Kona,United States of America
+752348,233,Victoria,Malta
+1277887,145,East Grinstead,United Kingdom
+178405,41,Larissa,Greece
+179180,34,Varberg Municipality,Sweden
+188901,155,Sorocaba,Brazil
+192481,142,Talence,France
+201125,403,Zrenjanin,Serbia
+972,55,Alkmaar,Netherlands
+2119,183,Mannheim,Germany
+3758,183,Kaiserslautern,Germany
+3920,183,Lüneburg,Germany
+3971,183,Herford,Germany
+18013,30,Sacramento,United States of America
+22953,183,Annweiler am Trifels,Germany
+43055,38,Gorgonzola,Italy
+57947,148,Nantong,People's Republic of China
+20835,35,Hørsholm,Denmark
+101341,20,Lillehammer Municipality,Norway
+129610,27,Galway,Republic of Ireland
+180233,33,Pori,Finland
+183910,142,Bayeux,France
+191047,223,Ilulissat,Greenland
+213317,142,Ambert,France
+216915,34,Sigtuna Municipality,Sweden
+21166,34,Skövde,Sweden
+504994,34,Sundsvall Municipality,Sweden
+3685412,37,Panev~ys City Municipality,Lithuania
+27678,35,Holstebro,Denmark
+44818587,191,Türi Rural Municipality,Estonia
+43509,736,Guayaquil,Ecuador
+2805,183,Krefeld,Germany
+43475,145,Derby,United Kingdom
+2978,183,Regensburg,Germany
+3685,298,Calama,Chile
+44217,414,San Salvador de Jujuy,Argentina
+44162,414,San Fernando del Valle de Catamarca,Argentina
+3868,298,Copiapó,Chile
+44013,16,Vaughan,Canada
+8645,38,Lanciano,Italy
+9125,39,Winterthur,Switzerland
+35004,750,Tarija,Bolivia
+42099,884,Bucheon,South Korea
+45656,142,Limoges,France
+46135,142,Créteil,France
+56069,77,Punta del Este,Uruguay
+44198,16,Brampton,Canada
+44211,414,Corrientes,Argentina
+82185,142,La Rochelle,France
+117382,38,Sora,Italy
+43387,43,Edirne,Turkey
+131612,40,Wiener Neustadt,Austria
+131620,155,Natal,Brazil
+151920,801,Tiberias,Israel
+179691,17,Niigata,Japan
+186569,219,Yambol,Bulgaria
+190847,41,Alexandroupoli,Greece
+200740,17,Asahikawa,Japan
+201117,17,Toyota,Japan
+243293,117,Sekondi-Takoradi,Ghana
+272254,155,São Vicente,Brazil
+275547,142,Rosny-sous-Bois,France
+326295,30,Plymouth,United States of America
+477431,38,"Delia Sicily",Italy
+44016,16,Markham,Canada
+489902,183,Nördlingen,Germany
+712567,77,Artigas,Uruguay
+817273,17,Sanjo,Japan
+852665,30,Cary,United States of America
+216638,145,Wakefield,United Kingdom
+2904,183,Herne,Germany
+3323,159,Belgorod,Russia
+216835,790,Cap-Haïtien,Haiti
+52845,36,Konin,Poland
+216363,212,Rîbnia,Ukraine
+102334,159,Dmitrov,Russia
+157144,212,Vinnytsia,Ukraine
+188776,142,Castres,France
+240858,142,Hénin-Beaumont,France
+397905,30,Columbia,United States of America
+216790,33,Hanko,Finland
+485253,20,Stord,Norway
+486543,183,Alfeld,Germany
+500076,35,Gentofte Municipality,Denmark
+504692,34,Halmstad Municipality,Sweden
+760224,212,Hola Prystan,Ukraine
+954812,184,Horki,Belarus
+1001183,34,Hedemora,Sweden
+1001225,36,Duszniki-Zdrój,Poland
+1020142,191,Nõo Rural Municipality,Estonia
+1203963,17,Taki,Japan
+2641624,212,Tomashpil,Ukraine
+2777887,34,Årjäng Municipality,Sweden
+3826,842,Muscat,Oman
+1070,668,Ahmedabad,India
+1083,38,Salerno,Italy
+10231,38,Rivoli,Italy
+26339,30,Jersey City,United States of America
+1018,215,Nova Gorica,Slovenia
+45301,43,Trabzon,Turkey
+47006,38,San Vendemiano,Italy
+48027,38,Legnago,Italy
+62337,399,Vanadzor,Armenia
+83813,30,Savannah,United States of America
+153676,159,Kislovodsk,Russia
+156743,212,Ternopil,Ukraine
+178382,211,Jkrmala,Latvia
+186576,219,Pazardzhik,Bulgaria
+192225,801,Netanya,Israel
+198370,148,Zibo,People's Republic of China
+200036,41,Volos,Greece
+202628,145,Oldham,United Kingdom
+211952,43,Ku_adas1,Turkey
+20917277,41,Antiparos Municipality,Greece
+798,55,Assen,Netherlands
+1280,38,Umbria,Italy
+1282,38,Lazio,Italy
+6863,183,Schwerte,Germany
+13370,38,Massa,Italy
+38555,30,Santa Fe,United States of America
+39526,233,Sliema,Malta
+59101,20,Narvik,Norway
+103217,36,Czstochowa,Poland
+131350,794,Nishapur,Iran
+158923,212,Stryi,Ukraine
+165995,43,Malatya,Turkey
+168866,43,Eski_ehir,Turkey
+179830,211,Jelgava,Latvia
+399109,224,Otoac,Croatia
+571136,403,Senta,Serbia
+496368,145,Wrexham,United Kingdom
+1130,183,Iserlohn,Germany
+510413,419,Sullana,Peru
+510827,36,Strzelce Opolskie,Poland
+503379,35,Skanderborg,Denmark
+7070,183,Eisenach,Germany
+503469,217,Cahul,Moldova
+9187,38,Carmagnola,Italy
+499318,37,Prienai,Lithuania
+9772,55,Meerssen,Netherlands
+14318,29,Vitoria-Gasteiz,Spain
+503862,33,Naantali,Finland
+15273,159,Kirovsk,Russia
+15922,215,`kofja Loka,Slovenia
+500552,36,Uniejów,Poland
+20770,35,Nordfyn Municipality,Denmark
+25302,36,Racibórz,Poland
+504114,16,Guelph,Canada
+29352,38,Castelfranco Veneto,Italy
+46655,38,Loria,Italy
+47125,38,Avezzano,Italy
+48701,20,Svelvik,Norway
+511956,36,Bobolice,Poland
+50960,183,Demmin,Germany
+496567,29,Eibar,Spain
+147739,212,Izmail,Ukraine
+206317,403,Kraljevo,Serbia
+208015,403,Valjevo,Serbia
+209634,34,Härnösand Municipality,Sweden
+211645,403,Vranje,Serbia
+243260,142,Fosses,France
+286266,148,Haining City,People's Republic of China
+305226,191,Antsla Rural Municipality,Estonia
+383434,16,Greater Sudbury,Canada
+387460,142,Sainte-Foy-lès-Lyon,France
+390798,28,Szentendre,Hungary
+483877,20,Eigersund Municipality,Norway
+484111,20,Averøy,Norway
+207756,664,Tauranga,New Zealand
+486168,30,San Bernardino,United States of America
+508108,34,Motala Municipality,Sweden
+513727,230,Samtredia,Georgia
+514756,34,Mörbylånga Municipality,Sweden
+543262,408,City of Wanneroo,Australia
+554491,148,Banan District,People's Republic of China
+629849,28,Hatvan,Hungary
+654560,28,Boldog,Hungary
+720092,191,Järva-Jaani Rural Municipality,Estonia
+954174,229,Paralimni,Cyprus
+1351046,37,Marijampol,Lithuania
+1817299,212,Shevchenko Raion,Ukraine
+2183942,43,Nilüfer,Turkey
+2622251,34,Ullånger,Sweden
+8969,96,Cancun,Mexico
+5823,29,Ceuta,Spain
+8693,183,Coswig,Germany
+6832,183,Ravensburg,Germany
+28237,30,Lansing,United States of America
+30988,30,Hagåtña,United States of America
+40104,142,Ajaccio,France
+49266,30,Wichita,United States of America
+51693,30,Brownsville,United States of America
+54925,29,Guadalajara Province,Spain
+71724,142,Lorient,France
+41183,858,Aleppo,Syria
+40844,55,Breda,Netherlands
+3857,183,Wilhelmshaven,Germany
+26525,20,Drammen Municipality,Norway
+42651,148,Wuxi,People's Republic of China
+27001,214,Martin,Slovakia
+102158,191,Narva,Estonia
+27393,35,Herning,Denmark
+27452,35,Frederikshavn,Denmark
+103717,33,Rovaniemi,Finland
+27116,35,Vejle,Denmark
+104095,20,Molde Municipality,Norway
+104557,159,Balashikha,Russia
+127043,183,Garmisch-Partenkirchen,Germany
+28516,36,Tarnobrzeg,Poland
+147934,36,Jelenia Góra,Poland
+178878,28,Békéscsaba,Hungary
+181854,33,Lappeenranta,Finland
+190583,33,Mikkeli,Finland
+213898,41,Preveza,Greece
+217682,191,Tamsalu,Estonia
+244095,38,Bellagio,Italy
+263107,40,Judenburg,Austria
+270806,17,AnjM,Japan
+333559,142,Granville,France
+353854,229,Agros,Cyprus
+405136,219,Tryavna,Bulgaria
+425996,148,Deyang,People's Republic of China
+436491,29,Altea,Spain
+465698,211,Sigulda,Latvia
+478813,223,Kujalleq,Greenland
+501661,183,Schleswig,Germany
+28031,35,Svendborg,Denmark
+504689,34,Jönköping Municipality,Sweden
+530309,33,Karkkila,Finland
+534571,233,Marsaskala,Malta
+575709,29,Huéscar,Spain
+586895,145,Sherborne,United Kingdom
+587746,218,Siret,Romania
+613813,28,KQszeg,Hungary
+623464,183,Bad Kötzting,Germany
+650274,31,Houffalize,Belgium
+656603,213,Jiín,Czech Republic
+708496,148,Wuqing District,People's Republic of China
+747898,223,Uummannaq,Greenland
+948102,30,Lake Elsinore,United States of America
+950991,223,Qasigiannguit,Greenland
+954157,36,Chojna,Poland
+985402,32,Niederanven,Luxembourg
+994232,225,Jablanica,Bosnia and Herzegovina
+1000056,213,Suaice,Czech Republic
+1006408,45,Sesimbra,Portugal
+1019452,189,Stykkishólmur,Iceland
+1439157,155,Criciúma,Brazil
+152825,227,Naftalan,Azerbaijan
+157440,212,Truskavets,Ukraine
+506775,236,Ro~aje,Montenegro
+501543,801,Kiryat Malakhi,Israel
+509739,1037,Butare,Rwanda
+192269,218,Vaslui,Romania
+202445,142,Cabourg,France
+497793,408,Bendigo,Australia
+208209,145,Penzance,United Kingdom
+502023,96,Coatzacoalcos,Mexico
+210886,96,Villahermosa,Mexico
+227156,230,Tsqaltubo,Georgia
+505416,37,Anykaiai,Lithuania
+249715,211,Olaine,Latvia
+408608,142,Aire-sur-l'Adour,France
+472822,189,Grindavík,Iceland
+515358,34,Lidköping Municipality,Sweden
+515969,34,Vadstena Municipality,Sweden
+533157,148,Tianshui,People's Republic of China
+546686,218,Tecuci,Romania
+581609,36,Szczyrk,Poland
+628962,36,Puck,Poland
+497130,55,Maassluis,Netherlands
+638592,211,Krslava,Latvia
+675960,31,Arlon,Belgium
+685857,218,Medgidia,Romania
+756583,218,Câmpina,Romania
+899884,29,Ciutadella de Menorca,Spain
+14217100,408,Griffith,Australia
+5838,889,Kabul,Afghanistan
+5867,224,Vukovar,Croatia
+3224,408,New South Wales,Australia
+3258,408,Australian Capital Territory,Australia
+5869,148,Lhasa,People's Republic of China
+3977,159,Elista,Russia
+5756,29,Community of Madrid,Spain
+5832,115,Axum,Ethiopia
+49812,183,Selb,Germany
+131605,38,Merano,Italy
+145845,55,Doetinchem,Netherlands
+157871,38,Rosignano Marittimo,Italy
+157992,36,BeBchatów,Poland
+646766,17,TMno,Japan
+695767,224,Buzet,Croatia
+1017630,227,Oghuz,Azerbaijan
+484799,29,Marbella,Spain
+815721,36,Nysa,Poland
+1983875,227,Aghjabadi,Azerbaijan
+214681,668,Panaji,India
+1273,38,Tuscany,Italy
+1308,38,Como,Italy
+215633,36,Aom|a,Poland
+40194,96,Mazatlán,Mexico
+214651,43,Band1rma,Turkey
+7028,183,Kamen,Germany
+155277,96,Tlaquepaque,Mexico
+159288,30,Santa Barbara,United States of America
+166282,38,Alghero,Italy
+207429,96,Tuxtla Gutiérrez,Mexico
+211760,96,Culiacán,Mexico
+212773,774,Antigua Guatemala,Guatemala
+232782,38,Portofino,Italy
+239877,30,Mission,United States of America
+498453,34,Karlstad Municipality,Sweden
+606126,36,Karpacz,Poland
+640469,36,CzBuchów,Poland
+711474,31,Waremme,Belgium
+849561,262,Fez,Algeria
+1128384,34,Karlskrona Municipality,Sweden
+3907,183,Delmenhorst,Germany
+4065,183,Stralsund,Germany
+6986,183,Gotha,Germany
+11025,252,Semarang,Indonesia
+39709,30,Des Moines,United States of America
+93358,218,Oradea,Romania
+157137,212,Kryvyi Rih,Ukraine
+159457,45,Faro,Portugal
+46940,29,Alcalá de Henares,Spain
+53228,38,Bordano,Italy
+79519,30,Dothan,United States of America
+83273,17,Ibaraki Prefecture,Japan
+108031,20,Gjøvik Municipality,Norway
+154738,159,Kolpino,Russia
+200589,17,Utsunomiya,Japan
+233495,17,Shinagawa-ku,Japan
+488946,30,Downey,United States of America
+619443,712,Nadi,Fiji
+750569,17,Kakogawa,Japan
+1012522,45,Golegã,Portugal
+1023943,17,Tomioka,Japan
+3963,183,Fulda,Germany
+193428,17,Sakai,Japan
+612516,214,Vysoké Tatry,Slovakia
+622592,33,Raahe,Finland
+826068,36,Krosno,Poland
+926700,45,Oeiras,Portugal
+25390,55,Leeuwarden,Netherlands
+1365505,148,Liyang,People's Republic of China
+285672,419,Moyobamba,Peru
+319804,148,Sanya,People's Republic of China
+473914,29,Ibiza,Spain
+487119,30,Compton,United States of America
+496588,29,Oñati,Spain
+580649,96,Celaya,Mexico
+8856,183,Straelen,Germany
+719954,36,Strzelin,Poland
+726751,241,Varadero,Cuba
+875070,928,Dagupan,Philippines
+927189,30,Duarte,United States of America
+943431,29,Granadilla de Abona,Spain
+982364,30,Pharr,United States of America
+990095,96,Taxco de Alarcón,Mexico
+1062073,142,Bayon,France
+1094355,96,Ciudad Guzmán,Mexico
+1769167,29,Cigales,Spain
+31058,30,Burlington,United States of America
+49233,30,Orlando,United States of America
+51825,38,Conversano,Italy
+52089,38,Montevarchi,Italy
+52143,38,Gallipoli,Italy
+55925,38,Montesarchio,Italy
+72585,38,Sant'Anastasia,Italy
+77433,29,Leganés,Spain
+103244,38,San Miniato,Italy
+108025,20,Sarpsborg Municipality,Norway
+128089,38,Gaeta,Italy
+133083,258,Gauteng,South Africa
+174744,298,Villa Alemana,Chile
+210661,17,Musashino,Japan
+210987,33,Salo,Finland
+224144,38,Greccio,Italy
+242533,38,Civitavecchia,Italy
+260320,40,Steyr,Austria
+317865,30,Joplin,United States of America
+654255,142,Paray-le-Monial,France
+679249,28,Kalocsa,Hungary
+761675,233,G'ajnsielem,Malta
+983511,155,Valinhos,Brazil
+991472,43,Yalvaç,Turkey
+1758141,155,São Pedro do Butiá,Brazil
+1852528,213,TYebechovice pod Orebem,Czech Republic
+4382582,408,Marrickville,Australia
+43281004,191,Haapsalu City,Estonia
+47048,33,Oulu,Finland
+47164,30,Santa Monica,United States of America
+52193,212,Kolomyia,Ukraine
+52530,38,Barile,Italy
+74957,148,Anshan,People's Republic of China
+83061,43,Van,Turkey
+214212,41,Karditsa,Greece
+103022,38,Capannoli,Italy
+214777,33,Lohja,Finland
+110848,20,Ringerike,Norway
+116417,28,Sátoraljaújhely,Hungary
+140075,408,Gold Coast,Australia
+147756,159,Khasavyurt,Russia
+157525,212,Boryslav,Ukraine
+157598,183,Kulmbach,Germany
+160687,298,Valdivia,Chile
+216075,881,C§n Th¡,Vietnam
+187352,41,Kavala,Greece
+214347,41,Kilkis,Greece
+191871,219,Asenovgrad,Bulgaria
+214344,221,Koani,North Macedonia
+214485,114,Kisumu,Kenya
+206988,145,Cheltenham,United Kingdom
+287900,38,Pabillonis,Italy
+324489,29,"Trujillo Cáceres",Spain
+500217,34,Växjö Municipality,Sweden
+501796,30,Roanoke,United States of America
+696783,17,Yaizu,Japan
+740853,28,Szigetszentmiklós,Hungary
+216307,41,Pyrgos,Greece
+755691,28,Budaörs,Hungary
+214248,916,Benguela,Angola
+955896,30,Muscatine,United States of America
+992173,783,Trujillo,Honduras
+1020535,717,Trujillo,Venezuela
+1204548,148,Tongxiang,People's Republic of China
+1240428,189,Skagaströnd,Iceland
+3120654,34,Lidingö Municipality,Sweden
+3845835,96,San Nicolás,Mexico
+488379,232,Petropavl,Kazakhstan
+487439,232,Oral,Kazakhstan
+486282,232,Pavlodar,Kazakhstan
+486913,232,Atyrau,Kazakhstan
+2143,159,Syktyvkar,Russia
+5337,159,Orenburg,Russia
+487684,874,Türkmenabat,Turkmenistan
+36405,145,Aberdeen,United Kingdom
+487801,29,Barakaldo,Spain
+48338,43,Kayseri,Turkey
+487981,29,Benidorm,Spain
+486329,265,Fergana,Uzbekistan
+157055,212,Cherkasy,Ukraine
+488987,874,Türkmenba_y,Turkmenistan
+198989,232,Aktau,Kazakhstan
+488052,29,Olivenza,Spain
+207967,142,Le Cannet,France
+235190,739,Manizales,Colombia
+477232,232,Aktobe,Kazakhstan
+152449,801,Beit Shemesh,Israel
+684630,403,Ba,Serbia
+906,159,Chelyabinsk,Russia
+220843,1030,Walvis Bay,Namibia
+3132,183,Moers,Germany
+221921,414,Comodoro Rivadavia,Argentina
+3810,298,Coyhaique,Chile
+219583,1028,El Jadida,Morocco
+37806,686,Port Vila,Vanuatu
+13687,38,Enna,Italy
+14657,159,Vyborg,Russia
+219417,189,Húsavík,Iceland
+46400,218,Suceava,Romania
+107135,20,Fredrikstad Municipality,Norway
+109079,423,Kaesong,North Korea
+142014,16,Varennes,Canada
+156717,212,Khmelnytskyi,Ukraine
+158491,159,Feodosia,Russia
+165768,963,Lobatse,Botswana
+171771,668,Bhubaneswar,India
+178855,218,Botoani,Romania
+37995,836,Yangon,Myanmar
+858250,148,Golmud,People's Republic of China
+864124,30,Los Altos,United States of America
+894941,1028,Bou Craa,Morocco
+904212,29,Fraga,Spain
+924132,36,Turek,Poland
+495547,1011,Mindelo,Cape Verde
+931116,29,Yecla,Spain
+497115,36,Frombork,Poland
+946769,28,Mórahalom,Hungary
+501077,29,La Redondela,Spain
+950436,36,Olecko,Poland
+986419,45,Mafra,Portugal
+182159,889,Balkh,Afghanistan
+191015,37,Trakai,Lithuania
+329775,28,Kiskunhalas,Hungary
+373808,863,Khujand,Tajikistan
+481730,38,Mazara del Vallo,Italy
+572231,148,Chongzuo,People's Republic of China
+574332,183,Bad Bentheim,Germany
+605521,214,Stará =ubovHa,Slovakia
+894012,43,Bornova,Turkey
+1000887,801,Yehud,Israel
+235,235,Monaco,Monaco
+2449,1045,Mogadishu,Somalia
+35045,750,Potosí,Bolivia
+36307,414,Salta,Argentina
+3777,965,Ouagadougou,Burkina Faso
+8247,837,Biratnagar,Nepal
+36262,781,Saint John's,Antigua and Barbuda
+211318,230,Pitsunda,Georgia
+211828,43,Bayburt,Turkey
+211020,33,Imatra,Finland
+3200,183,Salzgitter,Germany
+210161,736,Ambato,Ecuador
+3612,298,Antofagasta,Chile
+3813,183,Marl,Germany
+211805,43,Bart1n,Turkey
+3822,183,Lünen,Germany
+211590,241,Santa Clara,Cuba
+210985,145,Chelmsford,United Kingdom
+14424,28,Nagykanizsa,Hungary
+210296,41,Xanthi,Greece
+14813,183,Gifhorn,Germany
+210470,41,Katerini,Greece
+14897,183,Maintal,Germany
+14947,183,Backnang,Germany
+34348,38,Fontaniva,Italy
+208352,230,Borjomi,Georgia
+156747,212,Poltava,Ukraine
+208473,36,Przemy[l,Poland
+180176,41,Kozani,Greece
+208403,41,Komotini,Greece
+192875,219,Kardzhali,Bulgaria
+193965,212,Kamianets-Podilskyi,Ukraine
+204266,17,Toyama,Japan
+194332,155,Mogi das Cruzes,Brazil
+202160,36,Kutno,Poland
+221051,96,Xalapa,Mexico
+208948,664,Rotorua,New Zealand
+273880,17,Beppu,Japan
+606193,408,City of Lake Macquarie,Australia
+846146,30,Klamath Falls,United States of America
+943850,148,Wuzhong District,People's Republic of China
+957279,30,Philippi,United States of America
+1026284,736,Salinas,Ecuador
+1942426,145,South Kesteven,United Kingdom
+4071168,183,Neukölln,Germany
+490643,232,Kokshetau,Kazakhstan
+94919,30,Waukesha,United States of America
+326577,36,Bytów,Poland
+322126,33,Valkeakoski,Finland
+2372,20,Kragerø,Norway
+322155,902,Rajshahi,Bangladesh
+332319,115,Mek'ele,Ethiopia
+3764,183,Witten,Germany
+325550,36,My[lenice,Poland
+3893,183,Lüdenscheid,Germany
+329597,36,Goleniów,Poland
+319813,36,Siedlce,Poland
+5384,159,Kirov,Russia
+322986,55,Delfzijl,Netherlands
+9952,55,Opmeer,Netherlands
+319366,854,Galle,Sri Lanka
+9970,55,Velsen,Netherlands
+325627,36,Mogilno,Poland
+11046,183,Engelskirchen,Germany
+319272,241,Trinidad,Cuba
+14062,31,Zelzate,Belgium
+14825,183,Memmingen,Germany
+324941,36,{nin,Poland
+14878,183,Mettmann,Germany
+328846,96,Nuevo Laredo,Mexico
+321279,223,Ittoqqortoormiit,Greenland
+320519,230,Senaki,Georgia
+322149,114,Eldoret,Kenya
+322828,225,Brko,Bosnia and Herzegovina
+48107,38,Pescantina,Italy
+48329,33,Mariehamn,Finland
+319729,17,Urayasu,Japan
+318418,31,Vilvoorde,Belgium
+52101,55,Middelburg,Netherlands
+68297,39,Sierre,Switzerland
+99937,38,Cesenatico,Italy
+134707,159,Guryevsk,Russia
+139101,16,Hampstead,Canada
+323986,225,Prijedor,Bosnia and Herzegovina
+158799,212,Berdychiv,Ukraine
+324934,36,KBobuck,Poland
+158904,212,Korosten,Ukraine
+160450,43,Samsun,Turkey
+325910,36,Tuchola,Poland
+178486,183,Olching,Germany
+331099,1029,Island of Mozambique,Mozambique
+179948,45,Évora,Portugal
+185555,37,Biratonas,Lithuania
+191141,142,Sète,France
+191889,191,Rakvere,Estonia
+193420,218,Miercurea Ciuc,Romania
+196378,159,Sokol,Russia
+199797,30,Tacoma,United States of America
+329984,29,Úbeda,Spain
+201286,142,Lège-Cap-Ferret,France
+323801,1029,Nampula,Mozambique
+208143,145,Wigan,United Kingdom
+208609,184,Orsha,Belarus
+210493,148,Yantai,People's Republic of China
+213183,212,Zalishchyky,Ukraine
+213242,45,Barcelos,Portugal
+214938,28,Gyula,Hungary
+219093,36,Pyrzyce,Poland
+223422,155,Anápolis,Brazil
+234061,30,Erie,United States of America
+265257,38,Arenzano,Italy
+404429,148,Jiaozuo,People's Republic of China
+429864,33,Riihimäki,Finland
+511438,34,Stenungsund Municipality,Sweden
+516336,34,Södertälje Municipality,Sweden
+639452,30,Lakeland,United States of America
+222755,739,Ibagué,Colombia
+642057,414,Lomas de Zamora,Argentina
+646980,145,Aldershot,United Kingdom
+731990,4628,Fuglafjørður,Faroe Islands
+847668,223,Qeqertarsuaq,Greenland
+867615,948,Nabeul,Tunisia
+986435,35,Nykøbing Falster,Denmark
+987345,212,Starobilsk,Ukraine
+997469,212,Mohyliv-Podilskyi,Ukraine
+1255574,258,Drakenstein Local Municipality,South Africa
+1719466,37,Panev~ys,Lithuania
+1934815,41,Milies,Greece
+1010042,33,Sonkajärvi,Finland
+2343396,36,Parczew,Poland
+1957,159,Vologda,Russia
+102350,36,Bytom,Poland
+5806,851,Mecca,Saudi Arabia
+101254,145,Newport,United Kingdom
+6869,183,Heidenheim an der Brenz,Germany
+15176,148,Guangxi,People's Republic of China
+28271,30,Annapolis,United States of America
+42114,884,Asan,South Korea
+42168,142,Clermont-Ferrand,France
+80669,38,Buccino,Italy
+83247,45,Braga,Portugal
+156724,212,Kremenchuk,Ukraine
+158604,159,Bakhchysarai,Russia
+162548,232,Oskemen,Kazakhstan
+185453,843,Multan,Pakistan
+41547,769,St. George's,Grenada
+205679,145,London Borough of Hackney,United Kingdom
+39121,145,Leeds,United Kingdom
+47916,668,Lucknow,India
+1305,55,Wageningen,Netherlands
+209988,28,GödöllQ,Hungary
+694370,17,Ayabe,Japan
+858369,17,TMkamachi,Japan
+985531,219060,Tulkarm,State of Palestine
+1473,928,Davao City,Philippines
+5217,928,Bacolod,Philippines
+259272,37,Garg~dai,Lithuania
+8194,36,IBawa,Poland
+12761,142,Seine-Saint-Denis,France
+12788,142,Val-de-Marne,France
+986578,33,Harjavalta,Finland
+15236,159,Boksitogorsk,Russia
+1944489,96,San Pedro Garza García,Mexico
+51689,30,Plano,United States of America
+985005,36,Pisz,Poland
+71727,212,Irpin,Ukraine
+985459,33,Oulainen,Finland
+1906334,36,Supra[l,Poland
+104407,36,Zgierz,Poland
+984863,774,Huehuetenango,Guatemala
+123766,30,Charlottesville,United States of America
+1906346,36,Ustrzyki Dolne,Poland
+146033,28,Zamárdi,Hungary
+156593,212,Sambir,Ukraine
+160506,142,Saint-Denis,France
+985462,41,Nikaia,Greece
+1915327,842,Nizwa,Oman
+182394,794,Yazd,Iran
+985687,36,Konstancin-Jeziorna,Poland
+185075,142,Saint-Germain-en-Laye,France
+1946089,36,Nowa Sarzyna,Poland
+986089,29,Cascante,Spain
+269346,142,Castillon-la-Bataille,France
+274237,142,Ris-Orangis,France
+377929,28,Hévíz,Hungary
+464763,36,Augustów,Poland
+478207,1028,Kenitra,Morocco
+556200,36,PiBa,Poland
+986627,30,Shawnee,United States of America
+2596788,219,Lovech Municipality,Bulgaria
+18288152,38,Metropolitan City of Genoa,Italy
+40269,155,Porto Alegre,Brazil
+52337,38,Tursi,Italy
+57948,183,Aue,Germany
+217411,43,Beyolu,Turkey
+244324,29,Guadix,Spain
+265528,38,Serra Riccò,Italy
+433632,29,Santa Cruz de La Palma,Spain
+748832,41,Chios,Greece
+249906,45,Águeda,Portugal
+3114638,1041,Grand Yoff,Senegal
+154715,142,Montbéliard,France
+183124,750,Cochabamba,Bolivia
+186538,38,Arzachena,Italy
+193719,213,Cheb,Czech Republic
+221883,794,Kish Island,Iran
+360069,148,Bengbu,People's Republic of China
+574192,30,Greenville,United States of America
+675576,30,Pueblo,United States of America
+764943,36,Olkusz,Poland
+773432,30,St. Charles,United States of America
+199712,43,Çanakkale,Turkey
+204547,31,Waregem,Belgium
+207257,145,East Lothian,United Kingdom
+430780,34,Skellefteå Municipality,Sweden
+1025801,811,Juigalpa,Nicaragua
+28218,30,Baton Rouge,United States of America
+31094,884,Chungju,South Korea
+39042,30,Cheyenne,United States of America
+244898,865,New Taipei,Taiwan
+48370,30,Manchester,United States of America
+54064,30,Nassau County,United States of America
+45942,262,Annaba,Algeria
+1295,183,Dortmund,Germany
+391461,36,Grójec,Poland
+45797,142,Dunkirk,France
+1851,159,Arkhangelsk,Russia
+390162,218,Hui,Romania
+2814,183,Halle (Saale),Germany
+2907,750,Sucre,Bolivia
+387502,36,Zwiecie,Poland
+45197,36,ZwitochBowice,Poland
+389860,36,Kalwaria Zebrzydowska,Poland
+4062,183,Hamelin,Germany
+6535,20,Alta,Norway
+9932,55,Heiloo,Netherlands
+11492,29,Mataró,Spain
+13616,38,Matera,Italy
+13636,142,Les Abymes,France
+393171,36,{ory,Poland
+14895,183,Kamp-Lintfort,Germany
+23187,38,Canosa di Puglia,Italy
+393594,41,Agia Paraskevi,Greece
+29234,142,Saint-Brieuc,France
+44401,142,Cayenne,France
+128295,30,Abilene,United States of America
+149539,34,Sandviken Municipality,Sweden
+156719,212,Kamyanske,Ukraine
+158821,212,Drohobych,Ukraine
+171810,43,Alanya,Turkey
+180379,211,Rzekne,Latvia
+101530,36,WieluD,Poland
+181673,183,Ochtrup,Germany
+187796,142,Orange,France
+206872,28,Ajka,Hungary
+233892,30,Rockford,United States of America
+256669,183,Altötting,Germany
+258981,218,Lugoj,Romania
+259466,224,Senj,Croatia
+264201,40,Mariazell,Austria
+354547,183,Adelebsen,Germany
+484706,232,Karaganda,Kazakhstan
+486877,30,South Bend,United States of America
+490584,30,Flint,United States of America
+499474,34,Kiruna Municipality,Sweden
+504010,183,Osterburg,Germany
+513417,213,Vsetín,Czech Republic
+699599,40,St. Johann in Tirol,Austria
+771546,45,Ourém,Portugal
+858713,217,Ungheni,Moldova
+871265,30,East Lansing,United States of America
+1025149,30,Cadillac,United States of America
+54886,736,Cuenca,Ecuador
+2801,159,Bryansk,Russia
+52892,36,Leszno,Poland
+3118,159,Oryol,Russia
+52902,36,Wrze[nia,Poland
+4001,183,Garbsen,Germany
+4037,183,Schwäbisch Gmünd,Germany
+52585,414,Gualeguaychú,Argentina
+333476,912,Ségou,Mali
+134346,142,Angoulême,France
+240574,34,Markaryd Municipality,Sweden
+242593,230,Gudauta,Georgia
+326123,36,Drawsko Pomorskie,Poland
+249049,36,ZBocieniec,Poland
+324884,36,Brzesko,Poland
+267708,218,Sovata,Romania
+277302,29,Chiclana de la Frontera,Spain
+323774,211,Valka,Latvia
+325244,36,Rypin,Poland
+325727,36,Aczyca,Poland
+342803,30,Portsmouth,United States of America
+374794,34,Gotland Municipality,Sweden
+454875,45,Amarante,Portugal
+462840,214,Spiaská Nová Ves,Slovakia
+488555,29,Baeza,Spain
+492538,183,Bergen auf Rügen,Germany
+498036,183,Mölln,Germany
+331764,408,Albury,Australia
+499189,30,Merced,United States of America
+515706,34,Svedala Municipality,Sweden
+523987,183,Bad Bramstedt,Germany
+538544,183,Langenenslingen,Germany
+554288,183,Vechelde,Germany
+565624,183,Strasburg,Germany
+573603,183,Frankenberg,Germany
+326142,36,Trzebiatów,Poland
+588844,183,Großräschen,Germany
+593503,142,Tinqueux,France
+645832,183,Dasing,Germany
+646898,17,Komatsu,Japan
+739491,184,Vamkavysk,Belarus
+773203,28,Százhalombatta,Hungary
+773527,30,Winona,United States of America
+837478,214,Sabinov,Slovakia
+874343,28,Csopak,Hungary
+1003662,30,Dahlonega,United States of America
+325124,36,Aleksandrów Kujawski,Poland
+1008686,213,Ivanice,Czech Republic
+324892,36,Staszów,Poland
+1019852,212,Pustomyty,Ukraine
+1060593,142,Rouvroy,France
+1406749,29,Peñarroya-Pueblonuevo,Spain
+212283,145,Wells,United Kingdom
+22901,183,Bad Dürkheim,Germany
+208006,43,Bilecik,Turkey
+189128,96,León de Los Aldama,Mexico
+208098,223,Sisimiut,Greenland
+208293,33,Järvenpää,Finland
+189974,191,Jõgeva County,Estonia
+208038,403,aak,Serbia
+193396,159,Ruza,Russia
+206165,142,Thonon-les-Bains,France
+207408,28,Vác,Hungary
+207999,33,Kuusamo,Finland
+215374,20,Askøy,Norway
+255728,159,Loukhsky District,Russia
+375651,213,Valaaské MeziYíí,Czech Republic
+385375,17,Lmachi,Japan
+208005,43,K1r_ehir,Turkey
+432681,38,Sciacca,Italy
+465312,214,Brezno,Slovakia
+485176,30,Pasadena,United States of America
+493066,34,Täby Municipality,Sweden
+493833,35,Albertslund Municipality,Denmark
+208022,36,Police,Poland
+493924,183,Pasewalk,Germany
+500071,34,Avesta Municipality,Sweden
+503097,35,Rødovre Municipality,Denmark
+694550,30,Gettysburg,United States of America
+1737,40,Bregenz,Austria
+806551,145,Bangor,United Kingdom
+207972,96,Tepic,Mexico
+927134,30,Paramount,United States of America
+964785,145,Whitstable,United Kingdom
+994239,225,Zavidovii,Bosnia and Herzegovina
+1165566,241,Old Havana,Cuba
+1784437,41,Korinos,Greece
+1908058,43,Çili,Turkey
+2006858,41,Filippoi,Greece
+2651919,96,Compostela,Mexico
+378225,17,Hagi,Japan
+491123,232,Kyzylorda,Kazakhstan
+545707,262,Mascara,Algeria
+713310,865,Hualien City,Taiwan
+990934,30,Tiffin,United States of America
+1012924,217,Ceadîr-Lunga,Moldova
+2762100,23681,North Nicosia,Northern Cyprus
+506745,55,Rijswijk,Netherlands
+827041,213,Beroun,Czech Republic
+831303,142,Port-sur-Saône,France
+840859,17,TMmi,Japan
+502272,219060,Ma'ale Adumim,State of Palestine
+1016159,30,Williamsport,United States of America
+2305655,189,Vesturbyggð,Iceland
+3646791,37,Jaaiknai,Lithuania
+582,142,Villeurbanne,France
+2971,183,Paderborn,Germany
+204234,145,Milton Keynes,United Kingdom
+12233,29,Santander,Spain
+12339,29,Sant Joan de les Abadesses,Spain
+14839,183,Aurich,Germany
+209009,230,Telavi,Georgia
+15473,29,Santa Coloma de Gramenet,Spain
+15875,215,Idrija,Slovenia
+20714,884,Suwon,South Korea
+44989,30,Tulsa,United States of America
+57818,148,Huai'an,People's Republic of China
+58560,148,Qinhuangdao,People's Republic of China
+60537,30,Napa,United States of America
+83178,55,Almere,Netherlands
+3327,142,Lourdes,France
+20352,183,Neustrelitz,Germany
+58584,148,Baoding,People's Republic of China
+108058,30,Contra Costa County,United States of America
+124110,38,Loreto,Italy
+244747,29,Tudela,Spain
+621,142,Versailles,France
+1361,668,Hyderabad,India
+1475,928,Quezon City,Philippines
+12534,29,Sant Pol de Mar,Spain
+12919,709,Majuro,Marshall Islands
+34863,30,Oklahoma City,United States of America
+38807,712,Suva,Fiji
+41699,760,Castries,Saint Lucia
+43407,148,Shandong,People's Republic of China
+52996,30,Marshall,United States of America
+59227,148,Chaozhou,People's Republic of China
+80434,17,Aichi Prefecture,Japan
+184392,142,Foix,France
+825883,29,Valls,Spain
+26430,55,Tilburg,Netherlands
+58178,148,Jiaxing,People's Republic of China
+211970,1036,Entebbe,Uganda
+60956,801,Ashkelon,Israel
+93351,142,Vichy,France
+100814,38,Fontanellato,Italy
+209423,20,Kirkenes,Norway
+156739,212,Rivne,Ukraine
+209978,41,Edessa,Greece
+170578,155,Aracaju,Brazil
+183002,159,Surgut,Russia
+212289,664,Palmerston North,New Zealand
+189602,30,Missoula,United States of America
+192176,217,Bender,Moldova
+211218,223,Aasiaat,Greenland
+192898,189,Selfoss,Iceland
+210365,148,Beihai,People's Republic of China
+210887,29,Sanlúcar de Barrameda,Spain
+219244,31,Municipality of Koekelberg,Belgium
+238366,142,Annonay,France
+209537,258,East London,South Africa
+252098,403,New Belgrade,Serbia
+252205,189,Árborg,Iceland
+254778,183,Puchheim,Germany
+282822,30,St. Anthony,United States of America
+209176,145,Ely,United Kingdom
+322361,35,Ribe,Denmark
+373542,28,Szigetvár,Hungary
+492355,30,Winchester,United States of America
+503184,34,Ludvika Municipality,Sweden
+538953,786,La Vega,Dominican Republic
+546693,191,Anija Rural Municipality,Estonia
+615722,29,Santa Fe,Spain
+630334,183,Bad Berka,Germany
+662412,40,Moosburg,Austria
+736906,29,Almonte,Spain
+842854,977,Ali Sabieh,Djibouti
+859621,43,Biga,Turkey
+925736,35,Odder,Denmark
+952457,212,Nizhyn,Ukraine
+990448,45,Seixal,Portugal
+170688,750,Santa Cruz de la Sierra,Bolivia
+188033,142,Mont-de-Marsan,France
+192942,711,Uvs Province,Mongolia
+239870,30,Columbus,United States of America
+14892,183,Buchholz in der Nordheide,Germany
+15245,159,Volkhov,Russia
+16014,32,Dudelange,Luxembourg
+57860,20,Lørenskog,Norway
+102445,159,Kovrov,Russia
+35001,408,Lismore,Australia
+122563,30,Eau Claire,United States of America
+127856,30,Beverly Hills,United States of America
+135647,214,Turianske Teplice,Slovakia
+156809,212,Novyi Rozdil,Ukraine
+36168,244,Bridgetown,Barbados
+219574,96,Naucalpan de Juárez Municipality,Mexico
+304848,148,Daqing,People's Republic of China
+36260,683,Apia,Samoa
+3196726,35,Albertslund,Denmark
+106274,36,Legnica,Poland
+105084,36,Gliwice,Poland
+3069,183,Bottrop,Germany
+3581,142,Roanne,France
+3828,183,Dessau-Roßlau,Germany
+107094,36,Rybnik,Poland
+3886,183,Dorsten,Germany
+107106,36,Jastrzbie-Zdrój,Poland
+4175,183,Ibbenbüren,Germany
+4582,298,Rancagua,Chile
+8738,183,Meissen,Germany
+14819,183,Freiberg,Germany
+109494,20,Odda,Norway
+14904,183,Hoyerswerda,Germany
+33292,212,Berdiansk,Ukraine
+37776,142,Besançon,France
+109092,27,Kilkenny,Republic of Ireland
+57919,20,Arendal,Norway
+58900,145,Doncaster,United Kingdom
+73074,55,Stadskanaal,Netherlands
+100055,38,Formigine,Italy
+106896,189,Ísafjörður,Iceland
+107392,20,Tønsberg,Norway
+109949,1029,Matola,Mozambique
+148923,212,Borshchiv,Ukraine
+110011,36,KoBobrzeg,Poland
+155226,183,Bad Oldesloe,Germany
+108672,36,Dbrowa Górnicza,Poland
+161144,212,Alchevsk,Ukraine
+161943,183,Barth,Germany
+163012,183,Pankow,Germany
+168782,159,Tobolsk,Russia
+109535,55,Zutphen,Netherlands
+181541,183,Horstmar,Germany
+185280,218,Baia Mare,Romania
+188061,37,Vilnius County,Lithuania
+188587,38,Follonica,Italy
+507084,29,Torija,Spain
+659400,30,Wilmington,United States of America
+693513,31,Brasschaat,Belgium
+838669,17,Yamatotakada,Japan
+1639365,29,La Muela,Spain
+1914736,801,Mazkeret Batya,Israel
+12062,183,Torgau,Germany
+12526,142,Gironde,France
+246693,36,Zbkowice Zlskie,Poland
+22874,183,Wiesloch,Germany
+251678,183,Aichach,Germany
+23002,183,Schifferstadt,Germany
+23337,30,Salt Lake City,United States of America
+223920,971,Pointe-Noire,Republic of the Congo
+270821,796,Baqubah,Iraq
+46843,183,Auerbach,Germany
+249259,36,Jdrzejów,Poland
+47135,142,Châlons-en-Champagne,France
+49242,30,Corpus Christi,United States of America
+249994,865,Hsinchu,Taiwan
+261705,40,Laakirchen,Austria
+53265,38,Gemona del Friuli,Italy
+223966,419,Piura,Peru
+54108,414,Bahía Blanca,Argentina
+256711,408,Bunbury,Australia
+81856,30,Beaverton,United States of America
+100084,38,Pavullo nel Frignano,Italy
+250733,117,Wa,Ghana
+102728,31,Ypres,Belgium
+152225,709,Bikini Atoll,Marshall Islands
+158420,213,ervený Kostelec,Czech Republic
+262579,43,Karaman,Turkey
+258447,33,Äänekoski,Finland
+179706,33,Brändö,Finland
+189471,30,Cupertino,United States of America
+223914,916,Lobito,Angola
+200707,17,Takamatsu,Japan
+256782,36,Busko-Zdrój,Poland
+202377,183,Steinheim,Germany
+244025,16,Burnaby,Canada
+249995,865,Chiayi City,Taiwan
+252197,40,Brixlegg,Austria
+298003,34,Örnsköldsvik Municipality,Sweden
+309172,709,Kwajalein,Marshall Islands
+485600,30,Montgomery County,United States of America
+486726,20,Sigdal,Norway
+496050,183,Bad Segeberg,Germany
+499203,30,Yakima,United States of America
+255385,36,Miastko,Poland
+501609,183,Bad Fallingbostel,Germany
+261711,30,Frankenmuth,United States of America
+503640,183,Gunzenhausen,Germany
+513933,30,Sumter County,United States of America
+555618,183,Burgdorf,Germany
+559374,183,Uchte,Germany
+259497,36,Krynica-Zdrój,Poland
+564821,183,Bad Sooden-Allendorf,Germany
+569628,183,Obertshausen,Germany
+693638,30,Richland,United States of America
+695930,17,Hirakawa,Japan
+714636,17,Miyakojima,Japan
+793396,31,Aywaille,Belgium
+56064,77,Colonia del Sacramento,Uruguay
+1465,38,Feltre,Italy
+3985,183,Herten,Germany
+7256,252,Padang Panjang,Indonesia
+7263,252,Sawahlunto,Indonesia
+9938,55,Hoorn,Netherlands
+59975,262,Bejaia,Algeria
+615470,77,Las Piedras,Uruguay
+14467,298,La Serena,Chile
+616551,36,Olszyna,Poland
+14921,183,Ascheberg,Germany
+616877,213,Louny,Czech Republic
+15757,159,Suzdal,Russia
+15892,215,Ljutomer Municipality,Slovenia
+61302,96,Chihuahua City,Mexico
+16963,148,Jiangsu,People's Republic of China
+61320,96,Colima,Mexico
+40347,30,Norman,United States of America
+53151,38,Aviano,Italy
+58006,183,Zschopau,Germany
+92689,36,Sopot,Poland
+109188,155,Pelotas,Brazil
+189769,28,Salgótarján,Hungary
+191793,213,Karviná,Czech Republic
+201970,145,Shrewsbury,United Kingdom
+207448,38,Monreale,Italy
+208750,214,Prievidza,Slovakia
+217841,142,Liévin,France
+243433,183,Bedburg-Hau,Germany
+258333,40,Donaustadt,Austria
+321010,36,Ustka,Poland
+327977,214,Ke~marok,Slovakia
+339918,183,Kaufering,Germany
+448229,45,Alvaiázere,Portugal
+456550,31,Tienen,Belgium
+108223,242,Belize City,Belize
+485172,30,Ann Arbor,United States of America
+489806,40,Melk,Austria
+499920,183,"Lilienthal Lower Saxony",Germany
+504626,34,Simrishamn Municipality,Sweden
+107398,189,Akranes,Iceland
+515477,34,Västervik Municipality,Sweden
+552713,183,Eurasburg,Germany
+625154,28,Komárom,Hungary
+631977,142,Mazamet,France
+643410,35,Nexø,Denmark
+652802,218,Câmpulung Moldovenesc,Romania
+669901,40,Mank,Austria
+737925,212,Bar,Ukraine
+750423,214,Topo>any,Slovakia
+839537,142,Moret-sur-Loing,France
+841356,36,Gi|ycko,Poland
+850676,213,Blansko,Czech Republic
+917535,45,Loures,Portugal
+918947,145,Newtownabbey,United Kingdom
+918975,145,Kirklees,United Kingdom
+990830,36,Dziwnów,Poland
+1019371,213,Studénka,Czech Republic
+1106109,212,Derhachi,Ukraine
+1602947,142,Saint-Vallier,France
+3530435,35,Nyborg,Denmark
+1002571,159,Nikel,Russia
+1076743,17,Urawa,Japan
+13225053,45,Espinho,Portugal
+43266354,191,Narva-Jõesuu City,Estonia
+1020320,811,San Carlos,Nicaragua
+1015681,664,Lower Hutt,New Zealand
+1019424,1041,Rufisque,Senegal
+1016881,414,Marcos Juárez,Argentina
+20092,38,Genola,Italy
+1021294,36,Krzy| Wielkopolski,Poland
+20753,183,Bredstedt,Germany
+1015773,664,Porirua,New Zealand
+30919,408,City of Blacktown,Australia
+45604,889,Kandahar,Afghanistan
+45313,889,Herat,Afghanistan
+391221,717,Barcelona,Venezuela
+1017129,33,Paimio,Finland
+46850,159,Zelenogorsk,Russia
+51599,298,Punta Arenas,Chile
+51690,30,Irving,United States of America
+57006,183,Emmerich am Rhein,Germany
+391764,37,`irvintos,Lithuania
+57868,20,Oppegård,Norway
+79783,30,Nogales,United States of America
+79809,30,Utqiagvik,United States of America
+108988,20,Kongsberg Municipality,Norway
+146351,213,Liberec,Czech Republic
+146699,794,Zanjan,Iran
+152387,801,Kiryat Yam,Israel
+167659,801,Nof HaGalil,Israel
+171866,145,Middlesbrough,United Kingdom
+178373,794,Rasht,Iran
+216802,145,Falkirk,United Kingdom
+375097,28,Tiszaújváros,Hungary
+393043,36,{arów,Poland
+430864,213,Nymburk,Czech Republic
+457728,142,Montceau-les-Mines,France
+490900,38,Floridia,Italy
+498857,34,Kristianstad Municipality,Sweden
+504235,34,Ljungby Municipality,Sweden
+387463,36,Zwiebodzin,Poland
+544699,183,Herzberg (Elster),Germany
+559637,183,Friesoythe,Germany
+586722,45,Loulé,Portugal
+588760,229,Geroskipou,Cyprus
+625091,183,Gernsheim,Germany
+392988,36,{abno,Poland
+661283,40,Laa an der Thaya,Austria
+695565,30,Council Bluffs,United States of America
+765553,794,Sabzevar,Iran
+390783,227,^Ymkir,Azerbaijan
+770336,230,Marneuli,Georgia
+391011,37,`alininkai,Lithuania
+818403,36,SokóBka,Poland
+829812,214,Rimavská Sobota,Slovakia
+845866,801,Ramat HaSharon,Israel
+899751,36,Ostróda,Poland
+933638,28,MezQkövesd,Hungary
+945484,37,Pasvalys,Lithuania
+985564,33,Kuusankoski,Finland
+948304,36,Pszczyna,Poland
+3117,183,Bergisch Gladbach,Germany
+946384,736,Ibarra,Ecuador
+5663,159,Gusev,Russia
+947414,36,GoBdap,Poland
+6949,183,Stade,Germany
+949535,414,San Francisco,Argentina
+9573,38,Pinerolo,Italy
+950347,801,Or Yehuda,Israel
+54062,20,Ås,Norway
+1015639,16,Prince Rupert,Canada
+58695,148,Cangzhou,People's Republic of China
+556484,36,Midzychód,Poland
+82911,183,Weinstadt,Germany
+108037,211,Valmiera,Latvia
+572041,29,Antequera,Spain
+135466,159,Dubna,Russia
+578396,221,Kriva Palanka,North Macedonia
+146542,212,Perechyn,Ukraine
+160584,159,Sievierodonetsk,Russia
+175533,159,Norlat,Russia
+1014564,736,Puerto Francisco de Orellana,Ecuador
+194067,159,Serpukhov,Russia
+1016922,33,Mänttä-Vilppula,Finland
+196486,159,Stary Oskol,Russia
+1014367,217,Clrai,Moldova
+1021277,35,Ikast,Denmark
+214021,33,Tornio,Finland
+1017108,33,Lieto,Finland
+214057,189,Seltjarnarnes,Iceland
+1017314,813,Cholpon-Ata,Kyrgyzstan
+228445,28,Zugló,Hungary
+241122,217,Comrat,Moldova
+245466,183,Odenthal,Germany
+1020776,96,Cabo San Lucas,Mexico
+268873,30,Newport Beach,United States of America
+275636,183,Simmern,Germany
+317844,17,Nishio,Japan
+1018592,916,Porto Amboim,Angola
+328015,45,Almada,Portugal
+1019429,1041,Podor,Senegal
+363266,142,Trappes,France
+1017331,27,Westport,Republic of Ireland
+383277,142,Plougastel-Daoulas,France
+387864,219,Pravets,Bulgaria
+393475,148,Shijingshan District,People's Republic of China
+1021272,36,Okonek,Poland
+402773,183,Ahrensbök,Germany
+1018781,717,San Diego,Venezuela
+1019496,16,Moose Jaw,Canada
+487201,30,Minot,United States of America
+505013,34,Höganäs Municipality,Sweden
+505534,183,Bühl,Germany
+510310,34,Haparanda Municipality,Sweden
+515373,34,Ronneby Municipality,Sweden
+551818,183,Stockelsdorf,Germany
+1015157,36,Czarne,Poland
+555820,183,Langlingen,Germany
+665097,17,MinM,Japan
+847554,17,Owase,Japan
+852778,145,Whitby,United Kingdom
+987496,213,Kralupy nad Vltavou,Czech Republic
+1017210,230,Tsalenjikha,Georgia
+997392,212,Yavoriv,Ukraine
+2598329,35,Bornholm regional municipality,Denmark
+2674517,20,Høyanger,Norway
+1020297,717,El Tigre,Venezuela
+2919593,717,Cantaura,Venezuela
+4426524,159,Sovetskoye urban settlement,Russia
+23890603,191,Pärnu City,Estonia
+1467,928,Cebu City,Philippines
+2144,159,Cherepovets,Russia
+3973,183,Grevenbroich,Germany
+6979,183,Singen (Hohentwiel),Germany
+995,55,Appingedam,Netherlands
+16937,38,Muggia,Italy
+16938,38,San Dorligo della Valle,Italy
+28260,30,Lincoln,United States of America
+169247,225,Doboj,Bosnia and Herzegovina
+205905,145,Lancaster,United Kingdom
+216077,148,Jiujiang,People's Republic of China
+336475,403,uprija,Serbia
+44854656,191,Põltsamaa Rural Municipality,Estonia
+391159,219,Bansko,Bulgaria
+149181,212,Koriukivka,Ukraine
+152641,801,Giv'at Shmuel,Israel
+567332,36,Annopol,Poland
+569904,965,Ouahigouya,Burkina Faso
+947069,142,Le Lamentin,France
+191396,142,Agde,France
+192368,142,Vence,France
+574469,1028,Taza,Morocco
+555876,36,Pleszew,Poland
+217047,43,Kemer,Turkey
+273413,29,Écija,Spain
+279823,40,Güssing,Austria
+944697,736,Loja,Ecuador
+332989,29,Loja,Spain
+3150,183,Jena,Germany
+3167,183,Siegen,Germany
+52896,36,Pniewy,Poland
+9809,55,Alphen-Chaam,Netherlands
+52840,36,Jarocin,Poland
+9875,55,Veldhoven,Netherlands
+9930,55,Heerhugowaard,Netherlands
+12587,29,Santa Susanna,Spain
+16138,183,Oer-Erkenschwick,Germany
+34405,148,Jingdezhen,People's Republic of China
+38234,17,Nagasaki,Japan
+54118,414,Azul,Argentina
+66013,36,GBogów,Poland
+52591,414,Colón,Argentina
+68136,39,Sion,Switzerland
+130191,145,Norwich,United Kingdom
+147895,183,Lübbenau/Spreewald,Germany
+156734,212,Oleksandriya,Ukraine
+52829,36,Grodzisk Wielkopolski,Poland
+157472,212,Dolyna,Ukraine
+55377,414,Oberá,Argentina
+159139,159,Mozhaysk,Russia
+181359,29,Talavera de la Reina,Spain
+184090,145,Preston,United Kingdom
+187911,142,Bergerac,France
+190113,31,Tongeren,Belgium
+192119,224,Sisak,Croatia
+193256,142,Montluçon,France
+211572,31,La Louvière,Belgium
+52900,36,Wronki,Poland
+214598,142,Plérin,France
+52903,36,Zroda Wielkopolska,Poland
+234704,142,Vitré,France
+316841,219,Karlovo,Bulgaria
+375314,145,Folkestone,United Kingdom
+430449,40,Gmunden,Austria
+471100,142,Libercourt,France
+51878,38,San Vito dei Normanni,Italy
+474480,142,Louviers,France
+498865,142,Hautmont,France
+569671,183,Schlüchtern,Germany
+631265,142,Halluin,France
+729447,211,Dobele,Latvia
+763171,145,Wakefield,United Kingdom
+837154,218,Simeria,Romania
+847332,17,Toki,Japan
+847715,37,Joniakis,Lithuania
+946893,218,Teiu,Romania
+992348,41,Marousi,Greece
+995855,36,Radków,Poland
+1004462,43,Korkuteli,Turkey
+1023044,37,Akmen,Lithuania
+54902,29,Fuenlabrada,Spain
+1647654,811,San Juan del Río Coco,Nicaragua
+25162085,41,Amarusio Municipality,Greece
+16008,183,Schwedt/Oder,Germany
+952374,33,Outokumpu,Finland
+954748,36,GBogówek,Poland
+225621,183,Rietberg,Germany
+504257,34,Olofström Municipality,Sweden
+628304,183,Schöningen,Germany
+956922,230,Lanchkhuti,Georgia
+820024,37,Kupiakis,Lithuania
+916603,30,Cody,United States of America
+2103,183,Bochum,Germany
+4007,183,Rosenheim,Germany
+4454,159,Khabarovsk,Russia
+42120,884,Anyang,South Korea
+13135,38,Macerata,Italy
+42763,786,Santiago de los Caballeros,Dominican Republic
+21319,408,Parramatta,Australia
+42160,884,Hwaseong,South Korea
+49140,30,West Hartford,United States of America
+42146,884,Cheonan,South Korea
+93910,159,Novokuznetsk,Russia
+165857,17,Tokorozawa,Japan
+239580,953,Kitwe,Zambia
+399976,30,Palm Desert,United States of America
+450625,37,Alytus,Lithuania
+647051,217,Teleneti,Moldova
+753731,17,Masuda,Japan
+2082,16,St. John's,Canada
+335446,36,Dbno,Poland
+345204,6250,Dakhla,Western Sahara
+244154,241,Holguín,Cuba
+339527,408,Launceston,Australia
+243327,884,Changwon,South Korea
+343973,43,0negöl,Turkey
+340566,230,Akhmeta,Georgia
+188785,801,Central District,Israel
+335322,142,Pointe-à-Pitre,France
+236058,142,Orly,France
+474697,36,Tczew,Poland
+490521,183,Strausberg,Germany
+336375,36,Ropczyce,Poland
+504849,183,Ochsenfurt,Germany
+337814,36,Nowe Warpno,Poland
+506700,183,Ueckermünde,Germany
+523489,213,Terezín,Czech Republic
+244139,241,Pinar del Río,Cuba
+655146,142,Sainte-Anne,France
+672990,212,Bilhorod-Dnistrovskyi,Ukraine
+691725,55,Renkum,Netherlands
+748867,29,Baiona,Spain
+817965,17,Ikeda,Japan
+336386,36,Dukla,Poland
+851045,28,Budapest District XVII,Hungary
+2128964,217,Ialoveni District,Moldova
+387260,36,Zrem,Poland
+4043,142,Fougères,France
+384544,213,Karlovy Vary,Czech Republic
+4100,183,Baden-Baden,Germany
+44253,414,Santiago del Estero,Argentina
+372075,33,Raisio,Finland
+6845,183,Elmshorn,Germany
+378821,36,InowrocBaw,Poland
+6858,183,Bad Oeynhausen,Germany
+374768,858,Al-Zabadani,Syria
+6880,183,Neunkirchen,Germany
+11935,39,Locarno,Switzerland
+15270,159,Kingisepp,Russia
+387396,36,Zwidnica,Poland
+16099,183,Lampertheim,Germany
+19795,145,Stevenage,United Kingdom
+387307,36,Zroda Zlska,Poland
+27643,183,Saterland,Germany
+47138,733,Encarnación,Paraguay
+50118,38,Ovindoli,Italy
+44242,414,Río Gallegos,Argentina
+80053,794,Tabriz,Iran
+367780,33,Hamina,Finland
+108999,20,Røros,Norway
+137863,37,`venionys,Lithuania
+155622,183,Bernkastel-Kues,Germany
+373059,36,{ywiec,Poland
+384433,36,Aczna,Poland
+374465,218,Media,Romania
+173545,858,Hama,Syria
+189138,96,Hermosillo,Mexico
+192807,801,Ramat Gan,Israel
+207575,142,Riom,France
+214942,28,Kazincbarcika,Hungary
+264899,183,Unterhaching,Germany
+377965,414,San Nicolás de los Arroyos,Argentina
+265483,38,Campomorone,Italy
+328975,230,Kobuleti,Georgia
+337478,214,adca,Slovakia
+379103,145,Adur,United Kingdom
+485496,232,Shymkent,Kazakhstan
+491099,30,Carlsbad,United States of America
+508591,213,Police nad Metují,Czech Republic
+649214,28,Csongrád,Hungary
+738303,96,Reynosa,Mexico
+368320,736,Samborondón,Ecuador
+845307,96,Tlalnepantla de Baz Municipality,Mexico
+133315,27,Limerick,Republic of Ireland
+134672,145,Exeter,United Kingdom
+134509,79,Port Said,Egypt
+133116,16,Hamilton,Canada
+133118,43,^anl1urfa,Turkey
+134291,43,Mersin,Turkey
+2838,183,Oberhausen,Germany
+3952,183,Plauen,Germany
+4165,183,Bad Homburg vor der Höhe,Germany
+6697,38,Empoli,Italy
+9833,55,Etten-Leur,Netherlands
+13496,38,Brindisi,Italy
+134287,43,Tarsus,Turkey
+14932,183,Langen,Germany
+16059,183,Cloppenburg,Germany
+50095,38,Gagliano Aterno,Italy
+50119,38,Pacentro,Italy
+50124,38,Pettorano sul Gizio,Italy
+50129,38,Pratola Peligna,Italy
+50157,38,Sulmona,Italy
+50172,38,Villetta Barrea,Italy
+51353,38,Castiglione a Casauria,Italy
+120103,17,Kaga,Japan
+127041,668,Mangalore,India
+128105,38,Minturno,Italy
+128226,38,Terracina,Italy
+138338,30,New Brunswick,United States of America
+163749,30,West Palm Beach,United States of America
+173690,222,Gjirokastër,Albania
+180083,142,Menton,France
+185632,229,Limassol,Cyprus
+217646,148,Mudanjiang,People's Republic of China
+242108,17,Otaru,Japan
+360235,148,Ma'anshan,People's Republic of China
+372791,148,Jining,People's Republic of China
+384926,17,Lgaki,Japan
+386691,17,Niiza,Japan
+432337,38,Racalmuto,Italy
+486472,30,Kansas City,United States of America
+115329,241,Camagüey,Cuba
+232842,419,Puno,Peru
+234184,36,CheBm,Poland
+4019,183,Sindelfingen,Germany
+236083,36,SuwaBki,Poland
+4346,183,Waren (Müritz),Germany
+5655,159,Chernyakhovsk,Russia
+234178,145,Bangor,United Kingdom
+230628,711,Erdenet,Mongolia
+235571,711,Darkhan,Mongolia
+239097,858,Deir ez-Zor,Syria
+15771,399,Armavir,Armenia
+242497,142,Tremblay-en-France,France
+20467,38,Marsciano,Italy
+243319,924,Morogoro,Tanzania
+231765,408,Geelong,Australia
+118910,37,Nemenin,Lithuania
+128321,30,Midland,United States of America
+137271,833,Kota Kinabalu,Malaysia
+139588,16,Côte-Saint-Luc,Canada
+146469,212,Khust,Ukraine
+157050,221,Veles,North Macedonia
+170521,148,Kashgar,People's Republic of China
+170903,45,Guimarães,Portugal
+173270,96,Veracruz,Mexico
+184345,298,Viña del Mar,Chile
+204239,55,Barendrecht,Netherlands
+613701,33,Pieksämäki,Finland
+209983,28,Gyöngyös,Hungary
+235004,928,Vigan,Philippines
+275589,142,Taverny,France
+404873,148,Xinyang,People's Republic of China
+57924,183,Lugau,Germany
+453707,142,Sallaumines,France
+57278,408,Newcastle,Australia
+616895,36,Ryn,Poland
+479687,183,Amt Neuhaus,Germany
+505549,30,Redwood City,United States of America
+508168,34,Falkenberg Municipality,Sweden
+534536,30,Arcadia,United States of America
+657461,739,Cartagena de Indias,Colombia
+728965,214,Luenec,Slovakia
+844430,869,Phuket,Thailand
+852607,30,Lynnwood,United States of America
+616404,1007,Quinhámel,Guinea-Bissau
+1011003,230,Vani,Georgia
+1454790,142,Veneux-les-Sablons,France
+1997239,41,Ilioupoli,Greece
+2279198,96,Benito Juárez Municipality,Mexico
+204382,33,Kouvola,Finland
+2740,183,Sendenhorst,Germany
+2871,183,Hagen,Germany
+2899,183,Mülheim an der Ruhr,Germany
+206879,43,Nev_ehir,Turkey
+205632,142,Aubervilliers,France
+3900,183,Troisdorf,Germany
+15679,29,Badajoz,Spain
+205956,928,Candon,Philippines
+205119,419,Cajamarca,Peru
+20571,38,Spoleto,Italy
+204905,41,Eleusis,Greece
+39971,38,Gela,Italy
+51860,38,Carovigno,Italy
+95093,38,Bondeno,Italy
+153260,183,Bad Godesberg,Germany
+206885,43,Düzce,Turkey
+193226,222,Saranda,Albania
+208158,45,Viana do Castelo,Portugal
+204966,183,Übach-Palenberg,Germany
+465085,29,Almadén,Spain
+206687,664,Nelson,New Zealand
+488702,30,Eureka,United States of America
+490457,183,Rendsburg,Germany
+509476,34,Boden Municipality,Sweden
+204720,145,Hereford,United Kingdom
+517381,183,Dillenburg,Germany
+680743,28,Balatonfüred,Hungary
+723246,792,Santa Tecla,El Salvador
+793809,419,Huaraz,Peru
+828706,30,Pico Rivera,United States of America
+846351,17,Miyazu,Japan
+1007634,811,Estelí,Nicaragua
+1371372,148,Wujiang District,People's Republic of China
+2586558,843,Kotli,Pakistan
+104302,36,Chorzów,Poland
+105048,36,SBupsk,Poland
+405279,219,Dupnitsa,Bulgaria
+597086,217,Ialoveni,Moldova
+407383,219,Radnevo,Bulgaria
+606153,408,Port Macquarie,Australia
+463171,17,Handa,Japan
+605483,36,Kdzierzyn-Kozle,Poland
+470380,213,PYerov,Czech Republic
+580973,408,Orange,Australia
+491350,30,Orange,United States of America
+591213,36,Golczewo,Poland
+535551,183,Joachimsthal,Germany
+608985,29,Elda,Spain
+555956,241,San Luis,Cuba
+642083,29,Arnedo,Spain
+650185,31,Sambreville,Belgium
+583184,1019,Antsirabe,Madagascar
+736305,218,Pacani,Romania
+743218,37,Jonava,Lithuania
+754790,214,Senec,Slovakia
+833845,214,Svidník,Slovakia
+835227,218,Ineu,Romania
+599416,43,Sinop,Turkey
+851998,20,Mosjøen,Norway
+983868,36,MBawa,Poland
+605160,222,Kamëz,Albania
+1014125,43,Kemalpa_a,Turkey
+603592,414,Punta Alta,Argentina
+1043575,77,Carmelo,Uruguay
+1188240,218,Constanta,Romania
+606385,408,Queanbeyan,Australia
+606169,408,Armidale,Australia
+1223916,664,Masterton,New Zealand
+599897,1028,Boujdour,Morocco
+1471408,117,Keta,Ghana
+1641742,213,Pec pod Sn~kou,Czech Republic
+244004,262,Sétif,Algeria
+171031,43,Isparta,Turkey
+189157,37,Utena,Lithuania
+202368,142,Morlaix,France
+205271,191,Võru,Estonia
+242906,155,Ponta Grossa,Brazil
+284541,28,Budapest District VII,Hungary
+295538,38,Orosei,Italy
+373720,45,Castelo Branco,Portugal
+462461,403,Bor,Serbia
+616621,29,Escalona,Spain
+677038,29,San Miguel de Abona,Spain
+488157,20,Rissa,Norway
+986409,33,Kokemäki,Finland
+488607,20,Lier,Norway
+490445,183,Eutin,Germany
+500267,34,Nyköping Municipality,Sweden
+503214,34,Falköping Municipality,Sweden
+1906323,36,Wolbrom,Poland
+506743,183,Waltershausen,Germany
+509651,34,Leksand Municipality,Sweden
+512528,35,Mariagerfjord Municipality,Denmark
+538523,183,Denzlingen,Germany
+550357,214,Giraltovce,Slovakia
+985669,36,CheBmek,Poland
+580115,183,Leinefelde,Germany
+849116,212,Kremenets,Ukraine
+1946027,36,Tyszowce,Poland
+850668,142,Biache-Saint-Vaast,France
+908081,28,Domaszék,Hungary
+936995,96,Comitán de Domínguez,Mexico
+982881,30,South Padre Island,United States of America
+985674,16,Lloydminster,Canada
+1009416,148,Xilinhot,People's Republic of China
+1089052,36,Wojnicz,Poland
+2416719,43,Havran,Turkey
+3906371,43,Tepeba_1,Turkey
+324971,36,Dbrowa Tarnowska,Poland
+11384977,28,Budapest District XVIII,Hungary
+990716,736,Portoviejo,Ecuador
+1765676,29,Torredelcampo,Spain
+2397948,241,Diez de Octubre,Cuba
+910851,30,Rosemead,United States of America
+247128,33,Ulvila,Finland
+1010496,191,Lihula Rural Municipality,Estonia
+1011310,212,Khmilnyk,Ukraine
+1025701,189,Hveragerði,Iceland
+1477270,96,Mexicali,Mexico
+1815510,258,Msunduzi Local Municipality,South Africa
+2092418,191,Suure-Jaani Rural Municipality,Estonia
+15699,29,León,Spain
+393119,36,{erków,Poland
+992920,36,Kty WrocBawskie,Poland
+1549436,189,Sveitarfélagið Skagafjörður,Iceland
+1587810,36,Rakoniewice,Poland
+2014359,142,Communauté urbaine de Dunkerque,France
+2066897,241,Playa,Cuba
+2628984,217,Sîngera,Moldova
+487500,40,Spittal an der Drau,Austria
+602441,32,Pétange,Luxembourg
+693450,145,Royal Borough of Greenwich,United Kingdom
+611784,36,WBoszczowa,Poland
+1063389,142,Le Passage,France
+983726,36,WoBów,Poland
+983729,36,Krapkowice,Poland
+26364,183,Wissen,Germany
+983896,36,Alwernia,Poland
+34593,38,Gaiba,Italy
+977255,37,Plung,Lithuania
+44840,191,Viljandi,Estonia
+984858,33,Saarijärvi,Finland
+155569,159,Krasnogorsk,Russia
+162989,183,Ebersbach-Neugersdorf,Germany
+977305,1041,Tambacounda,Senegal
+201812,145,Huddersfield,United Kingdom
+237394,142,Bondy,France
+984765,36,Chocz,Poland
+261280,183,Bodenkirchen,Germany
+291575,142,Évron,France
+325251,36,Golub-DobrzyD,Poland
+983983,36,Nisko,Poland
+374159,183,Hecklingen,Germany
+493308,20,Bjerkreim,Norway
+499380,34,Kungsbacka Municipality,Sweden
+501518,20,Gran,Norway
+509514,34,Boxholm Municipality,Sweden
+510173,183,Wissen,Germany
+984857,36,Andrychów,Poland
+513446,183,Isny im Allgäu,Germany
+572595,183,Neugersdorf,Germany
+636935,211,Tukums,Latvia
+957530,37,Moltai,Lithuania
+744259,211,Ludza,Latvia
+983540,30,Pullman,United States of America
+851155,17,Kasai,Japan
+12725209,218,Tometi,Romania
+606485,222,Shëngjin,Albania
+611297,36,Koronowo,Poland
+14926,183,Senden,Germany
+27976,35,Faaborg-Midtfyn Municipality,Denmark
+42155,884,Pocheon,South Korea
+42495,38,Barcellona Pozzo di Gotto,Italy
+52092,38,Pergine Valdarno,Italy
+601142,954,Masvingo,Zimbabwe
+81368,183,Kernen im Remstal,Germany
+81722,183,Kamenz,Germany
+583619,1033,Owerri,Nigeria
+81844,30,Gresham,United States of America
+102547,38,Abetone,Italy
+103305,38,Volterra,Italy
+105063,38,Lozio,Italy
+608376,36,BBonie,Poland
+116758,38,Coreno Ausonio,Italy
+128114,30,Yonkers,United States of America
+610917,36,Nowa Dba,Poland
+128369,142,Ploemeur,France
+611086,36,Lesko,Poland
+157462,183,Reichenbach,Germany
+612250,691,Lae,Papua New Guinea
+189133,408,Cairns,Australia
+586758,227,Gazakh,Azerbaijan
+586498,1041,Kédougou,Senegal
+206539,142,Bruay-la-Buissière,France
+215123,38,Scarlino,Italy
+321331,155,Novo Hamburgo,Brazil
+604283,408,Coffs Harbour,Australia
+328000,17,Sasebo,Japan
+954300,783,Santa Rosa de Copán,Honduras
+310117,79,Minya,Egypt
+3185,183,Hildesheim,Germany
+311199,1049,Al Qadarif,Sudan
+75634,218,Reia,Romania
+311326,219060,Al-Bireh,State of Palestine
+311321,858,Al-Hasakah,Syria
+216820,30,Youngstown,United States of America
+221968,142,Gennevilliers,France
+226000,218,Jimbolia,Romania
+478038,28,Kiskunfélegyháza,Hungary
+317145,230,Ozurgeti,Georgia
+761130,159,Henichesk,Russia
+309442,77,Paysandú,Uruguay
+842652,29,Hellín,Spain
+842810,6250,Smara,Western Sahara
+917313,45,Vila do Conde,Portugal
+983723,36,Kra[nik,Poland
+1090008,28,Kondoros,Hungary
+494693,29,Torrelavega,Spain
+1185308,28,Nagydobos,Hungary
+284308,414,Bell Ville,Argentina
+1285102,148,Yongkang,People's Republic of China
+1693963,37,Rokiakis,Lithuania
+2608922,36,Werbkowice,Poland
+536826,183,Grabow,Germany
+453,183,Borken,Germany
+3879,183,Neumünster,Germany
+16568,30,Jacksonville,United States of America
+527268,30,Caguas,United States of America
+543800,33,Ylöjärvi,Finland
+37462,34,Skinnskatteberg Municipality,Sweden
+61944,232,Semey,Kazakhstan
+351427,115,Adama,Ethiopia
+107401,43,Sivas,Turkey
+529282,217,Anenii Noi,Moldova
+207294,184,Babruysk,Belarus
+345339,36,Aeba,Poland
+242784,38,Ladispoli,Italy
+523394,183,Damme,Germany
+323408,31,Damme,Belgium
+331087,142,Creil,France
+523778,843,Sahiwal,Pakistan
+474605,145,Rochdale,United Kingdom
+486306,30,Pensacola,United States of America
+509546,34,Borgholm Municipality,Sweden
+661038,17,Fukuyama,Japan
+134703,43,Kahramanmara_,Turkey
+748513,33,Loviisa,Finland
+816099,30,Belmont,United States of America
+1033759,408,City of Canterbury,Australia
+1146805,189,Fjarðabyggð,Iceland
+1266078,191,Tartu Rural Municipality,Estonia
+1343733,17,Kushimoto,Japan
+126898,142,Antibes,France
+8182,183,Rastatt district,Germany
+129352,227,Stepanakert,Azerbaijan
+125434,258,Port Elizabeth,South Africa
+41087,30,Raleigh,United States of America
+47045,142,Saint-Denis,France
+104577,38,Desenzano del Garda,Italy
+109469,20,Askim Municipality,Norway
+128139,38,Priverno,Italy
+117211,38,Roccasecca,Italy
+153380,159,Kineshma,Russia
+126269,145,Wolverhampton,United Kingdom
+184883,142,Moulins,France
+191805,213,Mladá Boleslav,Czech Republic
+303246,31,Aartselaar,Belgium
+429910,142,Beaugency,France
+470740,142,Tullins,France
+485129,29,El Burgo de Osma-Ciudad de Osma,Spain
+502993,213,Uherské Hradiat,Czech Republic
+584849,30,Deerfield Beach,United States of America
+623557,189,Seyðisfjörður,Iceland
+628324,183,Wallenhorst,Germany
+661329,40,Bruck an der Leitha,Austria
+763400,215,Municipality of Brda,Slovenia
+799284,801,Mateh Yehuda Regional Council,Israel
+302745,40,Hall in Tirol,Austria
+272795,419,Tacna,Peru
+2203,298,Arica,Chile
+301924,36,Skawina,Poland
+4060,183,Hürth,Germany
+289693,878,Sharjah,United Arab Emirates
+9080,38,Bricherasio,Italy
+289267,1009,Dschang,Cameroon
+284604,36,KBodzko,Poland
+14872,183,Bensheim,Germany
+281016,241,Gibara,Cuba
+15619,29,El Prat de Llobregat,Spain
+16078,183,Georgsmarienhütte,Germany
+305697,36,PBoty,Poland
+21014,183,Niebüll,Germany
+303160,223,Upernavik,Greenland
+275635,986,Massawa,Eritrea
+48096,38,Sommacampagna,Italy
+276537,189,Borgarnes,Iceland
+57917,20,Ullensaker,Norway
+104400,20,Hamar Municipality,Norway
+140631,865,Tainan,Taiwan
+192393,142,Évry,France
+193780,29,Almuñécar,Spain
+206555,191,Maardu,Estonia
+207587,142,Rochefort,France
+209016,739,Santa Marta,Colombia
+243566,142,Carvin,France
+275592,36,PiDczów,Poland
+329768,28,Tata,Hungary
+486792,29,Aranjuez,Spain
+498043,142,Les Pavillons-sous-Bois,France
+690039,36,Nowy Dwór Mazowiecki,Poland
+706511,865,Yongkang District,Taiwan
+748028,414,Puerto Madryn,Argentina
+840634,4628,Leirvík,Faroe Islands
+492312,29,Hondarribia,Spain
+845424,29,Peniscola,Spain
+847764,96,Tequila,Mexico
+115276,236,Bar,Montenegro
+116156,241,Mariel,Cuba
+15602,29,Cornellà de Llobregat,Spain
+16337,38,Novi Ligure,Italy
+43048,41,Rhodes,Greece
+49583,159,Olonets,Russia
+57958,148,Zhenjiang,People's Republic of China
+61480,36,EBk,Poland
+75230,148,Panjin,People's Republic of China
+120740,36,Lubomierz,Poland
+81760,183,Wittichenau,Germany
+115256,865,Taoyuan,Taiwan
+107146,30,Alameda County,United States of America
+109374,423,Wonsan,North Korea
+123196,801,Sderot,Israel
+158064,183,Steglitz-Zehlendorf,Germany
+118995,43,Mu_,Turkey
+205592,142,Antony,France
+392692,213,`umperk,Czech Republic
+577803,96,Valle de Guadalupe Municipality,Mexico
+651891,155,Diadema,Brazil
+656189,96,Ensenada,Mexico
+707030,408,Shepparton,Australia
+728412,717,Sabaneta,Venezuela
+751153,36,Wgorzewo,Poland
+753034,30,Calexico,United States of America
+113464,16,Chatham-Kent,Canada
+985289,30,Harpers Ferry,United States of America
+122803,43,Erzurum,Turkey
+1982975,29,Los Alcázares,Spain
+20413,38,Città di Castello,Italy
+158088,221,Kavadarci,North Macedonia
+406222,219,Panagyurishte,Bulgaria
+651322,218,Nsud,Romania
+930449,212,Horodok,Ukraine
+932445,211,Ludza Municipality,Latvia
+994280,213,Bruntál,Czech Republic
+1012887,43,Karadeniz Ereli,Turkey
+1884,183,Düren,Germany
+1011011,230,Khoni,Georgia
+1010954,811,Somoto,Nicaragua
+13855,29,Vic,Spain
+1011882,965,Gaoua,Burkina Faso
+213497,142,Fontenay-le-Comte,France
+911530,28,Hajdúhadház,Hungary
+1011047,230,Gurjaani,Georgia
+954265,184,Haradok,Belarus
+993025,191,Padise Rural Municipality,Estonia
+1004302,37,Pakruojis,Lithuania
+1016981,30,Mineral Wells,United States of America
+1134454,717,Coro,Venezuela
+1358949,17,Kusatsu,Japan
+1752638,145,Tendring,United Kingdom
+1795634,155,Sertãozinho,Brazil
+1813849,37,`venionys District Municipality,Lithuania
+1010960,230,Gardabani,Georgia
+1976493,227,Aghstafa,Azerbaijan
+774352,36,Bolków,Poland
+1976,142,Givors,France
+803986,219060,Beit Lahia,State of Palestine
+7253,252,Padang,Indonesia
+13596,142,Vaulx-en-Velin,France
+806424,241,Banes,Cuba
+15649,29,Sant Vicenç dels Horts,Spain
+797713,36,Babimost,Poland
+16085,183,Neuruppin,Germany
+778941,96,General Escobedo,Mexico
+770518,262,Boumerdès,Algeria
+42200,148,Hainan,People's Republic of China
+48144,38,Mira,Italy
+49259,30,Virginia Beach,United States of America
+52063,38,Anghiari,Italy
+797036,403,Prijepolje,Serbia
+64058,39,Köniz,Switzerland
+82789,38,Pelago,Italy
+766464,965,Kaya,Burkina Faso
+102555,38,Agliana,Italy
+102716,38,Quarrata,Italy
+102780,38,Serravalle Pistoiese,Italy
+781249,33,Närpes,Finland
+111226,38,Quattro Castella,Italy
+775610,16,Camrose,Canada
+139229,16,Saguenay,Canada
+774098,36,Kazimierz Dolny,Poland
+162890,183,Xanten,Germany
+171545,142,Belfort,France
+794712,227,Martakert,Azerbaijan
+183394,399,Vagharshapat,Armenia
+808344,36,Barlinek,Poland
+186441,36,Gryfino,Poland
+768591,1041,Oussouye,Senegal
+807901,33,Laitila,Finland
+799790,1009,Bafia,Cameroon
+240504,28,Makó,Hungary
+782278,41,Naupactus,Greece
+242926,38,Marino,Italy
+323072,142,Courrières,France
+776499,36,KoDskie,Poland
+484052,20,Bamble,Norway
+494631,183,Sassnitz,Germany
+500125,34,Härryda Municipality,Sweden
+503006,183,Schneverdingen,Germany
+528062,183,Staufen im Breisgau,Germany
+537214,183,Prenzlau,Germany
+777802,36,CzerwieDsk,Poland
+572518,183,Drebkau,Germany
+768689,36,Pieni|no,Poland
+625747,183,Rangsdorf,Germany
+797568,736,Babahoyo,Ecuador
+673073,43,Eyüpsultan,Turkey
+695911,17,Kuji,Japan
+840632,55,Opsterland,Netherlands
+754724,218,Gheorgheni,Romania
+1635,183,Harburg,Germany
+39383,20,Bodø,Norway
+39981,38,Voghera,Italy
+42125,884,Yeosu,South Korea
+43668,30,Louisville,United States of America
+212856,36,Wadowice,Poland
+55949,38,Pietrelcina,Italy
+57864,20,Nesodden,Norway
+66629,39,Saanen,Switzerland
+213127,37,Ukmerg,Lithuania
+100394,38,Cologno al Serio,Italy
+107351,20,Hammerfest Municipality,Norway
+130800,142,Papeete,France
+153609,159,Kirovsk,Russia
+174691,17,Shizuoka,Japan
+188801,145,Royal Borough of Kensington and Chelsea,United Kingdom
+189761,28,Szekszárd,Hungary
+242000,38,Carpineto Romano,Italy
+340757,38,La Maddalena,Italy
+487328,183,Marktl,Germany
+505052,34,Vetlanda Municipality,Sweden
+515409,34,Sölvesborg Municipality,Sweden
+554126,36,Gmina Tarnowo Podgórne,Poland
+578277,30,Chicago Heights,United States of America
+849156,211,L+vni,Latvia
+852638,30,Dana Point,United States of America
+996320,142,Morne-à-l'Eau,France
+713381,865,Taitung City,Taiwan
+1822,928,Baguio,Philippines
+685509,804,Santiago de Veraguas,Panama
+717404,36,Olesno,Poland
+3912,183,Arnsberg,Germany
+4031,183,Rüsselsheim am Main,Germany
+717933,36,Milicz,Poland
+5870,183,Freital,Germany
+722827,912,Sikasso,Mali
+6393,142,Brive-la-Gaillarde,France
+6477,183,Pirna,Germany
+718038,36,Sulcin,Poland
+681893,29,Errenteria,Spain
+14882,183,Schorndorf,Germany
+693913,29,Medina del Campo,Spain
+717947,36,GBubczyce,Poland
+22955,183,Rockenhausen,Germany
+680596,786,San Pedro de Macorís,Dominican Republic
+28603,30,Frankfort,United States of America
+42109,884,Sokcho,South Korea
+685941,836,Mawlamyine,Myanmar
+49268,30,Fort Wayne,United States of America
+717942,36,Trzebnica,Poland
+51822,38,Locorotondo,Italy
+695425,29,Martos,Spain
+53081,928,Baler,Philippines
+705867,408,Warrnambool,Australia
+717774,36,NamysBów,Poland
+93264,183,Nebelschütz,Germany
+113720,20,Høyanger,Norway
+127622,774,San Juan Sacatepéquez,Guatemala
+146524,212,Yaremche,Ukraine
+157713,142,Tulle,France
+158257,213,Hluín,Czech Republic
+158876,183,Reinickendorf,Germany
+689820,221,Debar,North Macedonia
+688654,217,Dubsari,Moldova
+683938,736,Nueva Loja,Ecuador
+196678,159,Torzhok,Russia
+215080,736,Machala,Ecuador
+679169,783,Comayagua,Honduras
+216847,739,Cúcuta,Colombia
+521851,36,"Mikinia Lower Silesian Voivodeship",Poland
+664377,183,Schwarmstedt,Germany
+720142,191,Kareda Rural Municipality,Estonia
+551422,36,DzierzgoD,Poland
+732986,211,Salaspils,Latvia
+789282,28,Balatonföldvár,Hungary
+520687,1029,Mocuba,Mozambique
+850697,45,Alcácer do Sal,Portugal
+547479,28,Dunakeszi,Hungary
+851056,218,Cristuru Secuiesc,Romania
+862508,77,Trinidad,Uruguay
+932507,30,Elkader,United States of America
+994105,1033,Minna,Nigeria
+1280257,36,Stary Scz,Poland
+1784180,30,Doral,United States of America
+1854967,191,Saare Rural Municipality,Estonia
+12670241,37,Prienai Eldership,Lithuania
+530191,41,Nea Ionia,Greece
+56423517,229,Lefkoniko,Cyprus
+647417,1028,Mohammedia,Morocco
+674320,419,Cerro de Pasco,Peru
+623159,219060,Qalqilya,State of Palestine
+653855,36,Cieszanów,Poland
+8770,183,Radeburg,Germany
+667588,36,Buk,Poland
+9866,55,Sint-Michielsgestel,Netherlands
+638704,262,Béchar,Algeria
+15335,159,Sosnovy Bor,Russia
+671062,414,"Arroyito Córdoba",Argentina
+20545,38,Verzuolo,Italy
+639674,965,Banfora,Burkina Faso
+25213,38,Trino,Italy
+643081,241,Nuevitas,Cuba
+40251,30,Issaquah,United States of America
+639340,77,Pando,Uruguay
+642696,33,Jämsä,Finland
+47018,34,Fagersta Municipality,Sweden
+643883,843,Sialkot,Pakistan
+647543,29,Arrecife,Spain
+48769,20,Åsnes Municipality,Norway
+49243,30,Riverside,United States of America
+59169,20,Mo i Rana,Norway
+671431,16,Prince Albert,Canada
+92277,148,Jilin City,People's Republic of China
+672458,792,San Miguel,El Salvador
+107126,30,Arlington County,United States of America
+664599,33,Nykarleby,Finland
+110431,20,Steinkjer Municipality,Norway
+658230,37,Kelm,Lithuania
+124375,28,HódmezQvásárhely,Hungary
+126670,28,Diósd,Hungary
+656988,33,Nurmes,Finland
+156453,20,Ørsta,Norway
+653797,36,Brzozów,Poland
+639241,36,Midzyrzecz,Poland
+630692,766,Saint Ann's Bay,Jamaica
+181981,183,Lienen,Germany
+661529,145,Ripon,United Kingdom
+657744,217,Cueni,Moldova
+193922,159,Segezha,Russia
+664550,1032,Maradi,Niger
+221990,34,Sollefteå Municipality,Sweden
+637863,29,Arcos de la Frontera,Spain
+241708,38,Anticoli Corrado,Italy
+257223,35,Ballerup Municipality,Denmark
+319445,36,BiBgoraj,Poland
+639212,36,Oborniki,Poland
+371560,183,Hambühren,Germany
+411080,218,Aiud,Romania
+667650,1029,Lichinga,Mozambique
+425817,45,Vila Nova de Poiares,Portugal
+659905,36,MikoBów,Poland
+481564,214,Ilava,Slovakia
+487502,34,Laholm Municipality,Sweden
+488869,29,Benalmádena,Spain
+488924,30,Oceanside,United States of America
+640453,36,My[libórz,Poland
+504754,183,Soltau,Germany
+538801,183,Argenbühl,Germany
+974354,811,Chinandega,Nicaragua
+951602,790,Port-de-Paix,Haiti
+6968,183,Erkrath,Germany
+984646,96,Jiutepec,Mexico
+1022131,217,Rîcani,Moldova
+1023760,36,Nowogród BobrzaDski,Poland
+1022481,801,Taibe,Israel
+431779,184,`uyn,Belarus
+567827,36,Ozimek,Poland
+1022984,1007,Farim,Guinea-Bissau
+517407,183,Sondershausen,Germany
+569639,183,Lahnstein,Germany
+587069,183,Seelow,Germany
+670164,212,Skhidnytsia,Ukraine
+557643,16,Mission,Canada
+726418,17,Oyama,Japan
+559793,241,Caimito,Cuba
+768691,29,Barañáin,Spain
+852272,37,Vilkaviakis,Lithuania
+948267,36,Wilamowice,Poland
+911634,28,Kisújszállás,Hungary
+945055,711,Bulgan,Mongolia
+930743,142,Rubrouck,France
+937793,142,Marly,France
+958685,184,Masty,Belarus
+1005905,36,Lwówek,Poland
+1640282,191,Jõhvi Rural Municipality,Estonia
+47952,145,Salford,United Kingdom
+48285,414,Carlos Paz,Argentina
+3936,183,Bamberg,Germany
+6555,142,Narbonne,France
+11301,183,Ennepetal,Germany
+13680,38,Caltanissetta,Italy
+18459,884,Yongin,South Korea
+47649,38,Peschiera del Garda,Italy
+47571,29,Lorca,Spain
+48403,668,Amritsar,India
+49256,30,Bakersfield,United States of America
+222242,28,Kisköre,Hungary
+733005,717,Guanare,Venezuela
+269447,183,Kitzingen,Germany
+360702,148,Lu'an,People's Republic of China
+476242,142,Montmorillon,France
+496456,38,Cellamare,Italy
+499861,183,Neustadt in Holstein,Germany
+717399,36,Strzelce KrajeDskie,Poland
+504812,183,Tornesch,Germany
+505151,35,Silkeborg Municipality,Denmark
+510840,30,Storm Lake,United States of America
+679238,36,Czaplinek,Poland
+516432,183,Bad Schwartau,Germany
+536765,183,Marlow,Germany
+543542,45,Portimão,Portugal
+571992,183,Grimmen,Germany
+609188,783,Distrito Central,Honduras
+694109,736,Puerto Baquerizo Moreno,Ecuador
+671812,30,Chapel Hill,United States of America
+750407,214,Senica,Slovakia
+686167,36,Trzebinia,Poland
+772803,142,Billy-Montigny,France
+851004,30,Novato,United States of America
+733093,27,Cobh,Republic of Ireland
+864106,30,Lake Charles,United States of America
+936624,29,Fuentepelayo,Spain
+986741,45,Lousada,Portugal
+991201,20,Rjukan,Norway
+991797,36,Kolbuszowa,Poland
+1019339,213,Msto Albrechtice,Czech Republic
+678425,36,GBuchoBazy,Poland
+1019838,213,Mikulovice,Czech Republic
+723584,419,Talara,Peru
+1137819,142,Saint-Rémy-sur-Avre,France
+706105,408,Dubbo,Australia
+1637478,155,Quaraí,Brazil
+2485095,96,Culiacán Municipality,Mexico
+18812162,96,Tlalnepantla,Mexico
+44792192,191,Paide City,Estonia
+586710,212,Yuzhne,Ukraine
+216900,33,Kerava,Finland
+652130,189,Reykjanesbær,Iceland
+748474,30,Corvallis,United States of America
+855073,28,Solt,Hungary
+940330,41,Kalabaka,Greece
+990122,965,Fada NGourma,Burkina Faso
+999916,213,Vysoké Mýto,Czech Republic
+1010183,189,Kirkjubæjarklaustur,Iceland
+217443,230,Chiatura,Georgia
+1029774,43,Murgul,Turkey
+1805833,23681,Lapithos,Northern Cyprus
+217156,79,Ismailia,Egypt
+2030,16,Iqaluit,Canada
+5449,159,Yoshkar-Ola,Russia
+219382,36,Lwówek Zlski,Poland
+6715,183,Heidenau,Germany
+212680,222,Lushnjë,Albania
+14889,183,Schwabach,Germany
+22945,142,L'Hôpital,France
+28532,34,Trollhättan Municipality,Sweden
+40219,38,Canale d'Agordo,Italy
+47520,38,Sona,Italy
+79553,30,Emmonak,United States of America
+216939,1028,Essaouira,Morocco
+94745,38,Castel di Casio,Italy
+156760,212,Nikopol,Ukraine
+165867,801,Modi'in-Maccabim-Re'ut,Israel
+212686,41,Aigio,Greece
+197582,159,Khimki,Russia
+207222,213,Zlaté Hory,Czech Republic
+551056,45,Mértola,Portugal
+2910,183,Ludwigshafen,Germany
+6905,183,Frankenthal,Germany
+47887,55,Nijmegen,Netherlands
+93323,36,Chrzanów,Poland
+180078,794,Kermanshah,Iran
+194165,810,Irbid,Jordan
+221377,38,Viareggio,Italy
+274822,142,Harnes,France
+490025,183,Ratzeburg,Germany
+510223,34,Karlshamn Municipality,Sweden
+938707,148,Qingtongxia,People's Republic of China
+992432,16,Kentville,Canada
+1042732,28,Budapest District V,Hungary
+1119894,142,Perpignan Méditerranée Métropole,France
+1120443,145,North Tyneside,United Kingdom
+1357226,17,Kamifurano,Japan
+1615401,183,Herzogenaurach,Germany
+127775,142,Ploërmel,France
+47282,813,Osh,Kyrgyzstan
+3871,298,Coquimbo,Chile
+5343,159,Saransk,Russia
+9306,183,Eberswalde,Germany
+16119,183,Idar-Oberstein,Germany
+19272,38,Cava de' Tirreni,Italy
+21108,35,Sønderborg Municipality,Denmark
+23185,159,Mytishchi,Russia
+105037,419,Callao,Peru
+42664,148,Huzhou,People's Republic of China
+49246,30,Aurora,United States of America
+118642,38,Termoli,Italy
+118903,37,Vilnius District Municipality,Lithuania
+157200,183,Zittau,Germany
+167600,142,Auxerre,France
+170415,219,Stara Zagora,Bulgaria
+176264,159,Ozyory,Russia
+180871,142,Compiègne,France
+192896,145,Carlisle,United Kingdom
+278743,184,Navahrudak,Belarus
+279373,38,Rovereto,Italy
+317433,142,Les Mureaux,France
+486551,183,Verden,Germany
+514796,148,Baoji,People's Republic of China
+559525,183,Barßel,Germany
+630627,142,Seclin,France
+648489,403,Loznica,Serbia
+715975,865,Taoyuan District,Taiwan
+750424,184,Navapolack,Belarus
+754666,4628,Tvøroyri,Faroe Islands
+841304,45,Cartaxo,Portugal
+1012323,30,Flensburg,United States of America
+3033,183,Göttingen,Germany
+472621,36,Wieliczka,Poland
+4192,183,Bergkamen,Germany
+10282,29,Pamplona,Spain
+11125,29,Lugo,Spain
+15678,29,Cáceres,Spain
+82865,38,Sesto Fiorentino,Italy
+474651,403,Gjakova,Serbia
+483331,43,Id1r,Turkey
+162411,227,Sharur,Azerbaijan
+170919,869,Pattaya,Thailand
+189633,148,Guilin,People's Republic of China
+193929,142,Suresnes,France
+198650,142,Lodève,France
+200942,145,Swindon,United Kingdom
+209101,142,Sartrouville,France
+478675,736,Riobamba,Ecuador
+213299,142,Jonzac,France
+223439,17,Kure,Japan
+245126,28,Siófok,Hungary
+273059,45,Cascais,Portugal
+291745,45,Ílhavo,Portugal
+383850,213,Litovel,Czech Republic
+388224,227,Shamakhi,Azerbaijan
+507656,34,Piteå Municipality,Sweden
+532981,148,Baiyin,People's Republic of China
+728517,142,Saint-André-lez-Lille,France
+840362,29,Mondoñedo,Spain
+983861,30,Jamestown,United States of America
+752113,736,Tulcán,Ecuador
+748533,33,Iisalmi,Finland
+2326,20,Notodden,Norway
+7078,183,Rottenburg am Neckar,Germany
+7936,159,Kirishsky District,Russia
+735138,37,Kdainiai,Lithuania
+33349,159,Melitopol,Russia
+36214,298,Puerto Montt,Chile
+748336,424,Battambang,Cambodia
+738353,96,Matamoros,Mexico
+52198,38,Specchia,Italy
+53928,38,Paola,Italy
+753642,414,Avellaneda,Argentina
+54024,38,Terranova da Sibari,Italy
+54356,34,Nyköping,Sweden
+104354,159,Bagrationovsk,Russia
+744704,33,Kemijärvi,Finland
+104379,20,Vadsø Municipality,Norway
+108983,20,Vardø Municipality,Norway
+109048,20,Horten,Norway
+115998,219,Gorna Oryahovitsa,Bulgaria
+144264,159,Kandalaksha,Russia
+146307,213,Dín,Czech Republic
+917330,45,Santo Tirso,Portugal
+174247,142,Mâcon,France
+887147,189,Blönduós,Iceland
+192870,33,Nokia,Finland
+193367,33,Porvoo,Finland
+196163,36,Aobez,Poland
+915420,33,Loimaa,Finland
+196479,159,Staraya Russa,Russia
+742854,33,Keuruu,Finland
+196786,159,Uglich,Russia
+876176,43,Selçuk,Turkey
+921505,801,Gedera,Israel
+202458,218,Roman,Romania
+336250,40,Lienz,Austria
+501442,34,Uddevalla Municipality,Sweden
+912952,33,Pudasjärvi,Finland
+504505,34,Vindeln Municipality,Sweden
+516474,183,Groß-Umstadt,Germany
+922959,41,Glyfada,Greece
+632097,233,G|ira,Malta
+650569,43,Erbaa,Turkey
+916536,783,La Ceiba,Honduras
+739664,792,Santa Ana,El Salvador
+829859,189,Mosfellsbær,Iceland
+912235,218,Toplia,Romania
+858351,28,Budapest District XV,Hungary
+975549,30,Seguin,United States of America
+990247,41,Dion,Greece
+893092,34754,Borama,Somaliland
+990253,145,Henley-on-Thames,United Kingdom
+890681,36,BoguchwaBa,Poland
+1018700,213,BystYice nad Pernatejnem,Czech Republic
+2396143,159,Pyaozersky,Russia
+2625119,159,Loukhi,Russia
+3400385,408,Rockdale,Australia
+2272,20,Skien,Norway
+885996,811,Bluefields,Nicaragua
+40340,30,Racine,United States of America
+109021,20,Moss Municipality,Norway
+128306,30,Denton,United States of America
+133075,159,Vidnoye,Russia
+693237,17,Chitose,Japan
+911567,28,Nyékládháza,Hungary
+1205722,17,Kanegasaki,Japan
+1365804,869,Prachin Buri,Thailand
+180522,810,Aqaba,Jordan
+175323,43,Adapazar1,Turkey
+690,55,Delft,Netherlands
+2290,20,Porsgrunn,Norway
+179815,145,Durham,United Kingdom
+180057,145,Lincoln,United Kingdom
+4149,183,Neustadt an der Weinstraße,Germany
+7027,183,Straubing,Germany
+7568,252,Yogyakarta,Indonesia
+176924,96,Heroica Ciudad de Cananea,Mexico
+8762,183,Radebeul,Germany
+15379,252,Kendari,Indonesia
+15758,159,Anapa,Russia
+176728,189,Neskaupstaður,Iceland
+33405,30,Little Rock,United States of America
+178067,1019,Toamasina,Madagascar
+58422,148,Tangshan,People's Republic of China
+180810,230,Mtskheta,Georgia
+79891,30,Sierra Vista,United States of America
+79923,96,Puebla,Mexico
+175651,159,Obninsk,Russia
+158796,36,Radomsko,Poland
+170573,794,Qom,Iran
+181830,219,Shumen,Bulgaria
+189901,41,Argos,Greece
+180803,145,Truro,United Kingdom
+267871,211,Skrunda,Latvia
+273877,45,Santarém,Portugal
+396579,224,Kaatela,Croatia
+481544,38,Alcamo,Italy
+180084,1033,Ile Ife,Nigeria
+2118067,408,Warwick,Australia
+3162907,35,Tønder Municipality,Denmark
+50816,16,Mississauga,Canada
+10127,252,Tangerang,Indonesia
+399316,954,Gweru,Zimbabwe
+57871,20,Skedsmo,Norway
+73065,55,Veendam,Netherlands
+116404,38,Anagni,Italy
+131491,145,Brighton,United Kingdom
+134735,159,Gus-Khrustalny,Russia
+423258,217,Orhei,Moldova
+51111,739,Pereira,Colombia
+413747,33,Akaa,Finland
+183029,20,Sande,Norway
+51427,36,SzamotuBy,Poland
+207584,142,Brignoles,France
+208499,212,Uman,Ukraine
+219595,212,Smila,Ukraine
+225100,218,Bicaz,Romania
+251689,183,Groß-Gerau,Germany
+256765,38,Bruneck,Italy
+425646,1028,Figuig,Morocco
+258878,142,Stains,France
+389515,17,Kariya,Japan
+399270,96,Uruapan,Mexico
+497341,148,Xianyang,People's Republic of China
+50992,36,Pobiedziska,Poland
+504614,34,Klippan Municipality,Sweden
+508180,34,Hallsberg Municipality,Sweden
+51003,36,Murowana Go[lina,Poland
+534259,183,Hemmingen,Germany
+51408,36,Kórnik,Poland
+569661,183,Königstein im Taunus,Germany
+840681,27,Kinsale,Republic of Ireland
+851838,16,Delta,Canada
+1000086,213,Nový Bor,Czech Republic
+126415,858,Kobani,Syria
+16495467,38,Municipio VIII,Italy
+719,30,Saginaw,United States of America
+152379,801,Hod HaSharon,Israel
+145972,36,Zamo[,Poland
+152374,801,Kiryat Bialik,Israel
+4048,183,Langenfeld,Germany
+4195,183,Erftstadt,Germany
+7769,159,Birobidzhan,Russia
+10397,252,Sukabumi,Indonesia
+14835,183,Bautzen,Germany
+14910,183,Schwäbisch Hall,Germany
+14938,183,Bernburg,Germany
+25280,30,Harrisburg,United States of America
+26426,30,Montpelier,United States of America
+152368,801,Beit She'an,Israel
+52975,38,Cervia,Italy
+149111,36,Lubsko,Poland
+53907,183,Vlotho,Germany
+145002,214,Trenín,Slovakia
+94638,38,Casalecchio di Reno,Italy
+148062,810,Zarqa,Jordan
+139473,16,Sherbrooke,Canada
+142811,30,Allentown,United States of America
+147607,213,Jablonec nad Nisou,Czech Republic
+149790,36,"Brody {ary County",Poland
+147750,37,Zarasai,Lithuania
+169237,36,ZduDska Wola,Poland
+171018,213,Zlín,Czech Republic
+193001,218,Sighioara,Romania
+213296,218,Sinaia,Romania
+220121,219,Montana,Bulgaria
+651811,31,Tielt,Belgium
+691278,142,Yvetot,France
+737822,43,Bergama,Turkey
+984155,30,Folsom,United States of America
+988413,786,Puerto Plata,Dominican Republic
+998227,212,Horishni Plavni,Ukraine
+1125500,29,Real Sitio de San Ildefonso,Spain
+424773,16,Welland,Canada
+818019,1028,Settat,Morocco
+833946,241,Nueva Gerona,Cuba
+824594,1028,Nador,Morocco
+820972,977,Tadjoura,Djibouti
+14934,183,Lüdinghausen,Germany
+20457,38,Gualdo Tadino,Italy
+200054,668,Jamshedpur,India
+42074,884,Gunsan,South Korea
+47430,30,Green Bay,United States of America
+833016,77,Tacuarembó,Uruguay
+816187,222,Belsh,Albania
+52970,38,Castel Bolognese,Italy
+104587,213,Kyjov,Czech Republic
+159610,222,Vlorë,Albania
+187136,148,Luoyang,People's Republic of China
+189969,236,Ulcinj,Montenegro
+271917,17,Kushiro,Japan
+582614,183,Neuhardenberg,Germany
+591719,212,Novovolynsk,Ukraine
+640368,36,Sztum,Poland
+657288,183,Ritterhude,Germany
+688473,142,Chauvigny,France
+200122,183,Linnich,Germany
+696996,142,Lesquin,France
+756593,218,Târgu Neam,Romania
+846440,214,Moldava nad Bodvou,Slovakia
+640493,36,Kpno,Poland
+855060,28,Encs,Hungary
+864836,212,Zhovkva,Ukraine
+646684,924,Mtwara,Tanzania
+865716,145,Redditch,United Kingdom
+921780,142,Val-de-Reuil,France
+954611,213,Jeseník,Czech Republic
+647982,227,Guba,Azerbaijan
+1012929,43,Erzin,Turkey
+653420,230,Bolnisi,Georgia
+1026631,227,Goygol,Azerbaijan
+1074105,214,Kalu~a,Slovakia
+642631,408,Busselton,Australia
+1345351,17,Sugito,Japan
+23890484,191,Tapa Rural Municipality,Estonia
+71180,183,Rochlitz,Germany
+817118,189,Höfn,Iceland
+90595,20,Risør,Norway
+819387,33,Haapavesi,Finland
+104773,159,Belomorsk,Russia
+829842,33,Forssa,Finland
+158485,36,Siemianowice Zlskie,Poland
+149108,213,Jablunkov,Czech Republic
+158488,36,Piekary Zlskie,Poland
+159548,183,Ingelheim am Rhein,Germany
+168929,155,Campo Grande,Brazil
+189153,142,Saint-Cloud,France
+206961,142,Épinay-sur-Seine,France
+158903,227,Shusha,Azerbaijan
+214162,145,London Borough of Hounslow,United Kingdom
+255025,34,Älvsbyn Municipality,Sweden
+274290,142,Wattrelos,France
+835838,37,Jurbarkas,Lithuania
+276859,36,Hajnówka,Poland
+320798,28,Mohács,Hungary
+393426,213,}atec,Czech Republic
+458422,218,Câmpia Turzii,Romania
+463165,16,Sault Ste. Marie,Canada
+473529,20,Fjell,Norway
+481514,38,Marsala,Italy
+503227,35,Struer Municipality,Denmark
+503410,183,Edewecht,Germany
+510198,34,Tierp Municipality,Sweden
+511394,34,Kungälv Municipality,Sweden
+811130,574,Baucau,East Timor
+541032,408,City of Darebin,Australia
+668318,28,Sárospatak,Hungary
+835423,36,Strzy|ów,Poland
+674311,28,Kisvárda,Hungary
+699625,40,Lassee,Austria
+725122,31,Laakdal,Belgium
+809787,217,Basarabeasca,Moldova
+807904,33,Taivassalo,Finland
+842211,29,San Fernando de Henares,Spain
+842472,77,Florida,Uruguay
+917693,155,Santana do Livramento,Brazil
+1020646,43,Çankaya,Turkey
+1359995,142,Cissé,France
+1474739,191,Ridala Rural Municipality,Estonia
+1474848,408,City of Yarra,Australia
+1792157,155,Aquidauana,Brazil
+1294439,842,Salalah,Oman
+1002807,1007,Cacheu,Guinea-Bissau
+166824,43,Afyonkarahisar,Turkey
+1008456,811,Puerto Cabezas,Nicaragua
+15555,29,Sant Pere de Ribes,Spain
+1005350,36,O[no Lubuskie,Poland
+1009253,408,Ipswich,Australia
+166002,664,Upper Hutt,New Zealand
+49261,30,Mesa,United States of America
+1261509,37,Druskininkai,Lithuania
+76493,159,Dzerzhinsk,Russia
+1185115,258,City of Cape Town,South Africa
+1005356,36,Rabka-Zdrój,Poland
+81768,183,Murrhardt,Germany
+1010550,33,Pargas,Finland
+113692,34,Haninge Municipality,Sweden
+1188560,117,Winneba,Ghana
+1340579,854,Nuwara Eliya,Sri Lanka
+1005442,36,Otmuchów,Poland
+156825,212,Chervonohrad,Ukraine
+1003112,36,Niemodlin,Poland
+1324653,717,El Tocuyo,Venezuela
+165380,183,Hann. Münden,Germany
+161962,36,CheBmno,Poland
+1001941,241,San José de las Lajas,Cuba
+164197,29,Coslada,Spain
+1005472,36,Warta,Poland
+181609,183,Lengerich,Germany
+187861,408,Wollongong,Australia
+189161,224,Trogir,Croatia
+1005538,36,Czerwionka-Leszczyny,Poland
+191120,211,Jkabpils,Latvia
+192213,801,Holon,Israel
+192501,43,Safranbolu,Turkey
+198135,159,Chudovo,Russia
+214580,142,Château-Gontier,France
+221495,224,Vinkovci,Croatia
+1003279,36,Dobczyce,Poland
+225334,183,Versmold,Germany
+257823,183,Oberviechtach,Germany
+1184741,17,Nishiki,Japan
+329797,17,Iwakuni,Japan
+1190869,1007,Catió,Guinea-Bissau
+395919,45,Anadia,Portugal
+1009308,1028,Sefrou,Morocco
+467351,142,Blotzheim,France
+493961,20,Ulstein,Norway
+18341,38,Alba,Italy
+41283,884,Gwangju,South Korea
+41358,40,Styria,Austria
+44564,30,Charleston,United States of America
+46747,17,Sendai,Japan
+49272,30,Chandler,United States of America
+59132,148,Jiangmen,People's Republic of China
+59205,148,Heyuan,People's Republic of China
+63154,928,Tagaytay,Philippines
+63160,928,Trece Martires,Philippines
+71699,17,Aomori Prefecture,Japan
+79860,30,Huntsville,United States of America
+110403,30,Snohomish County,United States of America
+139242,96,Zacatecas,Mexico
+118958,31,Leuven,Belgium
+127513,17,Kanagawa Prefecture,Japan
+131358,17,Shiga Prefecture,Japan
+139179,774,Zacapa,Guatemala
+162442,668,Prayagraj,India
+194087,17,Hirosaki,Japan
+198525,865,Penghu County,Taiwan
+205526,17,Yamagata,Japan
+235753,17,Nikko,Japan
+249870,865,Kinmen County,Taiwan
+487786,29,Orihuela,Spain
+494715,30,Norwalk,United States of America
+496072,17,Fujinomiya,Japan
+577511,30,Carbondale,United States of America
+645747,35,Esbjerg Municipality,Denmark
+645748,183,Teterow,Germany
+672949,36,Wejherowo,Poland
+794396,30,Azusa,United States of America
+987225,30,Hanover Township,United States of America
+1021220,43,Keçiören,Turkey
+1345518,17,Minakami,Japan
+1660264,408,City of Rockingham,Australia
+1856565,258,Nelson Mandela Bay Metropolitan Municipality,South Africa
+44848112,191,Märjamaa Rural Municipality,Estonia
+16048,183,Crailsheim,Germany
+52067,38,Bucine,Italy
+52957,38,Bagnacavallo,Italy
+816,30,Arizona,United States of America
+1482,928,Cavite City,Philippines
+1645,928,Cagayan de Oro,Philippines
+135432,801,Nesher,Israel
+2770,159,Tula,Russia
+134902,145,Stoke-on-Trent,United Kingdom
+3126,183,Erlangen,Germany
+735133,33,Ikaalinen,Finland
+5906,183,Stade,Germany
+7072,183,Halberstadt,Germany
+9733,142,Noumea,France
+17189,928,Pasay,Philippines
+44811,230,Gagra,Georgia
+131301,858,Homs,Syria
+183551,27,Waterford,Republic of Ireland
+48814,221,Strumica,North Macedonia
+488779,20,Tynset,Norway
+504530,145,Walsall,United Kingdom
+515235,34,Ljusdal Municipality,Sweden
+318245,711,Choibalsan,Mongolia
+570884,148,Tongliao,People's Republic of China
+753087,142,Mauguio,France
+1003429,155,"Cruzeiro São Paulo",Brazil
+174019,142,Béziers,France
+3902,183,Viersen,Germany
+214948,28,Cegléd,Hungary
+222964,28,Pécel,Hungary
+741876,36,Piaseczno,Poland
+747362,17,Tsuru,Japan
+735563,33,Kaarina,Finland
+377834,28,Szentes,Hungary
+500186,20,Skaun Municipality,Norway
+746395,36,Góra,Poland
+503181,183,Herzberg am Harz,Germany
+735583,33,Ylivieska,Finland
+504266,34,Malung-Sälen Municipality,Sweden
+506647,35,Langeland Municipality,Denmark
+510997,35,Guldborgsund Municipality,Denmark
+515491,34,Tingsryd Municipality,Sweden
+738159,28,Dunavarsány,Hungary
+518786,183,Gemmingen,Germany
+530794,183,Sömmerda,Germany
+569929,45,Ansião,Portugal
+578434,224,Sveti Martin na Muri,Croatia
+588258,191,Palamuse Rural Municipality,Estonia
+589880,218,Pucioasa,Romania
+597513,403,Baka Topola,Serbia
+615213,189,Ólafsfjörður,Iceland
+737984,36,Przedbórz,Poland
+654019,213,PYíbor,Czech Republic
+665411,142,Leffrinckoucke,France
+670712,17,Sobetsu,Japan
+741134,734,Linden,Guyana
+714170,148,Nanchuan District,People's Republic of China
+740800,28,Paks,Hungary
+81046,31,Charleroi,Belgium
+1840,55,Veenendaal,Netherlands
+3692,851,Riyadh,Saudi Arabia
+4191,39,Lucerne,Switzerland
+22737,142,Sélestat,France
+49239,30,Toledo,United States of America
+51370,38,Manoppello,Italy
+52125,38,Casarano,Italy
+56759,928,Olongapo,Philippines
+82886,183,Schramberg,Germany
+98995,159,Volzhsky,Russia
+234281,142,Saint-Raphaël,France
+234924,142,Tarascon,France
+237206,212,Pavlohrad,Ukraine
+148947,36,Krosno OdrzaDskie,Poland
+255972,55,Eemsmond,Netherlands
+467498,218,Mangalia,Romania
+499169,30,Tyler,United States of America
+501875,183,Bremervörde,Germany
+537323,145,Loughborough,United Kingdom
+544833,183,Boxberg,Germany
+572545,183,Forst,Germany
+584474,183,Schwarzheide,Germany
+642409,142,Cran-Gevrier,France
+734315,230,Zestaponi,Georgia
+762749,96,Cuajimalpa,Mexico
+771826,403,Kovaica,Serbia
+852058,35,Helsinge Municipality,Denmark
+854940,28,Dabas,Hungary
+1099426,142,Masny,France
+1378786,30,Great Neck,United States of America
+3477098,30,Great Neck Plaza,United States of America
+163490,822,Sidon,Lebanon
+160544,41,Heraklion,Greece
+841342,77,Canelones,Uruguay
+160493,145,Inverness,United Kingdom
+2749,183,Augsburg,Germany
+835848,37,Naujoji Akmen,Lithuania
+6014,159,Barnaul,Russia
+12273,29,Gijón,Spain
+836961,36,Drezdenko,Poland
+16000,183,Winsen (Luhe),Germany
+36167,881,Hu¿,Vietnam
+42056,884,Gangneung,South Korea
+161945,29,Torrent,Spain
+44573,233,&a|-{ebbu!,Malta
+51835,38,Monopoli,Italy
+125378,148,Pudong,People's Republic of China
+1511713,36,Go[cino,Poland
+1887662,189,Siglufjörður,Iceland
+511426,34,Vänersborg Municipality,Sweden
+1679567,33,Jakobstad,Finland
+511949,35,Rudersdal Municipality,Denmark
+1646181,145,Worcester,United Kingdom
+641607,142,Le Vésinet,France
+1736959,801,Katzrin,Israel
+682544,213,Mikulov,Czech Republic
+1901003,217,Dondueni,Moldova
+1799019,96,La Piedad,Mexico
+837129,30,Woodland,United States of America
+1406641,36,Kazimierza Wielka,Poland
+849109,212,Buchach,Ukraine
+1712242,750,Charagua,Bolivia
+987383,29,Alboraia,Spain
+1444575,754,Chaguanas,Trinidad and Tobago
+1001267,30,Lauderhill,United States of America
+1906235,36,Aomianki,Poland
+1025765,142,Noyelles-lès-Vermelles,France
+1417212,43,Finike,Turkey
+1068701,28,Budapest District II,Hungary
+1130264,34,Eslöv Municipality,Sweden
+1814658,801,Or Akiva,Israel
+1141853,217,Hînceti,Moldova
+2652942,219,Gabrovo Municipality,Bulgaria
+3100850,1028,Zug,Morocco
+552390,183,Wittingen,Germany
+109499,20,Kongsvinger Municipality,Norway
+111150,38,Casalgrande,Italy
+134181,159,Vyshny Volochyok,Russia
+503108,35,Skive Municipality,Denmark
+503180,34,Finspång Municipality,Sweden
+504681,211,Koknese,Latvia
+511365,34,Arvika Municipality,Sweden
+515822,183,Sittensen,Germany
+526337,183,Bismark,Germany
+527669,191,Saku Rural Municipality,Estonia
+1025309,36,GBogów MaBopolski,Poland
+1025302,36,Jelcz-Laskowice,Poland
+558498,183,Gudensberg,Germany
+2019719,217,Cimilia,Moldova
+1641529,29,Mora,Spain
+1643855,29,Monroy,Spain
+1789604,213,Krnov,Czech Republic
+2353986,213,Rusín,Czech Republic
+202560,142,Carpentras,France
+207275,191,Keila,Estonia
+332495,183,Überherrn,Germany
+461287,36,OstroBka,Poland
+486991,183,Aschersleben,Germany
+488659,30,Montgomery County,United States of America
+500147,183,Korbach,Germany
+507967,183,Bad Sülze,Germany
+996748,43,Aliaa,Turkey
+206760,229,Kyrenia,Cyprus
+1562333,43,Güzelbahçe,Turkey
+1827286,96,Zapotlán El Grande Municipality,Mexico
+81756,183,Wilthen,Germany
+1094110,145,Carlisle,United Kingdom
+1549155,145,Thurrock,United Kingdom
+2608258,35,Vordingborg,Denmark
+7715809,35,Thisted Municipality,Denmark
+521148,183,Boppard,Germany
+606268,408,Port Lincoln,Australia
+2469641,212,Manevychi Raion,Ukraine
+1533546,189,Norðurþing,Iceland
+31820343,30,Fountain Hills,United States of America
+5066297,218,Miroslava,Romania
+1757609,811,Rivas,Nicaragua
+6842,183,Kleve,Germany
+7021,183,Bünde,Germany
+1540219,965,Gourcy,Burkina Faso
+9000,38,Alpignano,Italy
+9398,38,Grugliasco,Italy
+1897640,36,ZwoleD,Poland
+14169,252,Singkawang,Indonesia
+15337,159,Tosno,Russia
+1641083,408,Murray Bridge,Australia
+1785340,96,Lázaro Cárdenas,Mexico
+1798559,96,Tonalá,Mexico
+23008,183,Mosbach,Germany
+1866604,953,Livingstone,Zambia
+1735037,33,Kaskinen,Finland
+29963,34,Hudiksvall Municipality,Sweden
+1663450,408,Portland,Australia
+43684,148,Henan,People's Republic of China
+49179,30,Worcester,United States of America
+56869,20,Asker,Norway
+1756745,414,Villa Mercedes,Argentina
+81085,38,Montesano sulla Marcellana,Italy
+81220,55,Goes,Netherlands
+83324,218,Sibiu,Romania
+107582,211,Csis,Latvia
+1906256,36,Opole Lubelskie,Poland
+130840,258,Eastern Cape,South Africa
+145835,34,Söderhamn Municipality,Sweden
+1635606,1028,Temara,Morocco
+186142,189,Garðabær,Iceland
+188813,218,Maramure County,Romania
+1978865,30,Columbia Heights,United States of America
+2475182,801,Pardes Hanna-Karkur,Israel
+5567,183,Halver,Germany
+2088349,262,Aïn Beïda,Algeria
+6839,29,Figueres,Spain
+2566827,962,Dogbo-Tota,Benin
+2549060,983,Cogo,Equatorial Guinea
+2520086,414,Laboulaye,Argentina
+19210,38,Caraglio,Italy
+2006112,217,Drochia,Moldova
+19313,184,Barysaw,Belarus
+40608,145,London Borough of Waltham Forest,United Kingdom
+51462,38,Pineto,Italy
+2078085,217,Fleti,Moldova
+72380,159,Kurchatov,Russia
+2668534,965,Garango,Burkina Faso
+83225,183,Ladenburg,Germany
+2338831,41,Pefki,Greece
+128081,38,Cori,Italy
+2006102,217,Streni,Moldova
+147741,212,Hertsa,Ukraine
+2139799,223,Tasiilaq,Greenland
+2292517,262,Skikda,Algeria
+2006121,217,Taraclia,Moldova
+178385,219,Sliven,Bulgaria
+2292609,217,Glodeni,Moldova
+2089107,217,Nisporeni,Moldova
+181725,142,Auch,France
+2222874,924,Zanzibar City,Tanzania
+201404,218,Buzu,Romania
+2308752,1008,Touba,Ivory Coast
+2305836,408,Swan Hill,Australia
+2435966,219060,"Dura Hebron",State of Palestine
+205580,142,Palaiseau,France
+2222616,37,Telaiai,Lithuania
+210760,142,Bressuire,France
+2304483,419,Urubamba,Peru
+254001,183,Eching,Germany
+405317,219,Nova Zagora,Bulgaria
+405433,219,Aksakovo,Bulgaria
+431347,218,Rdui,Romania
+2019727,217,Briceni,Moldova
+476226,218,Moineti,Romania
+501865,183,Bassum,Germany
+1001927,33,Sastamala,Finland
+503116,35,Ringsted Municipality,Denmark
+505102,34,Ystad Municipality,Sweden
+2297162,189,Patreksfjörður,Iceland
+2114405,36,Pruchnik,Poland
+530185,183,Barby,Germany
+543436,218,Oneti,Romania
+548367,142,Chartres-de-Bretagne,France
+1002944,36,Zdzieszowice,Poland
+574170,183,Ludwigsfelde,Germany
+583542,183,Eichwalde,Germany
+592497,218,Vlenii de Munte,Romania
+1280603,36,Piwniczna-Zdrój,Poland
+596991,28,Balatongyörök,Hungary
+2523774,43,Seferihisar,Turkey
+609084,30,Morgan Hill,United States of America
+635100,191,Pihtla Rural Municipality,Estonia
+658217,224,Vidovec,Croatia
+1005384,36,WoBczyn,Poland
+664857,183,Haßloch,Germany
+1008761,36,Piaski,Poland
+889618,212,Chuhuiv,Ukraine
+911600,28,Vásárosnamény,Hungary
+1368576,1007,Mansôa,Guinea-Bissau
+853708,183,Charlottenburg borough,Germany
+169160,222,Lezhë,Albania
+3497,38,Campobasso,Italy
+857331,36,Bielawa,Poland
+4185,183,Lingen,Germany
+6961,183,Hennef,Germany
+7893,183,Waldeck-Frankenberg,Germany
+7902,183,Marburg-Biedenkopf,Germany
+864024,30,Ponce,United States of America
+170244,222,Berat,Albania
+13139,38,Fermo,Italy
+14870,183,Siegburg,Germany
+18048,38,Cavaglià,Italy
+867573,778,Freeport,The Bahamas
+855330,27,Donegal,Republic of Ireland
+39504,399,Ararat,Armenia
+868205,77,Minas,Uruguay
+41604,142,Amiens,France
+45883,212,Khotyn,Ukraine
+169224,36,Zduny,Poland
+64183,39,Küssnacht,Switzerland
+135358,159,Dmitrovsk,Russia
+138391,30,Paterson,United States of America
+149030,212,Novoselytsia,Ukraine
+152418,801,Karmiel,Israel
+157034,221,Kruaevo,North Macedonia
+167630,218,Sector 5,Romania
+170115,668,Srinagar,India
+867586,810,Salt,Jordan
+863461,929,Bimbo,Central African Republic
+192438,142,Bègles,France
+215030,145,London Borough of Lewisham,United Kingdom
+250220,837,Bharatpur,Nepal
+746041,218,Petroani,Romania
+841538,142,La Calmette,France
+985443,33,Haukipudas,Finland
+1010094,739,Ipiales,Colombia
+1046517,214,Slavec,Slovakia
+44624256,191,Jõgeva Rural Municipality,Estonia
+629471,28,Kiskunmajsa,Hungary
+740810,28,Békés,Hungary
+79322,36,Kluczbork,Poland
+793424,212,Berezhany,Ukraine
+925424,145,Christchurch,United Kingdom
+69060,148,Xining,People's Republic of China
+72248,142,Vitry-sur-Seine,France
+14634,252,Makassar,Indonesia
+50415,884,Songpa District,South Korea
+81997,142,Boulogne-sur-Mer,France
+152501,801,Kiryat Ono,Israel
+3978,183,Dormagen,Germany
+7033,183,Nordhausen,Germany
+152567,801,Kiryat Motzkin,Israel
+7047,183,Bad Kreuznach,Germany
+8572,183,Bad Kreuznach,Germany
+152462,801,Afula,Israel
+152467,801,Bnei Brak,Israel
+152473,801,Arad,Israel
+44160,142,Toulon,France
+48958,142,Neuilly,France
+49169,30,Stamford,United States of America
+152602,801,Kiryat Ata,Israel
+173591,218,Arad,Romania
+186702,30,Chattanooga,United States of America
+202362,218,Sfântu Gheorghe,Romania
+208471,148,Kaifeng,People's Republic of China
+152396,801,Dimona,Israel
+234453,30,Hollywood,United States of America
+249007,148,Wuwei,People's Republic of China
+320514,30,Lancaster,United States of America
+490058,183,Andernach,Germany
+507065,55,Smallingerland,Netherlands
+814900,801,Beit Jann,Israel
+986168,30,Cocoa,United States of America
+1088792,30,Lakewood Township,United States of America
+1687708,801,Yeruham,Israel
+2164117,414,San Isidro,Argentina
+2360337,6250,Tifariti,Western Sahara
+79863,230,Tskhinvali,Georgia
+155993,213,Kladno,Czech Republic
+157024,221,Tetovo,North Macedonia
+158106,183,Tempelhof-Schöneberg,Germany
+188806,17,Kitakyushu,Japan
+191115,38,Albano Laziale,Italy
+73022,55,Sittard,Netherlands
+209096,145,Burnley,United Kingdom
+241475,184,Lida,Belarus
+63092,29,Carmona,Spain
+241634,142,Laudun-l'Ardoise,France
+342043,30,Hampton,United States of America
+467487,17,Kurashiki,Japan
+605105,794,Khoy,Iran
+68144,39,Zug,Switzerland
+661272,40,Fürstenfeld,Austria
+750573,17,Maizuru,Japan
+168202,801,Rosh HaAyin,Israel
+167749,801,Nahariya,Israel
+168162,801,Ness Ziona,Israel
+2942,183,Solingen,Germany
+847677,1041,Kaolack,Senegal
+3367,38,Aosta,Italy
+167895,41,Kalamata,Greece
+167677,801,Yavne,Israel
+168215,801,Tirat Carmel,Israel
+7062,183,Monheim am Rhein,Germany
+7077,183,Dachau,Germany
+167839,224,akovec,Croatia
+167744,36,Gryfice,Poland
+16147,183,Güstrow,Germany
+16563,30,Memphis,United States of America
+20559,38,Spello,Italy
+23768,30,Las Vegas,United States of America
+25922,822,Amioun,Lebanon
+168193,796,Najaf,Iraq
+40325,30,Springfield,United States of America
+691504,212,Sharhorod,Ukraine
+732376,218,Sebe,Romania
+756587,218,Dorohoi,Romania
+840836,211,Brocni,Latvia
+851042,218,Hârlu,Romania
+2249997,217,Sangerei,Moldova
+899467,218,Darabani,Romania
+935834,218,Sângeorz-Bi,Romania
+974468,212,Liuboml,Ukraine
+2447267,96,Salvatierra,Mexico
+984171,30,Irwindale,United States of America
+2439514,36,Narol,Poland
+2588425,36,Rymanów,Poland
+2199004,217,Leova,Moldova
+16427855,218,Vetrioaia,Romania
+967211,23681,Lefka,Northern Cyprus
+1006772,36,Ogrodzieniec,Poland
+1241374,786,Moca,Dominican Republic
+1023951,786,Salcedo,Dominican Republic
+1258239,225,Stari Grad,Bosnia and Herzegovina
+2718745,1011,São Domingos,Cape Verde
+3098785,96,San Martín de Hidalgo,Mexico
+990738,736,Manta,Ecuador
+988485,36,Prochowice,Poland
+968,183,Warburg,Germany
+995429,36,Brzeg Dolny,Poland
+989492,96,Córdoba,Mexico
+991022,36,Bystrzyca KBodzka,Poland
+994351,414,Río Tercero,Argentina
+994585,36,Skwierzyna,Poland
+9300,183,Bernau bei Berlin,Germany
+995413,945,Kpalimé,Togo
+9729,142,Maré,France
+9845,55,Heusden,Netherlands
+126995,148,Weinan,People's Republic of China
+146510,212,Rakhiv,Ukraine
+621925,965,Tenkodogo,Burkina Faso
+194138,142,Chinon,France
+384934,17,Ofunato,Japan
+512009,29,San Sebastián de La Gomera,Spain
+617624,218,Râmnicu Srat,Romania
+1150271,217,Edine,Moldova
+1377849,142,Soyaux,France
+2450716,217,Scoreni,Moldova
+2633533,30,Ramapo,United States of America
+167617,801,Rahat,Israel
+52983,38,Lugo,Italy
+94477,142,Maurepas,France
+99151,29,Ourense,Spain
+845720,241,Sancti Spíritus,Cuba
+111218,38,Novellara,Italy
+135265,142,Issy-les-Moulineaux,France
+172593,142,Montauban,France
+187893,298,San Pedro de Atacama,Chile
+200950,184,Kapy:,Belarus
+205551,142,Mérignac,France
+167731,36,Zawadzkie,Poland
+234728,142,Vanves,France
+236658,142,La Garenne-Colombes,France
+259203,142,Le Raincy,France
+268485,183,Sulingen,Germany
+270656,36,PBoDsk,Poland
+273114,224,Po~ega,Croatia
+334301,142,Berck,France
+450726,183,Alzey,Germany
+498545,183,Meldorf,Germany
+516707,183,Uebigau-Wahrenbrück,Germany
+844878,1044,Bo,Sierra Leone
+621549,30,Inglewood,United States of America
+655572,142,Le Grand-Quevilly,France
+706161,148,Cixi City,People's Republic of China
+721198,794,Najafabad,Iran
+824100,30,Delray Beach,United States of America
+988179,36,Gryfów Zlski,Poland
+168225,219060,Hebron,State of Palestine
+1141332,142,Saint-Pierre-des-Corps,France
+2598,145,Watford,United Kingdom
+170525,1028,Agadir,Morocco
+11585,218,Tulcea,Romania
+84125,55,Gouda,Netherlands
+132806,159,Bögelmä,Russia
+275904,218,Flmânzi,Romania
+276117,218,Dolhasca,Romania
+462804,30,Lakewood,United States of America
+492297,212,Yampil,Ukraine
+501621,183,Bad Iburg,Germany
+168902,36,Zbszynek,Poland
+574791,183,Peitz,Germany
+758578,211,Auce,Latvia
+805554,212,Balta,Ukraine
+913243,30,Mankato,United States of America
+864100,1030,Katima Mulilo,Namibia
+997421,212,Vasylkiv,Ukraine
+182009,43,Tekirda,Turkey
+3923,183,Bayreuth,Germany
+7951,159,Petropavlovsk-Kamchatsky,Russia
+14925,183,Mühlhausen,Germany
+16565,30,Charlotte,United States of America
+42154,884,Pyeongtaek,South Korea
+160642,145,Salisbury,United Kingdom
+179454,159,Pitkyaranta,Russia
+183405,1028,Safi,Morocco
+188155,794,Gorgan,Iran
+189952,191,Lääne-Viru County,Estonia
+840712,419,Ica,Peru
+221119,20,Bodø Municipality,Norway
+246884,145,Lewes,United Kingdom
+291333,211,Alkksne,Latvia
+320729,30,Pocatello,United States of America
+473209,16,Kamloops,Canada
+505433,183,Waldshut-Tiengen,Germany
+522165,183,Wörth am Rhein,Germany
+835843,37,Varna,Lithuania
+755566,30,Salisbury,United States of America
+794128,1028,Azrou,Morocco
+829711,142,Saint-Valery-en-Caux,France
+49193,30,Brockton,United States of America
+51288,38,San Salvo,Italy
+129649,43,0zmit,Turkey
+132754,796,Erbil,Iraq
+82500,40,St. Pölten,Austria
+95094,38,Cento,Italy
+1030184,30,Concord,United States of America
+1066223,142,Andrézieux-Bouthéon,France
+2667061,801,Daliyat al-Karmel,Israel
+849934,33,Heinola,Finland
+853258,96,Puerto Vallarta,Mexico
+852363,36,Wolsztyn,Poland
+584815,183,Lübben (Spreewald),Germany
+849524,262,Mostaganem,Algeria
+1166602,142,Domont,France
+6850,183,Peine,Germany
+849292,733,Pedro Juan Caballero,Paraguay
+321074,214,Pieaeany,Slovakia
+852238,1033,Onitsha,Nigeria
+186349,218,Târgu Mure,Romania
+204245,96,Cuernavaca,Mexico
+271090,142,Hirson,France
+472922,142,Saint-Junien,France
+491239,30,Canton,United States of America
+494295,30,Owensboro,United States of America
+505447,183,Waldkirch,Germany
+576636,96,Huamantla,Mexico
+643394,794,Bandar Torkaman,Iran
+648466,17,Onjuku,Japan
+672483,29,Ordizia,Spain
+888954,96,"Boca del Río Veracruz",Mexico
+1452663,29,Monterrei,Spain
+1639488,786,Sosúa,Dominican Republic
+1921334,96,Teocaltiche,Mexico
+172343,219060,Rafah,State of Palestine
+15470,29,L'Hospitalet de Llobregat,Spain
+59670,30,Columbia,United States of America
+69354,39,Montreux,Switzerland
+193050,28,Érd,Hungary
+203344,28,Baja,Hungary
+205607,28,Zirc,Hungary
+242191,142,Montereau-Fault-Yonne,France
+486341,40,Kufstein,Austria
+623099,218,Odorheiu Secuiesc,Romania
+646393,214,Dunajská Streda,Slovakia
+740845,45,Olhão,Portugal
+856309,403,Kanji~a,Serbia
+170313,258,Mbombela,South Africa
+990403,45,Maia,Portugal
+1001626,16,North Vancouver,Canada
+471886,801,Hadera,Israel
+464699,115,Bahir Dar,Ethiopia
+19278,38,Bitonto,Italy
+460697,965,Koudougou,Burkina Faso
+20579,38,Todi,Italy
+134674,142,Bayonne,France
+156713,212,Zhytomyr,Ukraine
+204475,403,Sombor,Serbia
+173731,889,Ghazni,Afghanistan
+491114,30,Hayward,United States of America
+785258,403,Mali Ioa,Serbia
+938548,43,Tuzla,Turkey
+1001742,30,Holland,United States of America
+174916,858,Tartus,Syria
+835856,37,Kuranai,Lithuania
+844784,145,Vale of Glamorgan,United Kingdom
+995005,408,Narrogin,Australia
+997029,217,Criuleni,Moldova
+1026487,233,G'arb,Malta
+1632577,29,Benalup-Casas Viejas,Spain
+2028813,30,Salisbury,United States of America
+2708692,217,Durleti,Moldova
+624236,218,Blaj,Romania
+626840,221,Arainovo,North Macedonia
+2990706,221,Karbinci,North Macedonia
+2334435,30,Willits,United States of America
+3768,1008,Yamoussoukro,Ivory Coast
+1001440,790,Pétion-Ville,Haiti
+13619,38,Cosenza,Italy
+15093,29,Ciudad Real,Spain
+988602,36,MoryD,Poland
+988651,36,PasBk,Poland
+16073,183,Itzehoe,Germany
+991998,36,Libi|,Poland
+20421,38,Corciano,Italy
+986984,36,Prudnik,Poland
+20518,38,San Giustino,Italy
+994271,36,Opoczno,Poland
+27907,214,Byta,Slovakia
+995718,717,San Carlos,Venezuela
+988574,36,Paczków,Poland
+47244,183,Einbeck,Germany
+995877,36,MiBomByn,Poland
+50877,183,Klötze,Germany
+988593,36,Karlino,Poland
+50959,183,Dargun,Germany
+990569,33,Kankaanpää,Finland
+62469,34,Bollnäs Municipality,Sweden
+81717,183,Bischofswerda,Germany
+109042,20,Halden Municipality,Norway
+995727,750,Sacaba,Bolivia
+145621,159,Kashin,Russia
+156820,212,Nadvirna,Ukraine
+987786,36,Skoczów,Poland
+989427,36,Nowogard,Poland
+205765,212,Dubrovytsia,Ukraine
+999598,36,Szubin,Poland
+275909,55,Aalten,Netherlands
+1001496,36,Jeziorany,Poland
+314658,183,Neuenkirchen,Germany
+988225,96,Tapachula de Córdova y Ordóñez,Mexico
+375875,183,Biblis,Germany
+990837,36,Debrzno,Poland
+387346,183,Weinbach,Germany
+455645,142,Ensisheim,France
+989561,36,Kalisz Pomorski,Poland
+492390,183,Kaltenkirchen,Germany
+492543,183,Wolgast,Germany
+1000438,36,Szczawnica,Poland
+498575,183,Northeim,Germany
+498582,183,Gützkow,Germany
+501452,34,Skövde Municipality,Sweden
+502855,183,Werneuchen,Germany
+987471,36,Bytom OdrzaDski,Poland
+505185,183,Pößneck,Germany
+990188,36,Jaworzyna Zlska,Poland
+513303,183,Pfeffenhausen,Germany
+995839,36,Midzylesie,Poland
+539693,183,Lohne,Germany
+989863,36,Tolkmicko,Poland
+543583,183,Betzdorf,Germany
+1001200,36,Prószków,Poland
+569692,183,Hünfeld,Germany
+571970,183,Torgelow,Germany
+988644,36,Mieszkowice,Poland
+588598,183,Wriezen,Germany
+995159,36,Ciechanowiec,Poland
+621237,183,Rosbach vor der Höhe,Germany
+670129,142,La Couronne,France
+156974,213,Ústí nad Labem,Czech Republic
+156858,221,Struga,North Macedonia
+49178,30,Waterbury,United States of America
+214913,739,Leticia,Colombia
+243172,38,Pomezia,Italy
+259662,183,Affing,Germany
+264665,40,Kitzbühel,Austria
+387630,142,Sevran,France
+491743,183,Dinkelsbühl,Germany
+504227,34,Svalöv Municipality,Sweden
+193787,37,Taurag,Lithuania
+569656,183,Riedstadt,Germany
+637913,17,Togane,Japan
+194452,813,Karakol,Kyrgyzstan
+648501,30,Asheville,United States of America
+673783,183,Wiek,Germany
+199970,36,Jastrowie,Poland
+693942,183,Steinfeld,Germany
+834567,28,Bonyhád,Hungary
+844012,30,Lynchburg,United States of America
+993014,191,Viimsi Rural Municipality,Estonia
+1012774,403,Gua,Serbia
+3774,298,Chillán,Chile
+4035,155,Osasco,Brazil
+5647,159,Sovetsk,Russia
+193409,41,Tripoli,Greece
+194146,43,Nide,Turkey
+6954,183,Melle,Germany
+12435,30,Hancock,United States of America
+15688,29,Ávila,Spain
+27263,948,Le Bardo,Tunisia
+36378,39,Fribourg,Switzerland
+39785,183,Bad Soden am Taunus,Germany
+194164,222,Krujë,Albania
+52080,38,Cortona,Italy
+104036,211,Ventspils,Latvia
+113730,34,Tyresö Municipality,Sweden
+124799,191,Paikuse Rural Municipality,Estonia
+161887,36,KamieD Pomorski,Poland
+162413,1016,Sirte,Libya
+199909,796,Karbala,Iraq
+185345,230,Poti,Georgia
+173695,142,Épinal,France
+158079,221,Kievo,North Macedonia
+158006,36,Jaworzno,Poland
+193082,219,Svishtov,Bulgaria
+207406,28,Mosonmagyaróvár,Hungary
+157058,221,Gostivar,North Macedonia
+376141,145,Halton,United Kingdom
+396512,224,Petrinja,Croatia
+457334,16,Moncton,Canada
+113718,34,Botkyrka Municipality,Sweden
+117563,36,Gi|ycko County,Poland
+131416,159,Derbent,Russia
+142410,142,Dreux,France
+459600,408,Wagga Wagga,Australia
+387447,142,Vélizy-Villacoublay,France
+405120,219,Kavarna,Bulgaria
+456577,1029,Inhambane,Mozambique
+502199,17,Hiratsuka,Japan
+552495,183,Melsungen,Germany
+585963,145,Evesham,United Kingdom
+461307,843,Muzaffarabad,Pakistan
+671288,30,Bend,United States of America
+721928,36,JarosBaw,Poland
+789233,28,Balassagyarmat,Hungary
+460971,36,Biecz,Poland
+842912,28,Budakeszi,Hungary
+844908,145,Crawley,United Kingdom
+954569,213,Vyakov,Czech Republic
+1025249,214,Raa,Slovakia
+1762867,30,Leavenworth,United States of America
+1892063,211,Amata Municipality,Latvia
+12716720,20,Mandal,Norway
+988,55,Almelo,Netherlands
+184046,225,Zenica,Bosnia and Herzegovina
+185066,142,Cholet,France
+49258,30,Colorado Springs,United States of America
+50178,928,Cauayan,Philippines
+50180,928,Santiago,Philippines
+59100,148,Shantou,People's Republic of China
+62367,399,Ijevan,Armenia
+153698,159,Klin,Russia
+163966,183,Mitte,Germany
+200905,184,}odzina,Belarus
+219656,30,Macon,United States of America
+220145,31,Mouscron,Belgium
+431973,38,Montevago,Italy
+912224,218,Techirghiol,Romania
+984358,30,Lake Worth Beach,United States of America
+2045200,184,Partyzanski District,Belarus
+3136314,221,Topolani,North Macedonia
+78,39,Basel,Switzerland
+83317,796,Mosul,Iraq
+82030,29,Villarrobledo,Spain
+10863,29,Picassent,Spain
+11854,668,Rajkot,India
+42150,884,Taebaek,South Korea
+64099,39,Brugg,Switzerland
+72221,38,Marano di Napoli,Italy
+109336,423,Chongjin,North Korea
+131128,40,Braunau am Inn,Austria
+253236,183,Simbach am Inn,Germany
+581121,811,El Castillo,Nicaragua
+860304,1008,Daloa,Ivory Coast
+926713,155,Parintins,Brazil
+669593,142,Leuville-sur-Orge,France
+755149,30,Bristol,United States of America
+1053472,142,Cenon,France
+3233176,1029,Namaacha,Mozambique
+861208,45,Santa Comba Dão,Portugal
+3233968,1041,Linguère,Senegal
+1336775,142,Pont-Sainte-Maxence,France
+2542169,229,Aglantzia,Cyprus
+842984,28,Harkány,Hungary
+882128,213,Blatno,Czech Republic
+990651,36,Kozienice,Poland
+890949,213,Bohumín,Czech Republic
+927974,30,Bronson,United States of America
+992910,36,Sobótka,Poland
+1021455,142,Gauchy,France
+1321460,213,Králíky,Czech Republic
+991310,16,Timmins,Canada
+1350060,17,Naoshima,Japan
+989498,36,NiepoBomice,Poland
+1423260,142,Saint-Jean-de-la-Ruelle,France
+988658,36,PoBaniec,Poland
+1727945,41,Vonitsa,Greece
+1292592,145,Elmbridge,United Kingdom
+2651278,96,Comonfort,Mexico
+2078535,145,Chorley,United Kingdom
+18207676,424,Sihanoukville,Cambodia
+12884189,1037,Ruhango,Rwanda
+7052,183,Landau in der Pfalz,Germany
+12825018,804,Colón City,Panama
+13957085,1011,São Filipe,Cape Verde
+826511,45,Montijo,Portugal
+850855,45,Palmela,Portugal
+2507175,30,Mandeville,United States of America
+184864,41,Megara,Greece
+182923,145,Stirling,United Kingdom
+593529,30,LaGrange,United States of America
+646725,29,Dénia,Spain
+865652,35,Birkerød Municipality,Denmark
+988280,33,Sysmä,Finland
+1001104,232,Temirtau,Kazakhstan
+1470564,142,Montereau,France
+3827305,792,Las Vueltas,El Salvador
+427488,148,Dazhou,People's Republic of China
+485716,30,Glendale,United States of America
+154897,35,Aabenraa,Denmark
+504219,34,Trelleborg Municipality,Sweden
+515983,148,Shangluo,People's Republic of China
+551658,45,Vila Nova de Famalicão,Portugal
+688611,29,Oleiros,Spain
+784229,28,Szigethalom,Hungary
+856488,142,Calonne-Ricouart,France
+1086053,30,Garfield,United States of America
+1025830,811,Ocotal,Nicaragua
+1046653,1028,Khemisset,Morocco
+3113,142,Allier,France
+165066,36,Szprotawa,Poland
+11331,183,Gevelsberg,Germany
+183303,889,Jalalabad,Afghanistan
+17139,17,Akita,Japan
+27892,37,Neringa,Lithuania
+28001,183,Leck,Germany
+183298,1033,Ibadan,Nigeria
+185336,230,Zugdidi,Georgia
+55113,38,Serino,Italy
+183104,40,Feldkirch,Austria
+82858,183,Sigmaringen,Germany
+88806,20,Bykle,Norway
+145292,218,Zalu,Romania
+149596,212,Mena,Ukraine
+183651,43,Tokat,Turkey
+185346,43,Ceyhan,Turkey
+185518,836,Mandalay,Myanmar
+191914,17,Hachinohe,Japan
+194005,38,Augusta,Italy
+215719,218,Hunedoara,Romania
+273922,142,Saint-Herblain,France
+275375,142,Combs-la-Ville,France
+386661,17,Fujisawa,Japan
+397343,145,Solihull,United Kingdom
+188304,145,Sunderland,United Kingdom
+187346,262,Constantine,Algeria
+188336,801,Safed,Israel
+189134,43,U_ak,Turkey
+165285,33,Huittinen,Finland
+1113311,843,Peshawar,Pakistan
+40623,183,Quedlinburg,Germany
+1035471,419,Caraz,Peru
+164954,221,Negotino,North Macedonia
+52161,38,Minervino di Lecce,Italy
+58650,148,Zhangjiakou,People's Republic of China
+165140,183,Herrnhut,Germany
+81572,183,Bad Boll,Germany
+1100543,1006,Dabola,Guinea
+1026291,813,Kant,Kyrgyzstan
+141980,16,Shawinigan,Canada
+198826,159,Yuryev-Polsky,Russia
+1027142,36,Pelplin,Poland
+512595,35,Ikast-Brande Municipality,Denmark
+164241,36,JasieD,Poland
+544801,183,Döbern,Germany
+556091,183,Tarp,Germany
+572559,183,Spremberg,Germany
+851041,30,Glendora,United States of America
+852591,30,Panama City,United States of America
+889588,212,Podilsk,Ukraine
+951897,739,Chiquinquirá,Colombia
+988283,30,Longmont,United States of America
+1003551,792,Nejapa,El Salvador
+1442335,739,Manzanares,Colombia
+2466669,96,Iguala de la Independencia,Mexico
+3313109,1028,Mijek,Morocco
+6982219,20,Odda,Norway
+20119933,96,Cozumel Island,Mexico
+187895,43,Zonguldak,Turkey
+6938,183,Hof,Germany
+42108,884,Seongnam,South Korea
+188894,43,Kütahya,Turkey
+49219,30,Irvine,United States of America
+49273,30,Lubbock,United States of America
+189383,79,Damietta,Egypt
+59144,148,Zhanjiang,People's Republic of China
+104345,159,Bawl1,Russia
+128130,38,Pontinia,Italy
+156732,212,Kherson,Ukraine
+189059,41,Mytilene,Greece
+225515,29,Cangues d'Onís,Spain
+360374,148,Anqing,People's Republic of China
+374511,17,Oyama,Japan
+430464,30,Dearborn,United States of America
+505208,1028,Ouarzazate,Morocco
+520011,183,Bersenbrück,Germany
+571998,183,Gartz (Oder),Germany
+189273,36,Zelów,Poland
+572280,183,Neuenhaus,Germany
+639014,43,Kartal,Turkey
+750594,45,Guarda,Portugal
+773312,213,TYeboH,Czech Republic
+788634,43,Bahçelievler,Turkey
+2975,183,Ostholstein,Germany
+15322,159,Luga,Russia
+190021,408,Townsville,Australia
+28520,142,Abbeville,France
+36526,691,Port Moresby,Papua New Guinea
+190005,241,Cienfuegos,Cuba
+189715,142,Courbevoie,France
+72946,31,Forest,Belgium
+82838,183,Freudenstadt,Germany
+241733,38,Ardea,Italy
+274384,17,Iwaki,Japan
+643929,17,Shknan,Japan
+1015805,148,Changshu,People's Republic of China
+4068849,45,Argoncilhe,Portugal
+5383505,229,Episkopi,Cyprus
+1171,668,Goa,India
+172157,145,Winchester,United Kingdom
+3905,183,Gladbeck,Germany
+171219,40,Dornbirn,Austria
+26040,34,Borås,Sweden
+28587,794,Hamadan,Iran
+158083,183,Spandau,Germany
+191106,191,Haapsalu,Estonia
+81656,414,Esquel,Argentina
+213154,145,Aberystwyth,United Kingdom
+254107,40,Imst,Austria
+376233,218,Scueni,Romania
+444210,30,Altoona,United States of America
+504239,34,Mora Municipality,Sweden
+83786,668,Shimla,India
+605142,794,Dezful,Iran
+744948,30,New Rochelle,United States of America
+5815,159,Tyumen,Russia
+6230,183,Lippe,Germany
+6606,38,Pordenone,Italy
+17768,38,Canelli,Italy
+27469,851,Sakakah,Saudi Arabia
+50619,20,Vestfold,Norway
+53946,38,Rende,Italy
+3366952,20,Alta,Norway
+103661,159,Apatity,Russia
+164193,212,Lviv Oblast,Ukraine
+3619316,35,Grenå,Denmark
+241855,38,Storo,Italy
+3547421,35,Faaborg,Denmark
+516567,183,Kappeln,Germany
+749180,45,Silves,Portugal
+3890,183,Rheine,Germany
+4105,183,Meerbusch,Germany
+9997,55,Borne,Netherlands
+14484,298,Las Condes,Chile
+15775,159,Gelendzhik,Russia
+191204,796,Sulaymaniyah,Iraq
+21006,35,Glostrup Municipality,Denmark
+190897,222,Fier,Albania
+51372,38,Montesilvano,Italy
+111169,38,Cavriago,Italy
+141810,16,Laval,Canada
+155108,159,Kondopoga,Russia
+157341,145,King's Lynn,United Kingdom
+191415,142,Asnières-sur-Seine,France
+182614,218,Braov County,Romania
+207748,191,Sillamäe,Estonia
+211600,230,Ochamchire,Georgia
+193180,33,Kajaani,Finland
+7050,183,Weinheim,Germany
+7894,183,Schwalm-Eder-Kreis,Germany
+7911,183,Main-Kinzig-Kreis,Germany
+192378,142,Champigny-sur-Marne,France
+12443,30,Marquette,United States of America
+12992,31,Oudenaarde,Belgium
+37718,145,Musselburgh,United Kingdom
+55416,38,Chioggia,Italy
+151048,145,London Borough of Barnet,United Kingdom
+216430,20,Levanger Municipality,Norway
+277627,38,Guglionesi,Italy
+848999,36,Szczecinek,Poland
+932886,43,Kad1köy,Turkey
+999923,45,Alpiarça,Portugal
+2151584,30,Sunny Isles Beach,United States of America
+2566267,419,San Borja,Peru
+10737004,218,Bacu,Romania
+189692,31,Genk,Belgium
+197379,148,Zhangjiajie,People's Republic of China
+272681,43,Çatalca,Turkey
+466054,948,Mahdia,Tunisia
+493794,30,Dubuque,United States of America
+500260,36,WodzisBaw Zlski,Poland
+520405,211,Talsi,Latvia
+526335,28,Keszthely,Hungary
+826566,739,Riohacha,Colombia
+947521,36,Gorlice,Poland
+1017982,218,Geoagiu,Romania
+2280536,717,Municipio Girardot,Venezuela
+3623602,159,"Dergachi Saratov Oblast",Russia
+52133,38,Copertino,Italy
+151958,148,Yueyang,People's Republic of China
+389495,17,Toyokawa,Japan
+954114,184,Hlybokaje,Belarus
+1351153,17,Minami,Japan
+2277469,211,Prei<i Municipality,Latvia
+2672826,43,Buca,Turkey
+81621,142,Fort-de-France,France
+107501,142,Sarcelles,France
+170478,145,Bournemouth,United Kingdom
+683165,213,Podbrady,Czech Republic
+349503,229,Lakatamia,Cyprus
+416669,148,Yiyang,People's Republic of China
+489929,38,Avola,Italy
+502298,34,Landskrona Municipality,Sweden
+525493,183,Dieburg,Germany
+659424,214,Pezinok,Slovakia
